@@ -22,6 +22,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **Startup Stash** | A massive curated directory of tools and resources for startups and entrepreneurs. | [Submit Here](https://startupstash.com/add-listing/) |
 | **PitchWall** | A platform for finding early adopters and pitching early-stage SaaS projects. | [Submit Here](https://pitchwall.co/submit) |
 | **SaaS Mantra** | A platform bridging SaaS founders with a community of early adopters via lifetime deals. | [Submit Here](https://launch-mantra.paperform.co/) |
+| **StartupBase** | A community for makers and early adopters to connect and discuss the latest products. | [Submit Here](https://startupbase.io/submit) |
 
 ## 🤝 How to Contribute
 
