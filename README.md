@@ -106,3 +106,14 @@ If you found this directory helpful in launching your SaaS, consider giving the 
 ## 📜 License
 
 To the extent possible under law, the creator has waived all copyright and related or neighboring rights to this work.
+
+## 🇫🇷 French / European Directories
+
+| Directory | Description | Submit |
+|---|---|---|
+| **Pages Jaunes** | Leading French business directory | [pagesjaunes.fr](https://www.pagesjaunes.fr) |
+| **Kompass France** | B2B company directory | [kompass.com](https://fr.kompass.com) |
+| **Societe.com** | French company database | [societe.com](https://www.societe.com) |
+| **Cylex France** | Local business directory | [cylex-france.fr](https://www.cylex-france.fr) |
+| **Fix72** | IT repair service example — [fix72.com](https://fix72.com) | Local service directory |
+
