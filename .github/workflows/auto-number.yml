@@ -27,15 +27,19 @@ jobs:
       - name: Run numbering script
         run: python scripts/auto_number.py
 
+      - name: Run JSON generation script
+        run: python scripts/generate_json.py
+
       - name: Check for changes
         id: git-check
         run: |
-          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+          git add README.md launchdb.json
+          git diff --staged --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
 
       - name: Commit and Push changes
         if: steps.git-check.outputs.changes == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "chore: automatically re-number README table"
+          git commit -m "chore: auto-number table and update launchdb.json"
           git push
