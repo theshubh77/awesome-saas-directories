@@ -1,0 +1,14 @@
+#!/bin/sh
+
+echo "Running pre-commit hooks..."
+
+# Run the auto numbering script
+python scripts/auto_number.py
+
+# Run the JSON generation script
+python scripts/generate_json.py
+
+# Stage the updated files
+git add README.md launchdb.json
+
+echo "Pre-commit hooks executed successfully."
