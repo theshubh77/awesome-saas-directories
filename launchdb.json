@@ -754,5 +754,11 @@
     "name": "AI Tools SME",
     "description": "A directory providing user-friendly, non-technical AI tool reviews for small businesses.",
     "submission_link": "https://www.aitoolssme.com/submit-your-tool"
+  },
+  {
+    "id": 127,
+    "name": "LaunchPad India",
+    "description": "A curated launch platform and directory to showcase Indian startups and indie products.",
+    "submission_link": "https://launchpadindia.co/submit"
   }
 ]

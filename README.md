@@ -149,6 +149,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 124 | **SaaS AI Tools** | A curated directory for discovering and listing AI-powered SaaS solutions and tools. | [Submit Here](https://saasaitools.com/submit/) |
 | 125 | **Find Your SaaS** | A curated SaaS directory for discovering and listing SaaS solutions and tools. | [Submit Here](https://www.findyoursaas.com/onboard) |
 | 126 | **AI Tools SME** | A directory providing user-friendly, non-technical AI tool reviews for small businesses. | [Submit Here](https://www.aitoolssme.com/submit-your-tool) |
+| 127 | **LaunchPad India** | A curated launch platform and directory to showcase Indian startups and indie products. | [Submit Here](https://launchpadindia.co/submit) |
 
 ## 🤝 How to Contribute
 
