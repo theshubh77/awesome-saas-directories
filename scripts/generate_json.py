@@ -1,6 +1,7 @@
 import re
 import os
 import json
+from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
 
 def generate_json(readme_path, json_path):
     with open(readme_path, 'r', encoding='utf-8') as f:
@@ -35,6 +36,16 @@ def generate_json(readme_path, json_path):
             # Extract URL from markdown link format [text](url)
             url_match = re.search(r'\]\((.*?)\)', link_col)
             url = url_match.group(1).strip() if url_match else link_col
+            
+            # Remove utm_source query parameter if present (only keep it in README.md)
+            try:
+                parsed = urlparse(url)
+                qsl = [(k, v) for k, v in parse_qsl(parsed.query) if k != 'utm_source']
+                new_query = urlencode(qsl)
+                parsed = parsed._replace(query=new_query)
+                url = urlunparse(parsed)
+            except Exception as e:
+                print(f"Error removing UTM from URL {url}: {e}")
             
             # Extract serial number/id
             try:

@@ -5,6 +5,9 @@ echo "Running pre-commit hooks..."
 # Run the auto numbering script
 python scripts/auto_number.py
 
+# Add UTM parameters if missing
+python scripts/add_utm.py
+
 # Run the JSON generation script
 python scripts/generate_json.py
 

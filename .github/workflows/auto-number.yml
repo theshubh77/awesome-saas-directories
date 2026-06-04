@@ -27,6 +27,9 @@ jobs:
       - name: Run numbering script
         run: python scripts/auto_number.py
 
+      - name: Run UTM parameters script
+        run: python scripts/add_utm.py
+
       - name: Run JSON generation script
         run: python scripts/generate_json.py
 
