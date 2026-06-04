@@ -3,7 +3,7 @@ import os
 from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
 from generate_json import generate_json
 
-def add_utm_to_url(url, utm_source="launchdb.pages.dev"):
+def add_utm_to_url(url, utm_source="launchdb.vercel.app"):
     if not url or not url.startswith('http'):
         return url
         
