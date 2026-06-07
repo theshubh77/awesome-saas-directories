@@ -778,5 +778,11 @@
     "name": "fb/SaaS Founder Group",
     "description": "A Facebook group for SaaS founders to network, share strategies, and discuss product growth.",
     "submission_link": "https://www.facebook.com/groups/saasfoundergroup/"
+  },
+  {
+    "id": 131,
+    "name": "fb/SaaS Marketing Group",
+    "description": "A Facebook group for SaaS founders and marketers to discuss marketing strategies, growth hacks, and user acquisition.",
+    "submission_link": "https://www.facebook.com/groups/4098505490210812"
   }
 ]

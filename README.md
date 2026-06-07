@@ -153,6 +153,8 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 128 | **AITopTools** | A directory to discover, compare, and submit top AI tools and applications. | [Submit Here](https://aitoptools.com/account/submit-tool/?utm_source=launchdb.vercel.app) |
 | 129 | **Builders.to** | A place for founders to share projects, get feedback, and find first users. | [Submit Here](https://builders.to/projects/new?utm_source=launchdb.vercel.app) |
 | 130 | **fb/SaaS Founder Group** | A Facebook group for SaaS founders to network, share strategies, and discuss product growth. | [Submit Here](https://www.facebook.com/groups/saasfoundergroup/?utm_source=launchdb.vercel.app) |
+| 131 | **fb/SaaS Marketing Group** | A Facebook group for SaaS founders and marketers to discuss marketing strategies, growth hacks, and user acquisition. | [Submit Here](https://www.facebook.com/groups/4098505490210812?utm_source=launchdb.vercel.app) |
+
 
 
 ## 🤝 How to Contribute
