@@ -1,9 +1,21 @@
 ## Description
-<!-- Briefly describe the directory you are adding or the changes you are making -->
+<!-- Briefly describe the changes you are making. If adding a directory, list its name and link below. -->
+
+### Directory Details (if applicable)
+- **Directory Name:** 
+- **Description:** 
+- **Submit Link:** 
+
+## Type of Change
+- [ ] ➕ Add new directory
+- [ ] 🔧 Update existing directory (e.g., description, link)
+- [ ] 🚨 Fix broken link
+- [ ] 📖 Documentation update
+- [ ] 🛠️ Other
 
 ## Checklist
 - [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) file.
-- [ ] I have added the directory to the **bottom** of the list.
-- [ ] I have verified the link works and goes directly to the submission page.
+- [ ] I have added the directory to the **bottom** of the list (to avoid merge conflicts).
+- [ ] I have verified the link works and goes directly to the submission/add page (not just the homepage).
 - [ ] The description is objective and without marketing fluff.
-- [ ] If submitting a Reddit, X, or Facebook community, I have added the appropriate prefix (`r/`, `x/`, `fb/`) and understand only these three platforms are currently accepted for communities.
+- [ ] If submitting a Reddit, X, Facebook, or GitHub community, I have added the appropriate prefix (`r/`, `x/`, `fb/`, `gh/`) and understand only these platforms are currently accepted for communities.

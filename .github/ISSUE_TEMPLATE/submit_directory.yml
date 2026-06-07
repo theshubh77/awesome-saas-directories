@@ -1,0 +1,46 @@
+name: Submit a Directory
+description: Suggest a new SaaS directory to add to the list
+title: "[Directory]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a new directory! Before submitting, please check the [Contribution Guidelines](https://github.com/theshubh77/awesome-saas-directories/blob/main/CONTRIBUTING.md) to ensure your submission meets our guidelines.
+  - type: input
+    id: directory_name
+    attributes:
+      label: Directory Name
+      placeholder: e.g., Product Hunt, r/SideProject, gh/awesome-aussie
+      description: |
+        If the directory is a Reddit subreddit, X community, Facebook group, or GitHub repository, add r/, x/, fb/, or gh/ before the name respectively (e.g., gh/[Repository Name]). We currently only accept Reddit, X, Facebook, or GitHub for social and developer communities.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: e.g., The most popular platform to discover your next favorite tech product.
+      description: A short, one-sentence objective description. Avoid marketing fluff (e.g., instead of "The absolute #1 best place to launch!!!" use "A community-driven launchpad for early-stage startups.").
+    validations:
+      required: true
+  - type: input
+    id: submit_link
+    attributes:
+      label: Submit Link
+      placeholder: e.g., https://www.producthunt.com/posts/new
+      description: The DIRECT URL to the submission page, not just the homepage.
+    validations:
+      required: true
+  - type: checkboxes
+    id: guidelines_check
+    attributes:
+      label: Guidelines Check
+      description: Please confirm your submission adheres to the inclusion rules.
+      options:
+        - label: I have verified this directory is active and relevant to launching/listing SaaS products.
+          required: true
+        - label: I have provided a direct submission link, not just the homepage.
+          required: true
+        - label: The description is objective, neutral, and free of marketing hype.
+          required: true

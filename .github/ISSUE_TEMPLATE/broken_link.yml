@@ -1,0 +1,44 @@
+name: Report a Broken Link
+description: Let us know if a directory link is dead or inaccurate
+title: "[Broken Link]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep the SaaS directories list clean and up to date!
+  - type: input
+    id: directory_name
+    attributes:
+      label: Which directory has a broken link?
+      placeholder: e.g., Product Hunt
+    validations:
+      required: true
+  - type: checkboxes
+    id: issue_type
+    attributes:
+      label: What is wrong with the link?
+      options:
+        - label: The website is down / returns a 404
+          required: false
+        - label: The submit link has changed
+          required: false
+        - label: Other (please specify in the context below)
+          required: false
+    validations:
+      required: true
+  - type: input
+    id: new_link
+    attributes:
+      label: New Submit Link (if known)
+      placeholder: e.g., https://www.producthunt.com/posts/new
+      description: If you know the new URL to the submission page, please share it here.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      placeholder: Add any other details or instructions here.
+    validations:
+      required: false
