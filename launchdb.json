@@ -772,5 +772,11 @@
     "name": "Builders.to",
     "description": "A place for founders to share projects, get feedback, and find first users.",
     "submission_link": "https://builders.to/projects/new"
+  },
+  {
+    "id": 130,
+    "name": "fb/SaaS Founder Group",
+    "description": "A Facebook group for SaaS founders to network, share strategies, and discuss product growth.",
+    "submission_link": "https://www.facebook.com/groups/saasfoundergroup/"
   }
 ]
