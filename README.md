@@ -161,7 +161,7 @@ Contributions are always welcome! If you know of a great SaaS directory that isn
 2. Add your directory to the bottom of the table. (Use `-` in the `#` column, our bot will automatically number it!)
 3. Submit a Pull Request.
 
-Please ensure the directory is legitimate and active before submitting. If the directory you are submitting is a Reddit subreddit, X community, Facebook group, or GitHub repository, add `r/`, `x/`, `fb/`, or `gh/` before the directory name respectively (e.g., `r/[Subreddit Name]` or `gh/[Repository Name]`). We currently only accept Reddit, X, Facebook, or GitHub for social and developer communities.
+Please ensure the directory is legitimate and active before submitting. Also, the link you provide must point directly to the submission or "add" page, not just the directory's homepage. If a direct submission link is unavailable (for example, if the submission form opens in a popup), you may provide the homepage link instead, but make sure the directory accepts submissions. If the directory you are submitting is a Reddit subreddit, X community, Facebook group, or GitHub repository, add `r/`, `x/`, `fb/`, or `gh/` before the directory name respectively (e.g., `r/[Subreddit Name]` or `gh/[Repository Name]`). We currently only accept Reddit, X, Facebook, or GitHub for social and developer communities.
 
 For more detailed instructions, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
 

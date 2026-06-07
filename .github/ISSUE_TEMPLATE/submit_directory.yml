@@ -29,7 +29,7 @@ body:
     attributes:
       label: Submit Link
       placeholder: e.g., https://www.producthunt.com/posts/new
-      description: The DIRECT URL to the submission page, not just the homepage.
+      description: The DIRECT URL to the submission page, not just the homepage. If a direct submission link is unavailable (for example, if the submission form opens in a popup), you may provide the homepage link instead, but make sure the directory accepts submissions.
     validations:
       required: true
   - type: checkboxes
@@ -40,7 +40,7 @@ body:
       options:
         - label: I have verified this directory is active and relevant to launching/listing SaaS products.
           required: true
-        - label: I have provided a direct submission link, not just the homepage.
+        - label: I have provided a direct submission link (or the homepage link if a direct link is unavailable, but make sure the directory accepts submissions).
           required: true
         - label: The description is objective, neutral, and free of marketing hype.
           required: true
