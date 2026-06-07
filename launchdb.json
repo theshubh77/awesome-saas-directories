@@ -784,5 +784,11 @@
     "name": "fb/SaaS Marketing Group",
     "description": "A Facebook group for SaaS founders and marketers to discuss marketing strategies, growth hacks, and user acquisition.",
     "submission_link": "https://www.facebook.com/groups/4098505490210812"
+  },
+  {
+    "id": 132,
+    "name": "Super Launch",
+    "description": "A startup discovery and product launch platform for SaaS products, AI tools, and open-source projects.",
+    "submission_link": "https://www.superlaun.ch/dashboard/submit"
   }
 ]
