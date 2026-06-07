@@ -766,5 +766,11 @@
     "name": "AITopTools",
     "description": "A directory to discover, compare, and submit top AI tools and applications.",
     "submission_link": "https://aitoptools.com/account/submit-tool/"
+  },
+  {
+    "id": 129,
+    "name": "Builders.to",
+    "description": "A place for founders to share projects, get feedback, and find first users.",
+    "submission_link": "https://builders.to/projects/new"
   }
 ]
