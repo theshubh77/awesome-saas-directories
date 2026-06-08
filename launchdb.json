@@ -790,5 +790,11 @@
     "name": "Super Launch",
     "description": "A startup discovery and product launch platform for SaaS products, AI tools, and open-source projects.",
     "submission_link": "https://www.superlaun.ch/dashboard/submit"
+  },
+  {
+    "id": 133,
+    "name": "TopAITools4U",
+    "description": "A directory to discover the best AI tools for writing, design, coding, video, SEO, and productivity.",
+    "submission_link": "https://www.topaitools4u.site/submit"
   }
 ]
