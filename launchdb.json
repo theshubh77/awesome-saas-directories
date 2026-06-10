@@ -802,5 +802,11 @@
     "name": "ShipBoost",
     "description": "A founder-first SaaS launch platform that helps bootstrapped startups gain lasting visibility through launch boards, listings, and SEO-driven discovery.",
     "submission_link": "https://shipboost.io/submit"
+  },
+  {
+    "id": 135,
+    "name": "AIBase",
+    "description": "A directory of AI tools, models, tutorials, and resources helping users discover solutions, learn faster, and build with AI every day.",
+    "submission_link": "https://app.aibase.com/submission"
   }
 ]
