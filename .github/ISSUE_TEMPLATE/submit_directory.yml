@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for suggesting a new directory! Before submitting, please check the [Contribution Guidelines](https://github.com/theshubh77/awesome-saas-directories/blob/main/CONTRIBUTING.md) to ensure your submission meets our criteria.
+        If you want to add a new directory, please submit it below. Before submitting, please check the [Contribution Guidelines](https://github.com/theshubh77/awesome-saas-directories/blob/master/CONTRIBUTING.md) to ensure your submission meets our criteria.
 
         *Tip: You can also submit new directories instantly via the [LaunchDB Submit Directory Form](https://launchdb.vercel.app/?submit).*
   - type: input
@@ -29,7 +29,7 @@ body:
   - type: input
     id: submit_link
     attributes:
-      label: Submit Link
+      label: Submission Link
       placeholder: e.g., https://www.producthunt.com/posts/new
       description: The DIRECT URL to the submission page, not just the homepage. If a direct submission link is unavailable (for example, if the submission form opens in a popup), you may provide the homepage link instead, but make sure the directory accepts submissions.
     validations:
