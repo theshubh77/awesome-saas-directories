@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for helping keep the SaaS directories list clean and up to date!
+        If you have found a broken link or directory which is not active anymore, please report it below. We will investigate and update the directory details.
 
         *Tip: You can also report broken links instantly via the [LaunchDB Report Broken Link Form](https://launchdb.vercel.app/?report).*
   - type: input
