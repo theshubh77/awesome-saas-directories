@@ -7,6 +7,8 @@ body:
     attributes:
       value: |
         Thank you for suggesting a new directory! Before submitting, please check the [Contribution Guidelines](https://github.com/theshubh77/awesome-saas-directories/blob/main/CONTRIBUTING.md) to ensure your submission meets our criteria.
+
+        *Tip: You can also submit new directories instantly via the [LaunchDB Submit Directory Form](https://launchdb.vercel.app/?submit).*
   - type: input
     id: directory_name
     attributes:

@@ -1,4 +1,4 @@
-# 🚀 Awesome SaaS Directories
+# 🚀 Awesome SaaS Directories (LaunchDB)
 
 <p align="center">
   <a href="https://github.com/theshubh77/awesome-saas-directories/stargazers">
@@ -19,8 +19,8 @@ A curated list of the best places to launch and list your SaaS product to get ea
 
 Finding where to launch your SaaS can be tedious. This directory aims to save founders time by keeping all the best submission links in one place.
 
-### 🚀 Introducing LaunchDB
-While this markdown list is a great reference, browsing a table on GitHub and submitting Pull Requests can be tedious. To make this database simple and accessible to everyone, we built **[LaunchDB](https://launchdb.vercel.app/)**, a clean, beautiful, and fully accessible web application designed to help developers, founders, and indie hackers search and filter directories.
+### 💡 Introducing LaunchDB
+While this markdown list is a great reference, browsing a table on GitHub and submitting pull requests can be cumbersome. To make this database simple and easy to navigate for everyone, we built **[LaunchDB](https://launchdb.vercel.app/)**, a clean, beautiful, and fully accessible web application designed to help developers, founders, and indie hackers search and filter directories.
 
 * **Live Website:** [launchdb.vercel.app](https://launchdb.vercel.app/)
 * **Website Codebase:** [theshubh77/launchdb](https://github.com/theshubh77/launchdb)
@@ -171,9 +171,11 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 
 Contributions are always welcome! If you know of a great SaaS directory that isn't on this list, please help out by adding it.
 
-1. Fork this repository.
-2. Add your directory to the bottom of the table. (Use `-` in the `#` column, our bot will automatically number it!)
-3. Submit a Pull Request.
+* **For non-technical users:** You can submit new directories via the [LaunchDB Submit Directory Form](https://launchdb.vercel.app/?submit) or report broken links via the [LaunchDB Report Broken Link Form](https://launchdb.vercel.app/?report).
+* **Via GitHub:**
+  1. Fork this repository.
+  2. Add your directory to the bottom of the table. (Use `-` in the `#` column, our bot will automatically number it!)
+  3. Submit a Pull Request.
 
 Please ensure the directory is legitimate and active before submitting. Also, the link you provide must point directly to the submission or "add" page, not just the directory's homepage. If a direct submission link is unavailable (for example, if the submission form opens in a popup), you may provide the homepage link instead, but make sure the directory accepts submissions. If the directory you are submitting is a Reddit subreddit, X community, Facebook group, or GitHub repository, add `r/`, `x/`, `fb/`, or `gh/` before the directory name respectively (e.g., `r/[Subreddit Name]` or `gh/[Repository Name]`). We currently only accept Reddit, X, Facebook, or GitHub for social and developer communities.
 

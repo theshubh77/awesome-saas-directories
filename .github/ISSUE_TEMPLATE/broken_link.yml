@@ -7,6 +7,8 @@ body:
     attributes:
       value: |
         Thank you for helping keep the SaaS directories list clean and up to date!
+
+        *Tip: You can also report broken links instantly via the [LaunchDB Report Broken Link Form](https://launchdb.vercel.app/?report).*
   - type: input
     id: directory_name
     attributes:

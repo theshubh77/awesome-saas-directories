@@ -1,6 +1,8 @@
-# Contributing to Awesome SaaS Directories
+# Contributing to Awesome SaaS Directories (LaunchDB)
 
 First off, thank you for considering contributing to this project! This list is built by and for the community, and your help is appreciated.
+
+If you are a non-technical user, you can submit directories via the [LaunchDB Submit Directory Form](https://launchdb.vercel.app/?submit) or report broken links via the [LaunchDB Report Broken Link Form](https://launchdb.vercel.app/?report).
 
 To keep this directory high-quality and easy to read, please follow these guidelines when submitting a new SaaS directory.
 
