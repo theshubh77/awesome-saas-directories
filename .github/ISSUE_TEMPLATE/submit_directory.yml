@@ -1,6 +1,6 @@
 name: Submit a Directory
 description: Suggest a new SaaS directory to add to the list
-title: "[Directory]: "
+title: "[New Directory]: "
 labels: ["enhancement"]
 body:
   - type: markdown
