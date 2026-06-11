@@ -19,6 +19,14 @@ A curated list of the best places to launch and list your SaaS product to get ea
 
 Finding where to launch your SaaS can be tedious. This directory aims to save founders time by keeping all the best submission links in one place.
 
+### 🚀 Introducing LaunchDB
+While this markdown list is a great reference, browsing a table on GitHub and submitting Pull Requests can be tedious. To make this database simple and accessible to everyone, we built **[LaunchDB](https://launchdb.vercel.app/)**, a clean, beautiful, and fully accessible web application designed to help developers, founders, and indie hackers search and filter directories.
+
+* **Live Website:** [launchdb.vercel.app](https://launchdb.vercel.app/)
+* **Website Codebase:** [theshubh77/launchdb](https://github.com/theshubh77/launchdb)
+
+---
+
 ## 📋 The Directory
 
 | # | Directory Name                      | Description                                                                                                 | Submit Link                                                               |
