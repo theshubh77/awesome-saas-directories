@@ -36,4 +36,4 @@ We use a specific Markdown table format. Please copy the format exactly.
 5. **Push** to your fork.
 6. Open a **Pull Request** against this repository.
 
-I will review Pull Requests as quickly as possible. Thank you for helping founders find the best places to launch!
+We will review Pull Requests as quickly as possible. Thank you for helping founders find the best places to launch!
