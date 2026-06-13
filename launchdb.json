@@ -820,5 +820,11 @@
     "name": "Launch Llama",
     "description": "A directory to list and discover new AI tools, developer resources, and SaaS products.",
     "submission_link": "https://tools.launchllama.co/"
+  },
+  {
+    "id": 138,
+    "name": "FutureStack",
+    "description": "A community-driven directory to discover, upvote, and list AI tools and software.",
+    "submission_link": "https://www.usefuturestack.com/submit"
   }
 ]

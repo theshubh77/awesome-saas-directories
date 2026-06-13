@@ -168,6 +168,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 135 | **AIBase** | A directory of AI tools, models, tutorials, and resources helping users discover solutions, learn faster, and build with AI every day. | [Submit Here](https://app.aibase.com/submission?utm_source=launchdb.vercel.app) |
 | 136 | **Forg** | A professional network and launchpad for developers and indie hackers to showcase projects and share proof of work. | [Submit Here](https://forg.to/product/new?utm_source=launchdb.vercel.app) |
 | 137 | **Launch Llama** | A directory to list and discover new AI tools, developer resources, and SaaS products. | [Submit Here](https://tools.launchllama.co/?utm_source=launchdb.vercel.app) |
+| 138 | **FutureStack** | A community-driven directory to discover, upvote, and list AI tools and software. | [Submit Here](https://www.usefuturestack.com/submit?utm_source=launchdb.vercel.app) |
 
 ## 🤝 How to Contribute
 
