@@ -166,6 +166,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 133 | **TopAITools4U** | A directory to discover the best AI tools for writing, design, coding, video, SEO, and productivity. | [Submit Here](https://www.topaitools4u.site/submit?utm_source=launchdb.vercel.app) |
 | 134 | **ShipBoost** | A founder-first SaaS launch platform that helps bootstrapped startups gain lasting visibility through launch boards, listings, and SEO-driven discovery. | [Submit Here](https://shipboost.io/submit?utm_source=launchdb.vercel.app) |
 | 135 | **AIBase** | A directory of AI tools, models, tutorials, and resources helping users discover solutions, learn faster, and build with AI every day. | [Submit Here](https://app.aibase.com/submission?utm_source=launchdb.vercel.app) |
+| 136 | **Forg** | A professional network and launchpad for developers and indie hackers to showcase projects and share proof of work. | [Submit Here](https://forg.to/product/new?utm_source=launchdb.vercel.app) |
 
 ## 🤝 How to Contribute
 

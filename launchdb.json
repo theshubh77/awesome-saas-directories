@@ -808,5 +808,11 @@
     "name": "AIBase",
     "description": "A directory of AI tools, models, tutorials, and resources helping users discover solutions, learn faster, and build with AI every day.",
     "submission_link": "https://app.aibase.com/submission"
+  },
+  {
+    "id": 136,
+    "name": "Forg",
+    "description": "A professional network and launchpad for developers and indie hackers to showcase projects and share proof of work.",
+    "submission_link": "https://forg.to/product/new"
   }
 ]
