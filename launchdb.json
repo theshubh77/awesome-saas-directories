@@ -814,5 +814,11 @@
     "name": "Forg",
     "description": "A professional network and launchpad for developers and indie hackers to showcase projects and share proof of work.",
     "submission_link": "https://forg.to/product/new"
+  },
+  {
+    "id": 137,
+    "name": "Launch Llama",
+    "description": "A directory to list and discover new AI tools, developer resources, and SaaS products.",
+    "submission_link": "https://tools.launchllama.co/"
   }
 ]
