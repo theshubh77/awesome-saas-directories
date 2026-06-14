@@ -826,5 +826,11 @@
     "name": "FutureStack",
     "description": "A community-driven directory to discover, upvote, and list AI tools and software.",
     "submission_link": "https://www.usefuturestack.com/submit"
+  },
+  {
+    "id": 139,
+    "name": "ProductFame",
+    "description": "A product launch platform where founders gain visibility and users discover new startups.",
+    "submission_link": "https://productfame.com/products/submit"
   }
 ]
