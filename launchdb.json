@@ -874,5 +874,11 @@
     "name": "Pro Launch",
     "description": "A product launch and discovery platform designed to help startups and indie hackers gain visibility.",
     "submission_link": "https://prolaunch.net/projects/submit"
+  },
+  {
+    "id": 147,
+    "name": "Productivity Directory",
+    "description": "A curated directory of productivity software, tools, and resources to help users improve efficiency.",
+    "submission_link": "https://productivity.directory/s/submit"
   }
 ]

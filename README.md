@@ -177,6 +177,8 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 144 | **BuildHop** | A discovery platform designed for founders and builders to showcase startups, tools, and side projects. | [Submit Here](https://buildhop.io/app/create?utm_source=launchdb.vercel.app) |
 | 145 | **SaaS Page** | A community-driven launch directory and analytics platform for indie makers, solopreneurs, and SaaS founders. | [Submit Here](https://www.saaspa.ge/submit?utm_source=launchdb.vercel.app) |
 | 146 | **Pro Launch** | A product launch and discovery platform designed to help startups and indie hackers gain visibility. | [Submit Here](https://prolaunch.net/projects/submit?utm_source=launchdb.vercel.app) |
+| 147 | **Productivity Directory** | A curated directory of productivity software, tools, and resources to help users improve efficiency. | [Submit Here](https://productivity.directory/s/submit?utm_source=launchdb.vercel.app) |
+
 
 
 ## 🤝 How to Contribute
