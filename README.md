@@ -174,6 +174,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 141 | **Findly.tools** | A curated online directory for SaaS and AI products to list projects, gain visibility, and secure backlinks. | [Submit Here](https://findly.tools/submit?utm_source=launchdb.vercel.app) |
 | 142 | **Verified Tools** | A curated startup directory for discovering, comparing, and listing AI tools and SaaS products. | [Submit Here](https://www.verifiedtools.info/submit?utm_source=launchdb.vercel.app) |
 | 143 | **Better Launch** | A product launch and discovery platform designed for founders, indie hackers, and early adopters to showcase digital products. | [Submit Here](https://www.betterlaunch.co/submit?utm_source=launchdb.vercel.app) |
+| 144 | **BuildHop** | A discovery platform designed for founders and builders to showcase startups, tools, and side projects. | [Submit Here](https://buildhop.io/app/create?utm_source=launchdb.vercel.app) |
 
 ## 🤝 How to Contribute
 

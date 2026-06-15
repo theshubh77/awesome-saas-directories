@@ -856,5 +856,11 @@
     "name": "Better Launch",
     "description": "A product launch and discovery platform designed for founders, indie hackers, and early adopters to showcase digital products.",
     "submission_link": "https://www.betterlaunch.co/submit"
+  },
+  {
+    "id": 144,
+    "name": "BuildHop",
+    "description": "A discovery platform designed for founders and builders to showcase startups, tools, and side projects.",
+    "submission_link": "https://buildhop.io/app/create"
   }
 ]
