@@ -172,6 +172,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 139 | **ProductFame** | A product launch platform where founders gain visibility and users discover new startups. | [Submit Here](https://productfame.com/products/submit?utm_source=launchdb.vercel.app) |
 | 140 | **Lifto** | A video-first product launch and discovery platform for SaaS founders and early adopters. | [Submit Here](https://liftoapp.com/submit?utm_source=launchdb.vercel.app) |
 | 141 | **Findly.tools** | A curated online directory for SaaS and AI products to list projects, gain visibility, and secure backlinks. | [Submit Here](https://findly.tools/submit?utm_source=launchdb.vercel.app) |
+| 142 | **Verified Tools** | A curated startup directory for discovering, comparing, and listing AI tools and SaaS products. | [Submit Here](https://www.verifiedtools.info/submit?utm_source=launchdb.vercel.app) |
 
 ## 🤝 How to Contribute
 

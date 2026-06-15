@@ -844,5 +844,11 @@
     "name": "Findly.tools",
     "description": "A curated online directory for SaaS and AI products to list projects, gain visibility, and secure backlinks.",
     "submission_link": "https://findly.tools/submit"
+  },
+  {
+    "id": 142,
+    "name": "Verified Tools",
+    "description": "A curated startup directory for discovering, comparing, and listing AI tools and SaaS products.",
+    "submission_link": "https://www.verifiedtools.info/submit"
   }
 ]
