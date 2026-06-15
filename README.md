@@ -170,6 +170,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 137 | **Launch Llama** | A directory to list and discover new AI tools, developer resources, and SaaS products. | [Submit Here](https://tools.launchllama.co/?utm_source=launchdb.vercel.app) |
 | 138 | **FutureStack** | A community-driven directory to discover, upvote, and list AI tools and software. | [Submit Here](https://www.usefuturestack.com/submit?utm_source=launchdb.vercel.app) |
 | 139 | **ProductFame** | A product launch platform where founders gain visibility and users discover new startups. | [Submit Here](https://productfame.com/products/submit?utm_source=launchdb.vercel.app) |
+| 140 | **Lifto** | A video-first product launch and discovery platform for SaaS founders and early adopters. | [Submit Here](https://liftoapp.com/submit?utm_source=launchdb.vercel.app) |
 
 ## 🤝 How to Contribute
 

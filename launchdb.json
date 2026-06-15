@@ -832,5 +832,11 @@
     "name": "ProductFame",
     "description": "A product launch platform where founders gain visibility and users discover new startups.",
     "submission_link": "https://productfame.com/products/submit"
+  },
+  {
+    "id": 140,
+    "name": "Lifto",
+    "description": "A video-first product launch and discovery platform for SaaS founders and early adopters.",
+    "submission_link": "https://liftoapp.com/submit"
   }
 ]
