@@ -850,5 +850,11 @@
     "name": "Verified Tools",
     "description": "A curated startup directory for discovering, comparing, and listing AI tools and SaaS products.",
     "submission_link": "https://www.verifiedtools.info/submit"
+  },
+  {
+    "id": 143,
+    "name": "Better Launch",
+    "description": "A product launch and discovery platform designed for founders, indie hackers, and early adopters to showcase digital products.",
+    "submission_link": "https://www.betterlaunch.co/submit"
   }
 ]
