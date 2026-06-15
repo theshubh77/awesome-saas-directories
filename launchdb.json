@@ -862,5 +862,11 @@
     "name": "BuildHop",
     "description": "A discovery platform designed for founders and builders to showcase startups, tools, and side projects.",
     "submission_link": "https://buildhop.io/app/create"
+  },
+  {
+    "id": 145,
+    "name": "SaaS Page",
+    "description": "A community-driven launch directory and analytics platform for indie makers, solopreneurs, and SaaS founders.",
+    "submission_link": "https://www.saaspa.ge/submit"
   }
 ]
