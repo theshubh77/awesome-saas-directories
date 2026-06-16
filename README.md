@@ -179,6 +179,8 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 146 | **Pro Launch** | A product launch and discovery platform designed to help startups and indie hackers gain visibility. | [Submit Here](https://prolaunch.net/projects/submit?utm_source=launchdb.vercel.app) |
 | 147 | **Productivity Directory** | A curated directory of productivity software, tools, and resources to help users improve efficiency. | [Submit Here](https://productivity.directory/s/submit?utm_source=launchdb.vercel.app) |
 | 148 | **r/IMadeThis** | A Reddit community for creators to share projects, tools, applications, and things they built. | [Submit Here](https://www.reddit.com/r/IMadeThis/submit/?utm_source=launchdb.vercel.app) |
+| 149 | **LaunchPact** | A mutual support network and platform for startup founders to coordinate upvotes and build launch momentum. | [Submit Here](https://www.launchpact.io/launches/new?utm_source=launchdb.vercel.app) |
+
 
 
 

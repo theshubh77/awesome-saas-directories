@@ -886,5 +886,11 @@
     "name": "r/IMadeThis",
     "description": "A Reddit community for creators to share projects, tools, applications, and things they built.",
     "submission_link": "https://www.reddit.com/r/IMadeThis/submit/"
+  },
+  {
+    "id": 149,
+    "name": "LaunchPact",
+    "description": "A mutual support network and platform for startup founders to coordinate upvotes and build launch momentum.",
+    "submission_link": "https://www.launchpact.io/launches/new"
   }
 ]
