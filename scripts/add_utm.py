@@ -3,7 +3,7 @@ import os
 from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
 from generate_json import generate_json
 
-def add_utm_to_url(url, utm_source="launchdb.vercel.app"):
+def add_utm_to_url(url, utm_source="launchdb.vercel.app", via="launchdb"):
     if not url or not url.startswith('http'):
         return url
         
@@ -11,20 +11,29 @@ def add_utm_to_url(url, utm_source="launchdb.vercel.app"):
         parsed = urlparse(url)
         qsl = parse_qsl(parsed.query)
         
-        found = False
+        utm_found = False
+        via_found = False
         new_qsl = []
         for k, v in qsl:
             if k == 'utm_source':
-                found = True
+                utm_found = True
                 if v != utm_source:
                     new_qsl.append((k, utm_source))
+                else:
+                    new_qsl.append((k, v))
+            elif k == 'via':
+                via_found = True
+                if v != via:
+                    new_qsl.append((k, via))
                 else:
                     new_qsl.append((k, v))
             else:
                 new_qsl.append((k, v))
                 
-        if not found:
+        if not utm_found:
             new_qsl.append(('utm_source', utm_source))
+        if not via_found:
+            new_qsl.append(('via', via))
             
         new_query = urlencode(new_qsl)
         if new_query != parsed.query:
@@ -34,6 +43,7 @@ def add_utm_to_url(url, utm_source="launchdb.vercel.app"):
         print(f"Error parsing URL {url}: {e}")
         
     return url
+
 
 def process_readme(readme_path):
     with open(readme_path, 'r', encoding='utf-8') as f:

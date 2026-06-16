@@ -37,15 +37,15 @@ def generate_json(readme_path, json_path):
             url_match = re.search(r'\]\((.*?)\)', link_col)
             url = url_match.group(1).strip() if url_match else link_col
             
-            # Remove utm_source query parameter if present (only keep it in README.md)
+            # Remove utm_source and via query parameters if present (only keep them in README.md)
             try:
                 parsed = urlparse(url)
-                qsl = [(k, v) for k, v in parse_qsl(parsed.query) if k != 'utm_source']
+                qsl = [(k, v) for k, v in parse_qsl(parsed.query) if k not in ('utm_source', 'via')]
                 new_query = urlencode(qsl)
                 parsed = parsed._replace(query=new_query)
                 url = urlunparse(parsed)
             except Exception as e:
-                print(f"Error removing UTM from URL {url}: {e}")
+                print(f"Error removing UTM/via from URL {url}: {e}")
             
             # Extract serial number/id
             try:
