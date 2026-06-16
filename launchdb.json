@@ -898,5 +898,11 @@
     "name": "Toolfio",
     "description": "A curated discovery platform and business directory designed for AI tools, SaaS products, startups, and developer resources.",
     "submission_link": "https://toolfio.com/submit"
+  },
+  {
+    "id": 151,
+    "name": "Toolfolio",
+    "description": "A curated discovery platform and directory featuring tools for productivity, design, AI, social media, and startups.",
+    "submission_link": "https://toolfolio.com/"
   }
 ]
