@@ -880,5 +880,11 @@
     "name": "Productivity Directory",
     "description": "A curated directory of productivity software, tools, and resources to help users improve efficiency.",
     "submission_link": "https://productivity.directory/s/submit"
+  },
+  {
+    "id": 148,
+    "name": "r/IMadeThis",
+    "description": "A Reddit community for creators to share projects, tools, applications, and things they built.",
+    "submission_link": "https://www.reddit.com/r/IMadeThis/submit/"
   }
 ]
