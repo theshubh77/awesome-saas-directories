@@ -904,5 +904,11 @@
     "name": "Toolfolio",
     "description": "A curated discovery platform and directory featuring tools for productivity, design, AI, social media, and startups.",
     "submission_link": "https://toolfolio.com/"
+  },
+  {
+    "id": 152,
+    "name": "OGFolio",
+    "description": "A curated Open Graph image gallery and design inspiration hub for designers, developers, and creators.",
+    "submission_link": "https://ogfolio.com/"
   }
 ]
