@@ -916,5 +916,11 @@
     "name": "r/GetStartups",
     "description": "A Reddit community for startup founders, makers, and indie hackers to share projects, request feedback, and discuss growth.",
     "submission_link": "https://www.reddit.com/r/GetStartups/submit/"
+  },
+  {
+    "id": 154,
+    "name": "Startup.sx",
+    "description": "A community-curated, minimalist Product Hunt alternative for indie makers.",
+    "submission_link": "https://www.startup.sx/submit"
   }
 ]
