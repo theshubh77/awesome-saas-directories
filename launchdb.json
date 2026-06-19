@@ -910,5 +910,11 @@
     "name": "OGFolio",
     "description": "A curated Open Graph image gallery and design inspiration hub for designers, developers, and creators.",
     "submission_link": "https://ogfolio.com/"
+  },
+  {
+    "id": 153,
+    "name": "r/GetStartups",
+    "description": "A Reddit community for startup founders, makers, and indie hackers to share projects, request feedback, and discuss growth.",
+    "submission_link": "https://www.reddit.com/r/GetStartups/submit/"
   }
 ]

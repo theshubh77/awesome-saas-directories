@@ -183,13 +183,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 150 | **Toolfio** | A curated discovery platform and business directory designed for AI tools, SaaS products, startups, and developer resources. | [Submit Here](https://toolfio.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 151 | **Toolfolio** | A curated discovery platform and directory featuring tools for productivity, design, AI, social media, and startups. | [Submit Here](https://toolfolio.com/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 152 | **OGFolio** | A curated Open Graph image gallery and design inspiration hub for designers, developers, and creators. | [Submit Here](https://ogfolio.com/?utm_source=launchdb.vercel.app&via=launchdb) |
-
-
-
-
-
-
-
+| 153 | **r/GetStartups** | A Reddit community for startup founders, makers, and indie hackers to share projects, request feedback, and discuss growth. | [Submit Here](https://www.reddit.com/r/GetStartups/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 
 ## 🤝 How to Contribute
 
