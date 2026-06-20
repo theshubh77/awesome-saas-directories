@@ -922,5 +922,11 @@
     "name": "Startup.sx",
     "description": "A community-curated, minimalist Product Hunt alternative for indie makers.",
     "submission_link": "https://www.startup.sx/submit"
+  },
+  {
+    "id": 155,
+    "name": "r/LaunchMyStartup",
+    "description": "A Reddit community for startup founders and creators to launch their projects and get feedback from other builders.",
+    "submission_link": "https://www.reddit.com/r/LaunchMyStartup/submit/"
   }
 ]
