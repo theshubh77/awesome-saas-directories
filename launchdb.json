@@ -934,5 +934,11 @@
     "name": "Revispy Launchpad",
     "description": "A product launch and project showcase platform for builders to share side projects, collect feedback, and connect with the tech community.",
     "submission_link": "https://www.revispy.com/launchpad/create"
+  },
+  {
+    "id": 157,
+    "name": "r/AISaaSHunter",
+    "description": "A Reddit community dedicated to discovering, discussing, and promoting AI-powered SaaS tools.",
+    "submission_link": "https://www.reddit.com/r/AISaaSHunter/submit/"
   }
 ]

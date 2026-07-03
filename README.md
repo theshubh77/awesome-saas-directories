@@ -187,6 +187,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 154 | **Startup.sx** | A community-curated, minimalist Product Hunt alternative for indie makers. | [Submit Here](https://www.startup.sx/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 155 | **r/LaunchMyStartup** | A Reddit community for startup founders and creators to launch their projects and get feedback from other builders. | [Submit Here](https://www.reddit.com/r/LaunchMyStartup/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 156 | **Revispy Launchpad** | A product launch and project showcase platform for builders to share side projects, collect feedback, and connect with the tech community. | [Submit Here](https://www.revispy.com/launchpad/create?utm_source=launchdb.vercel.app&via=launchdb) |
+| 157 | **r/AISaaSHunter** | A Reddit community dedicated to discovering, discussing, and promoting AI-powered SaaS tools. | [Submit Here](https://www.reddit.com/r/AISaaSHunter/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 
 ## 🤝 How to Contribute
 
