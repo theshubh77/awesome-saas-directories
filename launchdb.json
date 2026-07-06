@@ -940,5 +940,11 @@
     "name": "r/AISaaSHunter",
     "description": "A Reddit community dedicated to discovering, discussing, and promoting AI-powered SaaS tools.",
     "submission_link": "https://www.reddit.com/r/AISaaSHunter/submit/"
+  },
+  {
+    "id": 158,
+    "name": "JustLaunched",
+    "description": "A directory where founders submit and discover newly launched SaaS products, organized by category.",
+    "submission_link": "https://justlaunched.fyi/submit"
   }
 ]
