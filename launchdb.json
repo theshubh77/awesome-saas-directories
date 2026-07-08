@@ -946,5 +946,11 @@
     "name": "JustLaunched",
     "description": "A directory where founders submit and discover newly launched SaaS products, organized by category.",
     "submission_link": "https://justlaunched.fyi/submit"
+  },
+  {
+    "id": 159,
+    "name": "Open Source Projects",
+    "description": "A categorized directory where makers submit and discover open-source projects and alternatives to proprietary software.",
+    "submission_link": "https://opensourceprojects.cc/submit"
   }
 ]
