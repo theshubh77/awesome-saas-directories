@@ -190,7 +190,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 157 | **r/AISaaSHunter** | A Reddit community dedicated to discovering, discussing, and promoting AI-powered SaaS tools. | [Submit Here](https://www.reddit.com/r/AISaaSHunter/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 158 | **JustLaunched** | A directory where founders submit and discover newly launched SaaS products, organized by category. | [Submit Here](https://justlaunched.fyi/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 159 | **Open Source Projects** | A categorized directory where makers submit and discover open-source projects and alternatives to proprietary software. | [Submit Here](https://opensourceprojects.cc/submit?utm_source=launchdb.vercel.app&via=launchdb) |
-| - | **SaaSCity** | A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map. | [Submit Here](https://saascity.io/submit) |
+| - | **SaaSCity** | A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map. | [Submit Here](https://saascity.io/saascity?submit=1) |
 
 ## 🤝 How to Contribute
 
