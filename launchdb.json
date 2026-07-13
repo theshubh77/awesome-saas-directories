@@ -952,5 +952,11 @@
     "name": "Open Source Projects",
     "description": "A categorized directory where makers submit and discover open-source projects and alternatives to proprietary software.",
     "submission_link": "https://opensourceprojects.cc/submit"
+  },
+  {
+    "id": 160,
+    "name": "SaaSCity",
+    "description": "A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map.",
+    "submission_link": "https://saascity.io/saascity?submit=1"
   }
 ]
