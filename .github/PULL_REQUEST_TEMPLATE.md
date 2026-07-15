@@ -4,6 +4,7 @@
 ### Directory Details (if applicable)
 - **Directory Name:** 
 - **Description:** 
+- **Domain Rating:** (Leave as `-`)
 - **Submit Link:** 
 
 ## Type of Change
