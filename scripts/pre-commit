@@ -11,6 +11,9 @@ python scripts/add_utm.py
 # Run the JSON generation script
 python scripts/generate_json.py
 
+# Fetch Domain Ratings for new or outdated directories
+python scripts/fetch_dr.py
+
 # Stage the updated files
 git add README.md launchdb.json
 

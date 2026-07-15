@@ -3,960 +3,1263 @@
     "id": 1,
     "name": "Product Hunt",
     "description": "The most popular platform to discover your next favorite tech product.",
-    "submission_link": "https://www.producthunt.com/posts/new"
+    "domain_rating": 91,
+    "submission_link": "https://www.producthunt.com/posts/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 2,
     "name": "BetaList",
     "description": "Discover and get early access to tomorrow's startups.",
-    "submission_link": "https://betalist.com/submissions/new"
+    "domain_rating": 76,
+    "submission_link": "https://betalist.com/submissions/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 3,
     "name": "AI Directories",
     "description": "A directory of AI listing sites and submission service to boost visibility and SEO.",
-    "submission_link": "https://www.aidirectori.es/pricing?tab=tool-submission"
+    "domain_rating": 70,
+    "submission_link": "https://www.aidirectori.es/pricing?tab=tool-submission",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 4,
     "name": "SaaSHub",
     "description": "The independent software marketplace and alternative finder.",
-    "submission_link": "https://www.saashub.com/services/submit"
+    "domain_rating": 79,
+    "submission_link": "https://www.saashub.com/services/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 5,
     "name": "AlternativeTo",
     "description": "A community-driven platform to search and find crowdsourced alternatives to software, apps, and websites.",
-    "submission_link": "https://alternativeto.net/manage-item/"
+    "domain_rating": 79,
+    "submission_link": "https://alternativeto.net/manage-item/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 6,
     "name": "Microlaunch",
     "description": "A community-driven launchpad for indie makers.",
-    "submission_link": "https://microlaunch.net/premium"
+    "domain_rating": 61,
+    "submission_link": "https://microlaunch.net/premium",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 7,
     "name": "Uneed",
     "description": "A hand-curated directory for the best tools and resources on the internet.",
-    "submission_link": "https://www.uneed.best/submit-a-tool"
+    "domain_rating": 75,
+    "submission_link": "https://www.uneed.best/submit-a-tool",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 8,
     "name": "Toolify.ai",
     "description": "The largest directory specifically tailored for AI tools and AI-powered SaaS.",
-    "submission_link": "https://www.toolify.ai/submit"
+    "domain_rating": 72,
+    "submission_link": "https://www.toolify.ai/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 9,
     "name": "DevHunt",
     "description": "A launchpad specifically designed for developer tools and open-source projects.",
-    "submission_link": "https://devhunt.org/account/tools/new"
+    "domain_rating": 62,
+    "submission_link": "https://devhunt.org/account/tools/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 10,
     "name": "Launching Next",
     "description": "A directory showcasing the world's newest and most trending tech startups.",
-    "submission_link": "https://www.launchingnext.com/submit/"
+    "domain_rating": 52,
+    "submission_link": "https://www.launchingnext.com/submit/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 11,
     "name": "AppSumo",
     "description": "The leading digital marketplace for software deals and lifetime SaaS offers.",
-    "submission_link": "https://sell.appsumo.com/"
+    "domain_rating": 83,
+    "submission_link": "https://sell.appsumo.com/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 12,
     "name": "Indie Hackers",
     "description": "A community of developers and founders. Includes a database of self-funded products.",
-    "submission_link": "https://www.indiehackers.com/products/"
+    "domain_rating": 81,
+    "submission_link": "https://www.indiehackers.com/products/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 13,
     "name": "Startup Stash",
     "description": "A massive curated directory of tools and resources for startups and entrepreneurs.",
-    "submission_link": "https://startupstash.com/add-listing/"
+    "domain_rating": 65,
+    "submission_link": "https://startupstash.com/add-listing/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 14,
     "name": "PitchWall",
     "description": "A platform for finding early adopters and pitching early-stage SaaS projects.",
-    "submission_link": "https://pitchwall.co/submit"
+    "domain_rating": 69,
+    "submission_link": "https://pitchwall.co/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 15,
     "name": "SaaS Mantra",
     "description": "A platform bridging SaaS founders with a community of early adopters via lifetime deals.",
-    "submission_link": "https://launch-mantra.paperform.co/"
+    "domain_rating": 85,
+    "submission_link": "https://launch-mantra.paperform.co/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 16,
     "name": "StartupBase",
     "description": "A community for makers and early adopters to connect and discuss the latest products.",
-    "submission_link": "https://startupbase.io/submit"
+    "domain_rating": 62,
+    "submission_link": "https://startupbase.io/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 17,
     "name": "There's An AI For That",
     "description": "A comprehensive directory and database for discovering AI products and tools.",
-    "submission_link": "https://theresanaiforthat.com/launch/"
+    "domain_rating": 77,
+    "submission_link": "https://theresanaiforthat.com/launch/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 18,
     "name": "Micro SaaS Examples",
     "description": "A curated collection and directory for discovering micro SaaS products.",
-    "submission_link": "https://www.microsaasexamples.com/submit-micro-saas"
+    "domain_rating": 47,
+    "submission_link": "https://www.microsaasexamples.com/submit-micro-saas",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 19,
     "name": "Peerlist Launchpad",
     "description": "A professional network where you can showcase your work and launch new projects.",
-    "submission_link": "https://peerlist.io/launchpad"
+    "domain_rating": 77,
+    "submission_link": "https://peerlist.io/launchpad",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 20,
     "name": "r/SideProject",
     "description": "A Reddit community for sharing and discovering side projects.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/SideProject/submit/"
   },
   {
     "id": 21,
     "name": "Open-Launch",
     "description": "A platform to launch and discover new startup projects and tools.",
-    "submission_link": "https://open-launch.com/projects/submit/"
+    "domain_rating": 71,
+    "submission_link": "https://open-launch.com/projects/submit/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 22,
     "name": "DEV Community",
     "description": "A community of software developers where you can share articles and new tools.",
-    "submission_link": "https://dev.to/new"
+    "domain_rating": 91,
+    "submission_link": "https://dev.to/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 23,
     "name": "A1 Gallery",
     "description": "A curated gallery for discovering new apps and websites.",
-    "submission_link": "https://www.a1.gallery/submit"
+    "domain_rating": 35,
+    "submission_link": "https://www.a1.gallery/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 24,
     "name": "TinyLaunch",
     "description": "A directory focused on helping founders launch and discover small startups and tools.",
-    "submission_link": "https://www.tinylaunch.com/dashboard/startups/new"
+    "domain_rating": 72,
+    "submission_link": "https://www.tinylaunch.com/dashboard/startups/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 25,
     "name": "Resource FYI",
     "description": "A curated collection of resources and tools for creators and founders.",
-    "submission_link": "https://resource.fyi/account/submit"
+    "domain_rating": 31,
+    "submission_link": "https://resource.fyi/account/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 26,
     "name": "Fazier",
     "description": "A platform for discovering and launching early-stage products and tools.",
-    "submission_link": "https://fazier.com/submit"
+    "domain_rating": 82,
+    "submission_link": "https://fazier.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 27,
     "name": "Hacker News",
     "description": "A social news website focusing on computer science, entrepreneurship, and product launches.",
-    "submission_link": "https://news.ycombinator.com/submit"
+    "domain_rating": 91,
+    "submission_link": "https://news.ycombinator.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 28,
     "name": "ctrlalt.cc",
     "description": "A directory for launching and discovering new startup tools and tech products.",
-    "submission_link": "https://ctrlalt.cc/"
+    "domain_rating": 50,
+    "submission_link": "https://ctrlalt.cc/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 29,
     "name": "r/microsaas",
     "description": "A Reddit community dedicated to discussing and sharing micro SaaS products.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/microsaas/submit/"
   },
   {
     "id": 30,
     "name": "fb/All About AI Tools & AI News",
     "description": "A Facebook group for sharing and discovering new AI tools and news.",
+    "domain_rating": null,
     "submission_link": "https://www.facebook.com/groups/freeai"
   },
   {
     "id": 31,
     "name": "SideProjectors",
     "description": "A marketplace and directory to discover, buy, and sell side projects.",
-    "submission_link": "https://www.sideprojectors.com/submit/type"
+    "domain_rating": 70,
+    "submission_link": "https://www.sideprojectors.com/submit/type",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 32,
     "name": "x/Side Projects",
     "description": "An X (Twitter) community for sharing and discovering side projects.",
+    "domain_rating": null,
     "submission_link": "https://x.com/i/communities/1825401786217210316"
   },
   {
     "id": 33,
     "name": "x/Startup Community",
     "description": "An X (Twitter) community connecting startup founders and early adopters.",
+    "domain_rating": null,
     "submission_link": "https://x.com/i/communities/1471580197908586507"
   },
   {
     "id": 34,
     "name": "TrustMRR",
     "description": "A platform serving as a verified database of startup revenues and a launch leaderboard.",
-    "submission_link": "https://trustmrr.com/"
+    "domain_rating": 69,
+    "submission_link": "https://trustmrr.com/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 35,
     "name": "x/Build in Public",
     "description": "An X (Twitter) community for founders sharing their journey of building startups.",
+    "domain_rating": null,
     "submission_link": "https://x.com/i/communities/1493446837214187523"
   },
   {
     "id": 36,
     "name": "r/SaaSy",
     "description": "A Reddit community for SaaS professionals to share tools, strategies, and discussions.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/SaaSy/submit/"
   },
   {
     "id": 37,
     "name": "r/saasbuild",
     "description": "A Reddit community focused on building and launching SaaS applications.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/saasbuild/submit/"
   },
   {
     "id": 38,
     "name": "Dang.ai",
     "description": "A directory focusing specifically on AI products and startups.",
-    "submission_link": "https://dang.ai/"
+    "domain_rating": 81,
+    "submission_link": "https://dang.ai/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 39,
     "name": "AI Tools Directory",
     "description": "A comprehensive directory for discovering and listing new AI tools.",
-    "submission_link": "https://aitoolsdirectory.com/submit-tool"
+    "domain_rating": 51,
+    "submission_link": "https://aitoolsdirectory.com/submit-tool",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 40,
     "name": "AIxploria",
     "description": "A platform to discover, launch, and feature AI applications.",
-    "submission_link": "https://www.aixploria.com/en/featured-on-aixploria/#submit"
+    "domain_rating": 56,
+    "submission_link": "https://www.aixploria.com/en/featured-on-aixploria/#submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 41,
     "name": "DodoMRR",
     "description": "A verified database to launch your startup and track revenue growth.",
-    "submission_link": "https://www.dodomrr.com/"
+    "domain_rating": 1,
+    "submission_link": "https://www.dodomrr.com/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 42,
     "name": "TrustRoas",
     "description": "A database of verified ad spend and revenue for Shopify stores.",
-    "submission_link": "https://trustroas.com/add-store"
+    "domain_rating": 1,
+    "submission_link": "https://trustroas.com/add-store",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 43,
     "name": "Turbo0",
     "description": "A directory focused on discovering content creation tools and tech startups.",
-    "submission_link": "https://turbo0.com/submit"
+    "domain_rating": 80,
+    "submission_link": "https://turbo0.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 44,
     "name": "ToolPilot",
     "description": "A directory to launch and discover the latest AI tools and applications.",
-    "submission_link": "https://www.toolpilot.ai/pages/submit-your-ai-tool"
+    "domain_rating": 78,
+    "submission_link": "https://www.toolpilot.ai/pages/submit-your-ai-tool",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 45,
     "name": "Versily",
     "description": "A directory and platform to showcase software products and tools.",
-    "submission_link": "https://versily.com/start/product"
+    "domain_rating": 68,
+    "submission_link": "https://versily.com/start/product",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 46,
     "name": "AI Tools",
     "description": "A curated database of AI-powered tools and software products.",
-    "submission_link": "https://aitools.inc/submit"
+    "domain_rating": 68,
+    "submission_link": "https://aitools.inc/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 47,
     "name": "Launch AI",
     "description": "A directory focused specifically on launching new AI products and tools.",
-    "submission_link": "https://trylaunch.ai/submit"
+    "domain_rating": 54,
+    "submission_link": "https://trylaunch.ai/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 48,
     "name": "r/startup",
     "description": "A Reddit community for discussing startups and launching new projects.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/startup/submit/"
   },
   {
     "id": 49,
     "name": "Aura++",
     "description": "A fast-paced launch platform to boost visibility and get your product discovered quickly.",
-    "submission_link": "https://auraplusplus.com/projects/submit"
+    "domain_rating": 71,
+    "submission_link": "https://auraplusplus.com/projects/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 50,
     "name": "Earlyhunt",
     "description": "A launch platform where early adopters discover and engage with new products and startups.",
-    "submission_link": "https://earlyhunt.com/submit"
+    "domain_rating": 58,
+    "submission_link": "https://earlyhunt.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 51,
     "name": "Indiehunt",
     "description": "An AI-powered launch platform connecting indie products with builders and early adopters.",
-    "submission_link": "https://indiehunt.io/submit"
+    "domain_rating": 59,
+    "submission_link": "https://indiehunt.io/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 52,
     "name": "Makerhunt",
     "description": "A weekly launch platform for makers to showcase products, gain feedback, and reach early users.",
-    "submission_link": "https://makerhunt.io/submit"
+    "domain_rating": 38,
+    "submission_link": "https://makerhunt.io/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 53,
     "name": "Sidehunt",
     "description": "A weekly hunt platform to launch side projects, collect votes, and reach early adopters.",
-    "submission_link": "https://sidehunt.io/submit"
+    "domain_rating": 41,
+    "submission_link": "https://sidehunt.io/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 54,
     "name": "Uno Directory",
     "description": "A curated directory to discover the best tools, SaaS products, and resources.",
-    "submission_link": "https://uno.directory/submit"
+    "domain_rating": 63,
+    "submission_link": "https://uno.directory/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 55,
     "name": "ScrollLaunch",
     "description": "A launch platform for indie makers and SaaS founders to showcase products and climb weekly rankings.",
-    "submission_link": "https://www.scrolllaunch.com/dashboard/products/new"
+    "domain_rating": 62,
+    "submission_link": "https://www.scrolllaunch.com/dashboard/products/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 56,
     "name": "PeerPush",
     "description": "A product discovery platform making your product discoverable by people and AI assistants.",
-    "submission_link": "https://peerpush.net/submit"
+    "domain_rating": 74,
+    "submission_link": "https://peerpush.net/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 57,
     "name": "Productburst",
     "description": "A place to launch products, get feedback, build community, and get your first set of customers.",
-    "submission_link": "https://productburst.com/pre-launch"
+    "domain_rating": 40,
+    "submission_link": "https://productburst.com/pre-launch",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 58,
     "name": "Smol Launch",
     "description": "A weekly launch platform for makers to submit products, earn votes, get feedback, and reach early adopters.",
-    "submission_link": "https://smollaunch.com/dashboard/products/new"
+    "domain_rating": 67,
+    "submission_link": "https://smollaunch.com/dashboard/products/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 59,
     "name": "NextGen Tools",
     "description": "An AI tools directory and launch platform to discover trending SaaS and developer tools.",
-    "submission_link": "https://www.nxgntools.com/~/my-tools"
+    "domain_rating": 67,
+    "submission_link": "https://www.nxgntools.com/~/my-tools",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 60,
     "name": "OpenHunts",
     "description": "A product launch and discovery platform for makers and developers to explore, upvote, and submit startups.",
-    "submission_link": "https://openhunts.com/projects/submit"
+    "domain_rating": 64,
+    "submission_link": "https://openhunts.com/projects/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 61,
     "name": "WhatLaunched.Today",
     "description": "A platform to discover the latest daily product launches and tech startups.",
-    "submission_link": "https://whatlaunched.today/submit"
+    "domain_rating": 61,
+    "submission_link": "https://whatlaunched.today/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 62,
     "name": "AI Valley",
     "description": "A directory that curates the most useful AI tools and prompts daily for any use.",
-    "submission_link": "https://aivalley.ai/submit-tool/"
+    "domain_rating": 34,
+    "submission_link": "https://aivalley.ai/submit-tool/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 63,
     "name": "ListYourIdea",
     "description": "A platform to discover and launch the best indie products, SaaS tools, and startups.",
-    "submission_link": "https://listyouridea.com/launch"
+    "domain_rating": 28,
+    "submission_link": "https://listyouridea.com/launch",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 64,
     "name": "MarketingDB",
     "description": "A platform providing dofollow backlinks for SaaS & startups.",
-    "submission_link": "https://marketingdb.live/submit"
+    "domain_rating": 59,
+    "submission_link": "https://marketingdb.live/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 65,
     "name": "Store.App",
     "description": "A marketplace to boost your PWA's visibility, reach a broader audience, and drive installs.",
-    "submission_link": "https://store.app/list"
+    "domain_rating": 55,
+    "submission_link": "https://store.app/list",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 66,
     "name": "Altern",
     "description": "A curated list and directory of the best AI tools and agents to enhance your productivity.",
-    "submission_link": "https://altern.ai/submit"
+    "domain_rating": 42,
+    "submission_link": "https://altern.ai/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 67,
     "name": "WIP.co",
     "description": "A community of makers who help each other ship projects and build in public.",
-    "submission_link": "https://wip.co/settings/projects/new"
+    "domain_rating": 55,
+    "submission_link": "https://wip.co/settings/projects/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 68,
     "name": "Launched!",
     "description": "A platform that helps you discover the latest products launched.",
-    "submission_link": "https://launched.io/newsubmission"
+    "domain_rating": 33,
+    "submission_link": "https://launched.io/newsubmission",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 69,
     "name": "StackShare",
     "description": "A platform to discover, discuss, and share the tech stacks that power the best software companies.",
-    "submission_link": "https://stackshare.io/"
+    "domain_rating": 79,
+    "submission_link": "https://stackshare.io/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 70,
     "name": "Startup Listing",
     "description": "A curated collection of SaaS tools, micro-SaaS solutions, and side projects to help grow your startup.",
-    "submission_link": "https://startuplist.ing/products/new"
+    "domain_rating": 41,
+    "submission_link": "https://startuplist.ing/products/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 71,
     "name": "Tiny Startups",
     "description": "A directory and platform to discover and launch small startups and indie projects.",
-    "submission_link": "https://www.tinystartups.com/submit"
+    "domain_rating": 70,
+    "submission_link": "https://www.tinystartups.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 72,
     "name": "Startup Fame",
     "description": "A platform to launch your startup, reach early adopters, and gain traction.",
-    "submission_link": "https://startupfa.me/dashboard"
+    "domain_rating": 83,
+    "submission_link": "https://startupfa.me/dashboard",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 73,
     "name": "BuiltByIndies",
     "description": "A directory and community showcasing projects and startups built by indie makers.",
-    "submission_link": "https://builtbyindies.com/submit"
+    "domain_rating": 31,
+    "submission_link": "https://builtbyindies.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 74,
     "name": "LaunchIgniter",
     "description": "A directory to discover and launch new tech products and tools.",
-    "submission_link": "https://launchigniter.com/submit"
+    "domain_rating": 75,
+    "submission_link": "https://launchigniter.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 75,
     "name": "Twelve Tools",
     "description": "A directory to list and discover new software tools and startup products.",
-    "submission_link": "https://twelve.tools/submit"
+    "domain_rating": 81,
+    "submission_link": "https://twelve.tools/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 76,
     "name": "Startup Fast",
     "description": "A directory for launching startups and finding early adopters quickly.",
-    "submission_link": "https://www.startupfa.st/submit"
+    "domain_rating": 71,
+    "submission_link": "https://www.startupfa.st/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 77,
     "name": "ToolsFine",
     "description": "A directory focused on discovering and launching AI tools and startup products.",
-    "submission_link": "https://toolsfine.com/submit-ai-tools-or-product"
+    "domain_rating": 65,
+    "submission_link": "https://toolsfine.com/submit-ai-tools-or-product",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 78,
     "name": "FoundrList",
     "description": "A curated directory for discovering new software tools and startup resources.",
-    "submission_link": "https://www.foundrlist.com/submit"
+    "domain_rating": 72,
+    "submission_link": "https://www.foundrlist.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 79,
     "name": "SiteLike",
     "description": "A platform to discover alternative websites, software, and tools.",
-    "submission_link": "https://www.sitelike.org/add-site"
+    "domain_rating": 66,
+    "submission_link": "https://www.sitelike.org/add-site",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 80,
     "name": "Alternative.me",
     "description": "A platform to find alternatives to software, apps, and web services.",
-    "submission_link": "https://alternative.me/how-to/submit-software/"
+    "domain_rating": 75,
+    "submission_link": "https://alternative.me/how-to/submit-software/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 81,
     "name": "Future Tools",
     "description": "A directory for discovering the latest AI tools and future technologies.",
-    "submission_link": "https://futuretools.io/submit-a-tool"
+    "domain_rating": 69,
+    "submission_link": "https://futuretools.io/submit-a-tool",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 82,
     "name": "Firsto",
     "description": "A fair, visibility-first product launch platform where every project gets seen.",
-    "submission_link": "https://firsto.co/projects/submit"
+    "domain_rating": 55,
+    "submission_link": "https://firsto.co/projects/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 83,
     "name": "AI With Me",
     "description": "A directory to discover and submit new AI tools and products.",
-    "submission_link": "https://aiwith.me/submit/"
+    "domain_rating": 59,
+    "submission_link": "https://aiwith.me/submit/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 84,
     "name": "Shipybara",
     "description": "A platform to launch your startup and discover new projects.",
-    "submission_link": "https://shipybara.com/projects/submit"
+    "domain_rating": 52,
+    "submission_link": "https://shipybara.com/projects/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 85,
     "name": "PromoteProject",
     "description": "A directory to promote your startup and discover new projects.",
-    "submission_link": "https://www.promoteproject.com/submit-startup"
+    "domain_rating": 50,
+    "submission_link": "https://www.promoteproject.com/submit-startup",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 86,
     "name": "StartupTrusted",
     "description": "A curated database to discover verified startups and submit your own.",
-    "submission_link": "https://startuptrusted.com/submit"
+    "domain_rating": 49,
+    "submission_link": "https://startuptrusted.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 87,
     "name": "Funnel Directory",
     "description": "A directory to compare and find the right funnel builder software for your business.",
-    "submission_link": "https://funneldirectory.com/submit"
+    "domain_rating": 14,
+    "submission_link": "https://funneldirectory.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 88,
     "name": "Trust Revenue",
     "description": "A verified database and platform to launch your startup and share revenue metrics.",
-    "submission_link": "https://trust-revenue.com/dashboard/startup"
+    "domain_rating": 1,
+    "submission_link": "https://trust-revenue.com/dashboard/startup",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 89,
     "name": "GreenRocket",
     "description": "A directory to launch and discover new startup products and tools.",
-    "submission_link": "https://greenrocket.app/create"
+    "domain_rating": 9,
+    "submission_link": "https://greenrocket.app/create",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 90,
     "name": "OpenAlternative",
     "description": "A community-driven directory of open-source alternatives to proprietary SaaS and software.",
-    "submission_link": "https://openalternative.co/submit"
+    "domain_rating": 51,
+    "submission_link": "https://openalternative.co/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 91,
     "name": "Huzzler",
     "description": "A founder-built startup directory and community platform to launch and showcase products.",
-    "submission_link": "https://huzzler.so/products/create"
+    "domain_rating": 58,
+    "submission_link": "https://huzzler.so/products/create",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 92,
     "name": "We Like Tools",
     "description": "A curated directory to discover, compare, and select software tools across various categories.",
-    "submission_link": "https://weliketools.com/submit"
+    "domain_rating": 50,
+    "submission_link": "https://weliketools.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 93,
     "name": "1000.tools",
     "description": "A curated directory featuring high-quality software and AI-powered tools.",
-    "submission_link": "https://1000.tools/my/tools/create"
+    "domain_rating": 39,
+    "submission_link": "https://1000.tools/my/tools/create",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 94,
     "name": "ConfettiSaaS",
     "description": "A curated startup directory and showcase platform specifically for SaaS products, websites, and apps.",
-    "submission_link": "https://confettisaas.com/submit"
+    "domain_rating": 36,
+    "submission_link": "https://confettisaas.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 95,
     "name": "gh/awesome-aussie",
     "description": "A primary tech directory for Australian-based startups and open-source projects.",
+    "domain_rating": null,
     "submission_link": "https://github.com/AdamXweb/awesome-aussie"
   },
   {
     "id": 96,
     "name": "AgentMRR",
     "description": "A public revenue leaderboard and verification platform for AI agents with provider-backed proof.",
-    "submission_link": "https://agentmrr.com/dashboard/agents"
+    "domain_rating": 25,
+    "submission_link": "https://agentmrr.com/dashboard/agents",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 97,
     "name": "StartupLibrary",
     "description": "A startup community built to launch your startup, climb the leaderboard, and grow with built-in SEO and marketing tools.",
-    "submission_link": "https://startuplibrary.net/submit"
+    "domain_rating": 32,
+    "submission_link": "https://startuplibrary.net/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 98,
     "name": "Product Watch",
     "description": "A daily feed of new tech products and startups where makers can launch their latest projects.",
-    "submission_link": "https://productwatch.io/product/create"
+    "domain_rating": 72,
+    "submission_link": "https://productwatch.io/product/create",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 99,
     "name": "WeekHack",
     "description": "A weekly product launch platform designed for indie makers, solo founders, and bootstrapped projects.",
-    "submission_link": "https://www.weekhack.com/launches/submit"
+    "domain_rating": 49,
+    "submission_link": "https://www.weekhack.com/launches/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 100,
     "name": "AIStage",
     "description": "A directory specifically tailored for discovering, listing, and showcasing the latest AI tools.",
-    "submission_link": "https://aistage.net/submit"
+    "domain_rating": 72,
+    "submission_link": "https://aistage.net/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 101,
     "name": "AI Center",
     "description": "A curated directory to discover and submit the best AI tools, platforms, and resources.",
-    "submission_link": "https://aicenter.ai/submit-tools"
+    "domain_rating": 37,
+    "submission_link": "https://aicenter.ai/submit-tools",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 102,
     "name": "AI Tools by Neil Patel",
     "description": "A curated directory for discovering and listing AI-powered tools, managed by marketer Neil Patel.",
-    "submission_link": "https://aitools.neilpatel.com/submit/"
+    "domain_rating": 91,
+    "submission_link": "https://aitools.neilpatel.com/submit/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 103,
     "name": "BroUseAI",
     "description": "A user-friendly directory for discovering, listing, and comparing AI tools.",
-    "submission_link": "https://www.brouseai.com/submission/ai"
+    "domain_rating": 10,
+    "submission_link": "https://www.brouseai.com/submission/ai",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 104,
     "name": "SaaSFame",
     "description": "A curated directory to discover and submit SaaS products and software tools.",
-    "submission_link": "https://saasfame.com/submit"
+    "domain_rating": 67,
+    "submission_link": "https://saasfame.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 105,
     "name": "Wired Business",
     "description": "A web and business directory focusing on showcasing startups, products, and websites to boost visibility.",
-    "submission_link": "https://wired.business/submit"
+    "domain_rating": 77,
+    "submission_link": "https://wired.business/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 106,
     "name": "RankmyAI",
     "description": "A data-driven directory and ranking platform specifically tailored for AI tools and products.",
-    "submission_link": "https://www.rankmyai.com/tool-addition"
+    "domain_rating": 34,
+    "submission_link": "https://www.rankmyai.com/tool-addition",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 107,
     "name": "ToolFame",
     "description": "A curated directory designed to help discover trending web tools, SaaS, and software products.",
-    "submission_link": "https://toolfame.com/submit"
+    "domain_rating": 74,
+    "submission_link": "https://toolfame.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 108,
     "name": "ShowMeBestAI",
     "description": "A structured AI tools directory to submit, discover, and categorize the best AI tools and resources.",
-    "submission_link": "https://showmebest.ai/submit"
+    "domain_rating": 76,
+    "submission_link": "https://showmebest.ai/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 109,
     "name": "Neeed Directory",
     "description": "A curated directory showcasing the best web tools, resources, and SaaS products for creators.",
-    "submission_link": "https://neeed.directory/submit"
+    "domain_rating": 72,
+    "submission_link": "https://neeed.directory/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 110,
     "name": "gh/awesome-ai-tools",
     "description": "A curated list of awesome artificial intelligence tools, generators, and developer utilities.",
+    "domain_rating": null,
     "submission_link": "https://github.com/mahseema/awesome-ai-tools"
   },
   {
     "id": 111,
     "name": "Aidirs",
     "description": "A directory to discover, list, and evaluate the latest AI tools and software.",
-    "submission_link": "https://aidirs.best/submit"
+    "domain_rating": 64,
+    "submission_link": "https://aidirs.best/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 112,
     "name": "WhatTheAI",
     "description": "A curated database featuring thousands of AI tools and services updated daily.",
-    "submission_link": "https://whattheai.tech/submit"
+    "domain_rating": 35,
+    "submission_link": "https://whattheai.tech/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 113,
     "name": "Waildworld",
     "description": "A curated directory and catalog to discover, search, and submit the latest AI tools.",
-    "submission_link": "https://waildworld.com/"
+    "domain_rating": 10,
+    "submission_link": "https://waildworld.com/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 114,
     "name": "DevPages",
     "description": "A curated, community-driven directory of software developer tools and resources.",
-    "submission_link": "https://devpages.io/submit-a-tool"
+    "domain_rating": 21,
+    "submission_link": "https://devpages.io/submit-a-tool",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 115,
     "name": "AIToolsCapital",
     "description": "A directory and leaderboard platform to discover, list, and showcase AI tools and startups.",
-    "submission_link": "https://aitoolscapital.com/submit-tool"
+    "domain_rating": 18,
+    "submission_link": "https://aitoolscapital.com/submit-tool",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 116,
     "name": "Webspot",
     "description": "A web discovery platform designed to find tools, guides, and productive websites.",
-    "submission_link": "https://webspot.app/submit"
+    "domain_rating": 25,
+    "submission_link": "https://webspot.app/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 117,
     "name": "BuildVoyage",
     "description": "A curated directory and community platform for micro-SaaS founders and makers to showcase products and track milestones.",
-    "submission_link": "https://buildvoyage.com/submit"
+    "domain_rating": 39,
+    "submission_link": "https://buildvoyage.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 118,
     "name": "AI Pulse",
     "description": "An ad-free directory and resource hub designed to discover, compare, and list AI tools.",
-    "submission_link": "https://www.aipulse.fyi/submit"
+    "domain_rating": 23,
+    "submission_link": "https://www.aipulse.fyi/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 119,
     "name": "AI Tools Saver",
     "description": "A directory and marketplace for AI tools, focusing on exclusive deals, discounts, and lifetime offers.",
-    "submission_link": "https://www.aitoolsaver.com/submit-ai-tool"
+    "domain_rating": 31,
+    "submission_link": "https://www.aitoolsaver.com/submit-ai-tool",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 120,
     "name": "AI Hustle",
     "description": "A curated directory of AI-powered SaaS solutions and tools designed to automate workflows and improve productivity.",
-    "submission_link": "https://aihustle.tools/submit/"
+    "domain_rating": 36,
+    "submission_link": "https://aihustle.tools/submit/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 121,
     "name": "Bowora",
     "description": "A startup directory and community launchpad with a star ranking system to help founders launch, track, and grow their businesses.",
-    "submission_link": "https://bowora.com/register"
+    "domain_rating": 43,
+    "submission_link": "https://bowora.com/register",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 122,
     "name": "SHIP OR DIE",
     "description": "A public accountability platform for indie hackers to ship, track, and share products.",
-    "submission_link": "https://shipordie.club/leaderboard"
+    "domain_rating": 13,
+    "submission_link": "https://shipordie.club/leaderboard",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 123,
     "name": "SubmitMatic",
     "description": "A curated SaaS directory and submission platform to help founders list their startups and gain backlinks.",
-    "submission_link": "https://submitmatic.com/submit"
+    "domain_rating": 36,
+    "submission_link": "https://submitmatic.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 124,
     "name": "SaaS AI Tools",
     "description": "A curated directory for discovering and listing AI-powered SaaS solutions and tools.",
-    "submission_link": "https://saasaitools.com/submit/"
+    "domain_rating": 53,
+    "submission_link": "https://saasaitools.com/submit/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 125,
     "name": "Find Your SaaS",
     "description": "A curated SaaS directory for discovering and listing SaaS solutions and tools.",
-    "submission_link": "https://www.findyoursaas.com/onboard"
+    "domain_rating": 39,
+    "submission_link": "https://www.findyoursaas.com/onboard",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 126,
     "name": "AI Tools SME",
     "description": "A directory providing user-friendly, non-technical AI tool reviews for small businesses.",
-    "submission_link": "https://www.aitoolssme.com/submit-your-tool"
+    "domain_rating": 57,
+    "submission_link": "https://www.aitoolssme.com/submit-your-tool",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 127,
     "name": "LaunchPad India",
     "description": "A curated launch platform and directory to showcase Indian startups and indie products.",
-    "submission_link": "https://launchpadindia.co/submit"
+    "domain_rating": 6,
+    "submission_link": "https://launchpadindia.co/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 128,
     "name": "AITopTools",
     "description": "A directory to discover, compare, and submit top AI tools and applications.",
-    "submission_link": "https://aitoptools.com/account/submit-tool/"
+    "domain_rating": 54,
+    "submission_link": "https://aitoptools.com/account/submit-tool/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 129,
     "name": "Builders.to",
     "description": "A place for founders to share projects, get feedback, and find first users.",
-    "submission_link": "https://builders.to/projects/new"
+    "domain_rating": 48,
+    "submission_link": "https://builders.to/projects/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 130,
     "name": "fb/SaaS Founder Group",
     "description": "A Facebook group for SaaS founders to network, share strategies, and discuss product growth.",
+    "domain_rating": null,
     "submission_link": "https://www.facebook.com/groups/saasfoundergroup/"
   },
   {
     "id": 131,
     "name": "fb/SaaS Marketing Group",
     "description": "A Facebook group for SaaS founders and marketers to discuss marketing strategies, growth hacks, and user acquisition.",
+    "domain_rating": null,
     "submission_link": "https://www.facebook.com/groups/4098505490210812"
   },
   {
     "id": 132,
     "name": "Super Launch",
     "description": "A startup discovery and product launch platform for SaaS products, AI tools, and open-source projects.",
-    "submission_link": "https://www.superlaun.ch/dashboard/submit"
+    "domain_rating": 61,
+    "submission_link": "https://www.superlaun.ch/dashboard/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 133,
     "name": "TopAITools4U",
     "description": "A directory to discover the best AI tools for writing, design, coding, video, SEO, and productivity.",
-    "submission_link": "https://www.topaitools4u.site/submit"
+    "domain_rating": 2,
+    "submission_link": "https://www.topaitools4u.site/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 134,
     "name": "ShipBoost",
     "description": "A founder-first SaaS launch platform that helps bootstrapped startups gain lasting visibility through launch boards, listings, and SEO-driven discovery.",
-    "submission_link": "https://shipboost.io/submit"
+    "domain_rating": 48,
+    "submission_link": "https://shipboost.io/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 135,
     "name": "AIBase",
     "description": "A directory of AI tools, models, tutorials, and resources helping users discover solutions, learn faster, and build with AI every day.",
-    "submission_link": "https://app.aibase.com/submission"
+    "domain_rating": 72,
+    "submission_link": "https://app.aibase.com/submission",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 136,
     "name": "Forg",
     "description": "A professional network and launchpad for developers and indie hackers to showcase projects and share proof of work.",
-    "submission_link": "https://forg.to/product/new"
+    "domain_rating": 31,
+    "submission_link": "https://forg.to/product/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 137,
     "name": "Launch Llama",
     "description": "A directory to list and discover new AI tools, developer resources, and SaaS products.",
-    "submission_link": "https://tools.launchllama.co/"
+    "domain_rating": 62,
+    "submission_link": "https://tools.launchllama.co/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 138,
     "name": "FutureStack",
     "description": "A community-driven directory to discover, upvote, and list AI tools and software.",
-    "submission_link": "https://www.usefuturestack.com/submit"
+    "domain_rating": 2,
+    "submission_link": "https://www.usefuturestack.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 139,
     "name": "ProductFame",
     "description": "A product launch platform where founders gain visibility and users discover new startups.",
-    "submission_link": "https://productfame.com/products/submit"
+    "domain_rating": 39,
+    "submission_link": "https://productfame.com/products/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 140,
     "name": "Lifto",
     "description": "A video-first product launch and discovery platform for SaaS founders and early adopters.",
-    "submission_link": "https://liftoapp.com/submit"
+    "domain_rating": 1,
+    "submission_link": "https://liftoapp.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 141,
     "name": "Findly.tools",
     "description": "A curated online directory for SaaS and AI products to list projects, gain visibility, and secure backlinks.",
-    "submission_link": "https://findly.tools/submit"
+    "domain_rating": 80,
+    "submission_link": "https://findly.tools/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 142,
     "name": "Verified Tools",
     "description": "A curated startup directory for discovering, comparing, and listing AI tools and SaaS products.",
-    "submission_link": "https://www.verifiedtools.info/submit"
+    "domain_rating": 49,
+    "submission_link": "https://www.verifiedtools.info/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 143,
     "name": "Better Launch",
     "description": "A product launch and discovery platform designed for founders, indie hackers, and early adopters to showcase digital products.",
-    "submission_link": "https://www.betterlaunch.co/submit"
+    "domain_rating": 57,
+    "submission_link": "https://www.betterlaunch.co/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 144,
     "name": "BuildHop",
     "description": "A discovery platform designed for founders and builders to showcase startups, tools, and side projects.",
-    "submission_link": "https://buildhop.io/app/create"
+    "domain_rating": 39,
+    "submission_link": "https://buildhop.io/app/create",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 145,
     "name": "SaaS Page",
     "description": "A community-driven launch directory and analytics platform for indie makers, solopreneurs, and SaaS founders.",
-    "submission_link": "https://www.saaspa.ge/submit"
+    "domain_rating": 39,
+    "submission_link": "https://www.saaspa.ge/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 146,
     "name": "Pro Launch",
     "description": "A product launch and discovery platform designed to help startups and indie hackers gain visibility.",
-    "submission_link": "https://prolaunch.net/projects/submit"
+    "domain_rating": 31,
+    "submission_link": "https://prolaunch.net/projects/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 147,
     "name": "Productivity Directory",
     "description": "A curated directory of productivity software, tools, and resources to help users improve efficiency.",
-    "submission_link": "https://productivity.directory/s/submit"
+    "domain_rating": 40,
+    "submission_link": "https://productivity.directory/s/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 148,
     "name": "r/IMadeThis",
     "description": "A Reddit community for creators to share projects, tools, applications, and things they built.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/IMadeThis/submit/"
   },
   {
     "id": 149,
     "name": "LaunchPact",
     "description": "A mutual support network and platform for startup founders to coordinate upvotes and build launch momentum.",
-    "submission_link": "https://www.launchpact.io/launches/new"
+    "domain_rating": 10,
+    "submission_link": "https://www.launchpact.io/launches/new",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 150,
     "name": "Toolfio",
     "description": "A curated discovery platform and business directory designed for AI tools, SaaS products, startups, and developer resources.",
-    "submission_link": "https://toolfio.com/submit"
+    "domain_rating": 60,
+    "submission_link": "https://toolfio.com/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 151,
     "name": "Toolfolio",
     "description": "A curated discovery platform and directory featuring tools for productivity, design, AI, social media, and startups.",
-    "submission_link": "https://toolfolio.com/"
+    "domain_rating": 25,
+    "submission_link": "https://toolfolio.com/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 152,
     "name": "OGFolio",
     "description": "A curated Open Graph image gallery and design inspiration hub for designers, developers, and creators.",
-    "submission_link": "https://ogfolio.com/"
+    "domain_rating": 4,
+    "submission_link": "https://ogfolio.com/",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 153,
     "name": "r/GetStartups",
     "description": "A Reddit community for startup founders, makers, and indie hackers to share projects, request feedback, and discuss growth.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/GetStartups/submit/"
   },
   {
     "id": 154,
     "name": "Startup.sx",
     "description": "A community-curated, minimalist Product Hunt alternative for indie makers.",
-    "submission_link": "https://www.startup.sx/submit"
+    "domain_rating": 29,
+    "submission_link": "https://www.startup.sx/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 155,
     "name": "r/LaunchMyStartup",
     "description": "A Reddit community for startup founders and creators to launch their projects and get feedback from other builders.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/LaunchMyStartup/submit/"
   },
   {
     "id": 156,
     "name": "Revispy Launchpad",
     "description": "A product launch and project showcase platform for builders to share side projects, collect feedback, and connect with the tech community.",
-    "submission_link": "https://www.revispy.com/launchpad/create"
+    "domain_rating": 26,
+    "submission_link": "https://www.revispy.com/launchpad/create",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 157,
     "name": "r/AISaaSHunter",
     "description": "A Reddit community dedicated to discovering, discussing, and promoting AI-powered SaaS tools.",
+    "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/AISaaSHunter/submit/"
   },
   {
     "id": 158,
     "name": "JustLaunched",
     "description": "A directory where founders submit and discover newly launched SaaS products, organized by category.",
-    "submission_link": "https://justlaunched.fyi/submit"
+    "domain_rating": 37,
+    "submission_link": "https://justlaunched.fyi/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 159,
     "name": "Open Source Projects",
     "description": "A categorized directory where makers submit and discover open-source projects and alternatives to proprietary software.",
-    "submission_link": "https://opensourceprojects.cc/submit"
+    "domain_rating": 6,
+    "submission_link": "https://opensourceprojects.cc/submit",
+    "dr_last_updated": "2026-07-15"
   },
   {
     "id": 160,
     "name": "SaaSCity",
     "description": "A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map.",
-    "submission_link": "https://saascity.io/saascity?submit=1"
+    "domain_rating": 46,
+    "submission_link": "https://saascity.io/saascity?submit=1",
+    "dr_last_updated": "2026-07-15"
   }
 ]
