@@ -218,9 +218,9 @@ If you found this directory helpful in launching your SaaS, consider giving the 
 <summary><kbd>Star History</kbd></summary>
 <a href="https://www.star-history.com/?repos=theshubh77%2Fawesome-saas-directories&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=theshubh77/awesome-saas-directories&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=theshubh77/awesome-saas-directories&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=theshubh77/awesome-saas-directories&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=theshubh77/awesome-saas-directories&type=date&theme=dark&legend=top-left&sealed_token=WiSypzsHlVQ3a5P5ebVzjsBFB6IDFQvegx6bwROs0RGe-MeQV3FxOJeHRmK870b-YlERWec0MdM2AjgJmXemJbmp8RensyVAV83j94whK7nlb3joOHwPEydqmON5fAoaTS51ZjcY5vNBa_AOmqiHSyzBP2gcs-foOKS7jyp9lqTh6xg3xTvmpW3kk0BN" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=theshubh77/awesome-saas-directories&type=date&legend=top-left&sealed_token=WiSypzsHlVQ3a5P5ebVzjsBFB6IDFQvegx6bwROs0RGe-MeQV3FxOJeHRmK870b-YlERWec0MdM2AjgJmXemJbmp8RensyVAV83j94whK7nlb3joOHwPEydqmON5fAoaTS51ZjcY5vNBa_AOmqiHSyzBP2gcs-foOKS7jyp9lqTh6xg3xTvmpW3kk0BN" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=theshubh77/awesome-saas-directories&type=date&legend=top-left&sealed_token=WiSypzsHlVQ3a5P5ebVzjsBFB6IDFQvegx6bwROs0RGe-MeQV3FxOJeHRmK870b-YlERWec0MdM2AjgJmXemJbmp8RensyVAV83j94whK7nlb3joOHwPEydqmON5fAoaTS51ZjcY5vNBa_AOmqiHSyzBP2gcs-foOKS7jyp9lqTh6xg3xTvmpW3kk0BN" />
  </picture>
 </a>
 </details>
