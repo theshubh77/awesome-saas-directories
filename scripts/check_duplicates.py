@@ -25,13 +25,13 @@ def check_duplicates(filepath):
             continue # skip header and separator
             
         parts = line.split('|')
-        if len(parts) >= 5:
-            # Format is usually: | # | Name | Description | Link |
+        if len(parts) >= 6:
+            # Format is usually: | # | Name | Description | Domain Rating | Link |
             name = parts[2].strip()
             # Clean up the name from markdown bolding
             name = name.replace('**', '')
             
-            link_col = parts[4].strip()
+            link_col = parts[5].strip()
             # Extract URL from markdown link format [text](url)
             url_match = re.search(r'\]\((.*?)\)', link_col)
             url = url_match.group(1).strip() if url_match else link_col

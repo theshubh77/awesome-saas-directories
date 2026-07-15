@@ -2,8 +2,10 @@
 <!-- Briefly describe the changes you are making. If adding a directory, list its name and link below. -->
 
 ### Directory Details (if applicable)
+- **#:** (Leave as `-`)
 - **Directory Name:** 
 - **Description:** 
+- **Domain Rating:** (Leave as `-`)
 - **Submit Link:** 
 
 ## Type of Change

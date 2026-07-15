@@ -6,6 +6,10 @@ on:
       - master
     paths:
       - 'README.md'
+  schedule:
+    # Run daily at midnight to update domain ratings that are older than 10 days
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   auto-number:
@@ -33,6 +37,9 @@ jobs:
       - name: Run JSON generation script
         run: python scripts/generate_json.py
 
+      - name: Run Domain Rating fetcher
+        run: python scripts/fetch_dr.py
+
       - name: Check for changes
         id: git-check
         run: |
@@ -44,5 +51,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: auto-number table and update launchdb.json"
+          git commit -m "chore: auto-number table, fetch domain ratings, and update launchdb.json"
           git push

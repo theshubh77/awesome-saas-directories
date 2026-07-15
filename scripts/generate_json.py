@@ -4,6 +4,19 @@ import json
 from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
 
 def generate_json(readme_path, json_path):
+    # Load existing directories from launchdb.json to preserve dr_last_updated and cached domain_ratings
+    existing_entries = {}
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                for entry in data:
+                    link = entry.get('submission_link')
+                    if link:
+                        existing_entries[link] = entry
+        except Exception as e:
+            print(f"Warning: Could not read existing JSON: {e}")
+
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -24,15 +37,21 @@ def generate_json(readme_path, json_path):
             continue # skip header and separator
             
         parts = [p.strip() for p in line.split('|')]
-        # Parts will be: ['', '#', 'Name', 'Description', 'Link', '']
-        if len(parts) >= 5:
+        # Parts will be: ['', '#', 'Name', 'Description', 'Domain Rating', 'Link', '']
+        if len(parts) >= 6:
             name = parts[2]
             # Clean up the name from markdown bolding
             name = name.replace('**', '')
             
             description = parts[3]
             
-            link_col = parts[4]
+            dr_str = parts[4]
+            try:
+                domain_rating = int(dr_str) if dr_str != '-' else None
+            except ValueError:
+                domain_rating = None
+            
+            link_col = parts[5]
             # Extract URL from markdown link format [text](url)
             url_match = re.search(r'\]\((.*?)\)', link_col)
             url = url_match.group(1).strip() if url_match else link_col
@@ -55,12 +74,23 @@ def generate_json(readme_path, json_path):
             
             # Check if name is not empty
             if name:
-                directories.append({
+                entry = {
                     "id": entry_id,
                     "name": name,
                     "description": description,
+                    "domain_rating": domain_rating,
                     "submission_link": url
-                })
+                }
+                
+                # Merge historical DR update metadata
+                existing = existing_entries.get(url)
+                if existing:
+                    if 'dr_last_updated' in existing:
+                        entry['dr_last_updated'] = existing['dr_last_updated']
+                    if entry['domain_rating'] is None and existing.get('domain_rating') is not None:
+                        entry['domain_rating'] = existing['domain_rating']
+                
+                directories.append(entry)
                 
     # Write to directories.json
     with open(json_path, 'w', encoding='utf-8') as f:

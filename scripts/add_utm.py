@@ -68,8 +68,8 @@ def process_readme(readme_path):
             continue # skip header and separator
             
         parts = line.split('|')
-        if len(parts) >= 5:
-            link_col = parts[4].strip()
+        if len(parts) >= 6:
+            link_col = parts[5].strip()
             # Extract URL from markdown link format [text](url)
             url_match = re.search(r'\[(.*?)\]\((.*?)\)', link_col)
             
@@ -79,13 +79,13 @@ def process_readme(readme_path):
                 
                 new_url = add_utm_to_url(url)
                 if new_url != url:
-                    parts[4] = f' [{link_text}]({new_url}) '
+                    parts[5] = f' [{link_text}]({new_url}) '
                     changes_made = True
             else:
                 # Raw URL
                 new_url = add_utm_to_url(link_col)
                 if new_url != link_col:
-                    parts[4] = f' {new_url} '
+                    parts[5] = f' {new_url} '
                     changes_made = True
             
             new_lines.append('|'.join(parts))
