@@ -1261,5 +1261,13 @@
     "domain_rating": 46,
     "submission_link": "https://saascity.io/saascity?submit=1",
     "dr_last_updated": "2026-07-15"
+  },
+  {
+    "id": 161,
+    "name": "Startup AIdeas",
+    "description": "An AI tools directory for founders using AI for research, marketing, automation, and startup execution.",
+    "domain_rating": 41,
+    "submission_link": "https://startupaideas.com/submit",
+    "dr_last_updated": "2026-07-15"
   }
 ]

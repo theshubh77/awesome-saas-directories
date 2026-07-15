@@ -191,6 +191,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 158 | **JustLaunched** | A directory where founders submit and discover newly launched SaaS products, organized by category. | 37 | [Submit Here](https://justlaunched.fyi/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 159 | **Open Source Projects** | A categorized directory where makers submit and discover open-source projects and alternatives to proprietary software. | 6 | [Submit Here](https://opensourceprojects.cc/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 160 | **SaaSCity** | A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map. | 46 | [Submit Here](https://saascity.io/saascity?submit=1&utm_source=launchdb.vercel.app&via=launchdb) |
+| 161 | **Startup AIdeas** | An AI tools directory for founders using AI for research, marketing, automation, and startup execution. | 41 | [Submit Here](https://startupaideas.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
