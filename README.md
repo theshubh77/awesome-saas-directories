@@ -192,6 +192,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 159 | **Open Source Projects** | A categorized directory where makers submit and discover open-source projects and alternatives to proprietary software. | 6 | [Submit Here](https://opensourceprojects.cc/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 160 | **SaaSCity** | A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map. | 46 | [Submit Here](https://saascity.io/saascity?submit=1&utm_source=launchdb.vercel.app&via=launchdb) |
 | 161 | **Startup AIdeas** | An AI tools directory for founders using AI for research, marketing, automation, and startup execution. | 41 | [Submit Here](https://startupaideas.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **FindThatSoftware** | India-first software directory with verified India-specific pricing (including forex conversion and GST) and honest trade-offs for every tool. | - | [Submit Here](https://findthatsoftware.com/vendors) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
