@@ -1280,6 +1280,14 @@
   },
   {
     "id": 163,
+    "name": "Mydentify",
+    "description": "A product directory organized by user goals, with free, permanent product submissions.",
+    "domain_rating": 3,
+    "submission_link": "https://mydentify.com/submit",
+    "dr_last_updated": "2026-07-31"
+  },
+  {
+    "id": 164,
     "name": "The Agents Index",
     "description": "A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing.",
     "domain_rating": 0,
@@ -1287,7 +1295,7 @@
     "dr_last_updated": "2026-07-31"
   },
   {
-    "id": 164,
+    "id": 165,
     "name": "AIWget",
     "description": "A curated directory for discovering AI agents, workflow automation tools, and creative AI products.",
     "domain_rating": 31,
