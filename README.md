@@ -193,8 +193,8 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 160 | **SaaSCity** | A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map. | 47 | [Submit Here](https://saascity.io/saascity?submit=1&utm_source=launchdb.vercel.app&via=launchdb) |
 | 161 | **Startup AIdeas** | An AI tools directory for founders using AI for research, marketing, automation, and startup execution. | 38 | [Submit Here](https://startupaideas.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 162 | **FindThatSoftware** | India-first software directory with verified India-specific pricing (including forex conversion and GST) and honest trade-offs for every tool. | 0 | [Submit Here](https://findthatsoftware.com/vendors?utm_source=launchdb.vercel.app&via=launchdb) |
-| - | **The Agents Index** | A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing. | - | [Submit Here](https://theagentsindex.com/submit) |
-| 163 | **AIWget** | A curated directory for discovering AI agents, workflow automation tools, and creative AI products. | 31 | [Submit Here](https://aiwget.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 163 | **The Agents Index** | A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing. | 0 | [Submit Here](https://theagentsindex.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 164 | **AIWget** | A curated directory for discovering AI agents, workflow automation tools, and creative AI products. | 31 | [Submit Here](https://aiwget.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
