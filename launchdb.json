@@ -1276,6 +1276,22 @@
     "description": "India-first software directory with verified India-specific pricing (including forex conversion and GST) and honest trade-offs for every tool.",
     "domain_rating": 0,
     "submission_link": "https://findthatsoftware.com/vendors",
-    "dr_last_updated": "2026-07-18"
+    "dr_last_updated": "2026-07-28"
+  },
+  {
+    "id": 163,
+    "name": "The Agents Index",
+    "description": "A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing.",
+    "domain_rating": 0,
+    "submission_link": "https://theagentsindex.com/submit",
+    "dr_last_updated": "2026-07-31"
+  },
+  {
+    "id": 164,
+    "name": "AIWget",
+    "description": "A curated directory for discovering AI agents, workflow automation tools, and creative AI products.",
+    "domain_rating": 31,
+    "submission_link": "https://aiwget.com/submit",
+    "dr_last_updated": "2026-07-31"
   }
 ]
