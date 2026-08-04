@@ -1301,5 +1301,13 @@
     "domain_rating": 31,
     "submission_link": "https://aiwget.com/submit",
     "dr_last_updated": "2026-07-31"
+  },
+  {
+    "id": 166,
+    "name": "craked.dev",
+    "description": "A directory and platform for discovering developer tools, open-source projects, and SaaS built by engineers.",
+    "domain_rating": 0,
+    "submission_link": "https://www.craked.dev/products",
+    "dr_last_updated": "2026-08-04"
   }
 ]

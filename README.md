@@ -196,6 +196,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 163 | **Mydentify** | A product directory organized by user goals, with free, permanent product submissions. | 3 | [Submit Here](https://mydentify.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 164 | **The Agents Index** | A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing. | 0 | [Submit Here](https://theagentsindex.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 165 | **AIWget** | A curated directory for discovering AI agents, workflow automation tools, and creative AI products. | 31 | [Submit Here](https://aiwget.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 166 | **craked.dev** | A directory and platform for discovering developer tools, open-source projects, and SaaS built by engineers. | 0 | [Submit Here](https://www.craked.dev/products?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
