@@ -1309,5 +1309,13 @@
     "domain_rating": 0,
     "submission_link": "https://www.craked.dev/products",
     "dr_last_updated": "2026-08-04"
+  },
+  {
+    "id": 167,
+    "name": "Sidebar",
+    "description": "A curated newsletter and directory sharing five design and tech links every weekday.",
+    "domain_rating": 71,
+    "submission_link": "https://sidebar.io/submit",
+    "dr_last_updated": "2026-08-04"
   }
 ]
