@@ -193,6 +193,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 160 | **SaaSCity** | A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map. | 46 | [Submit Here](https://saascity.io/saascity?submit=1&utm_source=launchdb.vercel.app&via=launchdb) |
 | 161 | **Startup AIdeas** | An AI tools directory for founders using AI for research, marketing, automation, and startup execution. | 41 | [Submit Here](https://startupaideas.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 162 | **FindThatSoftware** | India-first software directory with verified India-specific pricing (including forex conversion and GST) and honest trade-offs for every tool. | 0 | [Submit Here](https://findthatsoftware.com/vendors?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **CitedIndex** | A researched, quality-gated directory of AI-visibility & GEO tools: the tools that measure and improve how AI engines (ChatGPT, Perplexity, Gemini, Google AI Overviews) see and cite your brand. | - | [Submit Here](https://citedindex.com/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
