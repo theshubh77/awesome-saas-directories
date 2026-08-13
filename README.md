@@ -198,6 +198,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 165 | **AIWget** | A curated directory for discovering AI agents, workflow automation tools, and creative AI products. | 31 | [Submit Here](https://aiwget.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 166 | **craked.dev** | A directory and platform for discovering developer tools, open-source projects, and SaaS built by engineers. | 0 | [Submit Here](https://www.craked.dev/products?utm_source=launchdb.vercel.app&via=launchdb) |
 | 167 | **Sidebar** | A curated newsletter and directory sharing five design and tech links every weekday. | 71 | [Submit Here](https://sidebar.io/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 168 | **Launchory** | A startup directory where founders submit a product for free and get an approved listing with a dofollow link, upvotes, and a public profile page. | 0 | [Submit Here](https://www.launchory.app/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
