@@ -1280,6 +1280,13 @@
   },
   {
     "id": 163,
+    "name": "CitedIndex",
+    "description": "A researched, quality-gated directory of AI-visibility & GEO tools.",
+    "domain_rating": null,
+    "submission_link": "https://citedindex.com/submit"
+  },
+  {
+    "id": 164,
     "name": "Mydentify",
     "description": "A product directory organized by user goals, with free, permanent product submissions.",
     "domain_rating": 29,
@@ -1287,7 +1294,7 @@
     "dr_last_updated": "2026-08-10"
   },
   {
-    "id": 164,
+    "id": 165,
     "name": "The Agents Index",
     "description": "A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing.",
     "domain_rating": 0,
@@ -1295,7 +1302,7 @@
     "dr_last_updated": "2026-08-10"
   },
   {
-    "id": 165,
+    "id": 166,
     "name": "AIWget",
     "description": "A curated directory for discovering AI agents, workflow automation tools, and creative AI products.",
     "domain_rating": 31,
@@ -1303,7 +1310,7 @@
     "dr_last_updated": "2026-08-10"
   },
   {
-    "id": 166,
+    "id": 167,
     "name": "craked.dev",
     "description": "A directory and platform for discovering developer tools, open-source projects, and SaaS built by engineers.",
     "domain_rating": 0,
@@ -1311,7 +1318,7 @@
     "dr_last_updated": "2026-08-04"
   },
   {
-    "id": 167,
+    "id": 168,
     "name": "Sidebar",
     "description": "A curated newsletter and directory sharing five design and tech links every weekday.",
     "domain_rating": 71,
@@ -1319,7 +1326,7 @@
     "dr_last_updated": "2026-08-04"
   },
   {
-    "id": 168,
+    "id": 169,
     "name": "AISO Tools",
     "description": "A directory of 1,200+ AI tools with free listings, category browsing, and side-by-side comparison.",
     "domain_rating": null,
