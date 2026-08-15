@@ -200,12 +200,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 167 | **Sidebar** | A curated newsletter and directory sharing five design and tech links every weekday. | 71 | [Submit Here](https://sidebar.io/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 168 | **Launchory** | A startup directory where founders submit a product for free and get an approved listing with a dofollow link, upvotes, and a public profile page. | 39 | [Submit Here](https://www.launchory.app/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 169 | **CitedIndex** | A researched, quality-gated directory of AI-visibility & GEO tools. | 0 | [Submit Here](https://citedindex.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
-| 170 | **Mydentify** | A product directory organized by user goals, with free, permanent product submissions. | 29 | [Submit Here](https://mydentify.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
-| 171 | **The Agents Index** | A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing. | 0 | [Submit Here](https://theagentsindex.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
-| 172 | **AIWget** | A curated directory for discovering AI agents, workflow automation tools, and creative AI products. | 31 | [Submit Here](https://aiwget.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
-| 173 | **craked.dev** | A directory and platform for discovering developer tools, open-source projects, and SaaS built by engineers. | 0 | [Submit Here](https://www.craked.dev/products?utm_source=launchdb.vercel.app&via=launchdb) |
-| 174 | **Sidebar** | A curated newsletter and directory sharing five design and tech links every weekday. | 71 | [Submit Here](https://sidebar.io/submit?utm_source=launchdb.vercel.app&via=launchdb) |
-| 175 | **AISO Tools** | A directory of 1,200+ AI tools with free listings, category browsing, and side-by-side comparison. | 21 | [Submit Here](https://aisotools.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 170 | **AISO Tools** | A directory of 1,200+ AI tools with free listings, category browsing, and side-by-side comparison. | 21 | [Submit Here](https://aisotools.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
