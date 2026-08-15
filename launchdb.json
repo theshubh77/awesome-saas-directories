@@ -1341,5 +1341,13 @@
     "domain_rating": 21,
     "submission_link": "https://aisotools.com/submit",
     "dr_last_updated": "2026-08-16"
+  },
+  {
+    "id": 171,
+    "name": "Alt Hunt",
+    "description": "A directory and comparison platform where founders publish software alternative pages to capture competitor search traffic.",
+    "domain_rating": 4,
+    "submission_link": "https://althunt.io/new",
+    "dr_last_updated": "2026-08-16"
   }
 ]

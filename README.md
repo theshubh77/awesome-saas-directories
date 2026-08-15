@@ -201,6 +201,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 168 | **Launchory** | A startup directory where founders submit a product for free and get an approved listing with a dofollow link, upvotes, and a public profile page. | 39 | [Submit Here](https://www.launchory.app/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 169 | **CitedIndex** | A researched, quality-gated directory of AI-visibility & GEO tools. | 0 | [Submit Here](https://citedindex.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 170 | **AISO Tools** | A directory of 1,200+ AI tools with free listings, category browsing, and side-by-side comparison. | 21 | [Submit Here](https://aisotools.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 171 | **Alt Hunt** | A directory and comparison platform where founders publish software alternative pages to capture competitor search traffic. | 4 | [Submit Here](https://althunt.io/new?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
