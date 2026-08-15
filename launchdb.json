@@ -1317,5 +1317,12 @@
     "domain_rating": 71,
     "submission_link": "https://sidebar.io/submit",
     "dr_last_updated": "2026-08-04"
+  },
+  {
+    "id": 168,
+    "name": "AISO Tools",
+    "description": "A directory of 1,200+ AI tools with free listings, category browsing, and side-by-side comparison.",
+    "domain_rating": null,
+    "submission_link": "https://aisotools.com/submit"
   }
 ]
