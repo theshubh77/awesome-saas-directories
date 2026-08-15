@@ -38,12 +38,34 @@ def is_excluded_directory(name, url):
             return True
     return False
 
-def fetch_domain_rating(domain):
+try:
+    from dotenv import load_dotenv
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '.env')
+    load_dotenv(dotenv_path=env_path)
+except ImportError:
+    pass
+
+def fetch_domain_rating(domain, api_key=None):
+    if not api_key:
+        api_key = os.getenv('AHREFS_API_KEY')
+
     url = f"https://api.ahrefs.com/v3/public/domain-rating-free?target={urllib.parse.quote(domain)}"
-    req = urllib.request.Request(url, headers={'Accept': 'application/json'})
+    headers = {
+        'Accept': 'application/json',
+    }
+
+    if api_key:
+        headers['Authorization'] = f"Bearer {api_key}"
+    else:
+        # Fallback headers if calling without API key
+        headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+        headers['Referer'] = 'https://ahrefs.com/website-authority-checker'
+        headers['Origin'] = 'https://ahrefs.com'
+
+    req = urllib.request.Request(url, headers=headers)
     try:
         # Sleep for a bit to avoid hitting rate limits (polite delay)
-        time.sleep(1.5)
+        time.sleep(2.0)
         with urllib.request.urlopen(req, timeout=10) as response:
             data = json.loads(response.read().decode('utf-8'))
             dr_obj = data.get('domain_rating', {})
@@ -53,6 +75,11 @@ def fetch_domain_rating(domain):
         if e.code == 429:
             print(f"Rate limit hit (429) while fetching DR for {domain}.")
             raise RateLimitError("Rate limit hit")
+        elif e.code in (401, 403):
+            if not api_key:
+                print(f"HTTP {e.code} for {domain}: Ahrefs APIv3 key missing. Add AHREFS_API_KEY to your environment (https://app.ahrefs.com/account/api-keys).")
+            else:
+                print(f"HTTP error {e.code} (Forbidden/Unauthorized) for {domain}. Check your AHREFS_API_KEY.")
         else:
             print(f"HTTP error {e.code} for {domain}")
     except Exception as e:
@@ -77,6 +104,8 @@ def main():
     updated_any = False
     rate_limited = False
 
+    fetch_queue = []
+
     for entry in directories:
         name = entry.get('name', '')
         url = entry.get('submission_link', '')
@@ -96,44 +125,62 @@ def main():
             url_to_dr[clean_url] = None
             continue
 
-        # Check if we need to fetch
-        needs_fetch = False
         dr_val = entry.get('domain_rating')
         last_updated_str = entry.get('dr_last_updated')
+        url_to_dr[clean_url] = dr_val
 
+        # Check if we need to fetch and set priority (1: missing/null DR, 2: outdated DR >= 30 days)
+        needs_fetch = False
+        priority = 0
         if dr_val is None:
             needs_fetch = True
+            priority = 1
         elif not last_updated_str:
             needs_fetch = True
+            priority = 1
         else:
             try:
                 last_updated = datetime.datetime.strptime(last_updated_str, '%Y-%m-%d').date()
-                if (datetime.date.today() - last_updated).days >= 10:
+                if (datetime.date.today() - last_updated).days >= 30:
                     needs_fetch = True
+                    priority = 2
             except ValueError:
                 needs_fetch = True
+                priority = 1
 
-        if needs_fetch and not rate_limited:
-            domain = extract_domain(url)
-            if domain:
-                print(f"Fetching DR for {domain} ({name})...")
-                try:
-                    new_dr = fetch_domain_rating(domain)
-                    if new_dr is not None:
-                        entry['domain_rating'] = new_dr
-                        entry['dr_last_updated'] = datetime.date.today().strftime('%Y-%m-%d')
-                        url_to_dr[clean_url] = new_dr
-                        updated_any = True
-                        print(f"-> Success: DR = {new_dr}")
-                    else:
-                        url_to_dr[clean_url] = entry.get('domain_rating')
-                except RateLimitError:
-                    rate_limited = True
-                    url_to_dr[clean_url] = entry.get('domain_rating')
+        if needs_fetch:
+            fetch_queue.append((priority, entry, clean_url))
+
+    # Sort queue: entries with missing DR (priority 1) are processed FIRST
+    fetch_queue.sort(key=lambda x: x[0])
+
+    print(f"Total entries queued for DR check: {len(fetch_queue)} (Missing DR: {sum(1 for p, _, _ in fetch_queue if p == 1)}, Outdated DR: {sum(1 for p, _, _ in fetch_queue if p == 2)})")
+
+    for priority, entry, clean_url in fetch_queue:
+        if rate_limited:
+            break
+
+        name = entry.get('name', '')
+        url = entry.get('submission_link', '')
+        domain = extract_domain(url)
+        if not domain:
+            continue
+
+        print(f"Fetching DR for {domain} ({name})...")
+        try:
+            new_dr = fetch_domain_rating(domain)
+            if new_dr is not None:
+                entry['domain_rating'] = new_dr
+                entry['dr_last_updated'] = datetime.date.today().strftime('%Y-%m-%d')
+                url_to_dr[clean_url] = new_dr
+                updated_any = True
+                print(f"-> Success: DR = {new_dr}")
             else:
-                url_to_dr[clean_url] = entry.get('domain_rating')
-        else:
-            url_to_dr[clean_url] = entry.get('domain_rating')
+                print(f"-> Could not retrieve DR for {domain}")
+        except RateLimitError:
+            rate_limited = True
+            print("Rate limit reached. Halting further DR requests for this run.")
+            break
 
     # Save updated json database
     if updated_any:
