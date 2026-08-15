@@ -38,15 +38,30 @@ def is_excluded_directory(name, url):
             return True
     return False
 
-def fetch_domain_rating(domain):
+try:
+    from dotenv import load_dotenv
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '.env')
+    load_dotenv(dotenv_path=env_path)
+except ImportError:
+    pass
+
+def fetch_domain_rating(domain, api_key=None):
+    if not api_key:
+        api_key = os.getenv('AHREFS_API_KEY')
+
     url = f"https://api.ahrefs.com/v3/public/domain-rating-free?target={urllib.parse.quote(domain)}"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept': 'application/json, text/plain, */*',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Referer': 'https://ahrefs.com/website-authority-checker',
-        'Origin': 'https://ahrefs.com',
+        'Accept': 'application/json',
     }
+
+    if api_key:
+        headers['Authorization'] = f"Bearer {api_key}"
+    else:
+        # Fallback headers if calling without API key
+        headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+        headers['Referer'] = 'https://ahrefs.com/website-authority-checker'
+        headers['Origin'] = 'https://ahrefs.com'
+
     req = urllib.request.Request(url, headers=headers)
     try:
         # Sleep for a bit to avoid hitting rate limits (polite delay)
@@ -60,8 +75,11 @@ def fetch_domain_rating(domain):
         if e.code == 429:
             print(f"Rate limit hit (429) while fetching DR for {domain}.")
             raise RateLimitError("Rate limit hit")
-        elif e.code == 403:
-            print(f"HTTP error 403 (Forbidden) for {domain}")
+        elif e.code in (401, 403):
+            if not api_key:
+                print(f"HTTP {e.code} for {domain}: Ahrefs APIv3 key missing. Add AHREFS_API_KEY to your environment (https://app.ahrefs.com/account/api-keys).")
+            else:
+                print(f"HTTP error {e.code} (Forbidden/Unauthorized) for {domain}. Check your AHREFS_API_KEY.")
         else:
             print(f"HTTP error {e.code} for {domain}")
     except Exception as e:
@@ -111,7 +129,7 @@ def main():
         last_updated_str = entry.get('dr_last_updated')
         url_to_dr[clean_url] = dr_val
 
-        # Check if we need to fetch and set priority (1: missing/null DR, 2: outdated DR >= 10 days)
+        # Check if we need to fetch and set priority (1: missing/null DR, 2: outdated DR >= 30 days)
         needs_fetch = False
         priority = 0
         if dr_val is None:
@@ -123,7 +141,7 @@ def main():
         else:
             try:
                 last_updated = datetime.datetime.strptime(last_updated_str, '%Y-%m-%d').date()
-                if (datetime.date.today() - last_updated).days >= 10:
+                if (datetime.date.today() - last_updated).days >= 30:
                     needs_fetch = True
                     priority = 2
             except ValueError:
