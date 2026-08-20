@@ -1349,5 +1349,13 @@
     "domain_rating": 4,
     "submission_link": "https://althunt.io/new",
     "dr_last_updated": "2026-08-16"
+  },
+  {
+    "id": 172,
+    "name": "SaaSBoard",
+    "description": "An interactive visual grid directory where SaaS founders can claim tiles to showcase their products and gain early traction.",
+    "domain_rating": 0,
+    "submission_link": "https://saasboard.app/",
+    "dr_last_updated": "2026-08-20"
   }
 ]
