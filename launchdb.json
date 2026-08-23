@@ -1357,5 +1357,13 @@
     "domain_rating": 0,
     "submission_link": "https://saasboard.app/",
     "dr_last_updated": "2026-08-20"
+  },
+  {
+    "id": 173,
+    "name": "Outbid",
+    "description": "A pay-to-rank leaderboard platform where makers and founders bid to showcase products and gain top visibility.",
+    "domain_rating": 20,
+    "submission_link": "https://outbid.lol/",
+    "dr_last_updated": "2026-08-24"
   }
 ]
