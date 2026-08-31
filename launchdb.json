@@ -1373,5 +1373,13 @@
     "domain_rating": 35,
     "submission_link": "https://aitoolsexplorer.com/submit-ai-tool/",
     "dr_last_updated": "2026-08-31"
+  },
+  {
+    "id": 175,
+    "name": "Bro Find AI",
+    "description": "A curated directory to discover and list AI tools, AI agents, and MCP servers.",
+    "domain_rating": 10,
+    "submission_link": "https://brofindai.com/submit",
+    "dr_last_updated": "2026-08-31"
   }
 ]
