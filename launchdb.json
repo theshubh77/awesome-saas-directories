@@ -1365,5 +1365,13 @@
     "domain_rating": 20,
     "submission_link": "https://outbid.lol/",
     "dr_last_updated": "2026-08-24"
+  },
+  {
+    "id": 174,
+    "name": "AI Tools Explorer",
+    "description": "A curated directory of AI tools and applications to discover, filter, and compare software across categories.",
+    "domain_rating": 35,
+    "submission_link": "https://aitoolsexplorer.com/submit-ai-tool/",
+    "dr_last_updated": "2026-08-31"
   }
 ]
