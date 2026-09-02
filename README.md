@@ -206,6 +206,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 173 | **Outbid** | A pay-to-rank leaderboard platform where makers and founders bid to showcase products and gain top visibility. | 20 | [Submit Here](https://outbid.lol/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 174 | **AI Tools Explorer** | A curated directory of AI tools and applications to discover, filter, and compare software across categories. | 35 | [Submit Here](https://aitoolsexplorer.com/submit-ai-tool/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 175 | **Bro Find AI** | A curated directory to discover and list AI tools, AI agents, and MCP servers. | 10 | [Submit Here](https://brofindai.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 176 | **r/ShowMeYourSaaS** | A Reddit community for founders building tech products to showcase SaaS projects, exchange knowledge, and grow together. | - | [Submit Here](https://www.reddit.com/r/ShowMeYourSaaS/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 

@@ -1381,5 +1381,12 @@
     "domain_rating": 10,
     "submission_link": "https://brofindai.com/submit",
     "dr_last_updated": "2026-08-31"
+  },
+  {
+    "id": 176,
+    "name": "r/ShowMeYourSaaS",
+    "description": "A Reddit community for founders building tech products to showcase SaaS projects, exchange knowledge, and grow together.",
+    "domain_rating": null,
+    "submission_link": "https://www.reddit.com/r/ShowMeYourSaaS/submit/"
   }
 ]
