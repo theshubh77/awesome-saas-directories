@@ -530,9 +530,9 @@
     "id": 68,
     "name": "Launched!",
     "description": "A platform that helps you discover the latest products launched.",
-    "domain_rating": 33,
+    "domain_rating": 32,
     "submission_link": "https://launched.io/newsubmission",
-    "dr_last_updated": "2026-08-04"
+    "dr_last_updated": "2026-09-03"
   },
   {
     "id": 69,
@@ -960,9 +960,9 @@
     "id": 122,
     "name": "SHIP OR DIE",
     "description": "A public accountability platform for indie hackers to ship, track, and share products.",
-    "domain_rating": 11,
+    "domain_rating": 13,
     "submission_link": "https://shipordie.club/leaderboard",
-    "dr_last_updated": "2026-08-04"
+    "dr_last_updated": "2026-09-03"
   },
   {
     "id": 123,
