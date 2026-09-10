@@ -209,6 +209,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 176 | **r/ShowMeYourSaaS** | A Reddit community for founders building tech products to showcase SaaS projects, exchange knowledge, and grow together. | - | [Submit Here](https://www.reddit.com/r/ShowMeYourSaaS/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 177 | **StartFast** | A curated directory for founders and makers to discover and submit AI tools, apps, and tech products. | 0 | [Submit Here](https://startfa.st/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 178 | **Vantaige** | A curated directory and platform to discover, compare, and submit AI tools. | 15 | [Submit Here](https://vantaige.io/list-your-ai-tool?utm_source=launchdb.vercel.app&via=launchdb) |
+| 179 | **VibeHacker**                      | Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches. | - | [Submit Here](https://vibehacker.com) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
