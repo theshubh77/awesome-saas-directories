@@ -1423,6 +1423,30 @@
   },
   {
     "id": 181,
+    "name": "AZN8",
+    "description": "A free SaaS and startup directory built for browser and API submissions without CAPTCHA or badge requirements.",
+    "domain_rating": 8,
+    "submission_link": "https://azn8.com/submit",
+    "dr_last_updated": "2026-10-07"
+  },
+  {
+    "id": 182,
+    "name": "CurlShip",
+    "description": "A free launch directory with instant API listing submission for indie makers and SaaS founders.",
+    "domain_rating": 44,
+    "submission_link": "https://curlship.com/",
+    "dr_last_updated": "2026-10-07"
+  },
+  {
+    "id": 183,
+    "name": "DevElif",
+    "description": "A free website directory offering instant dofollow listings with no login required to publish.",
+    "domain_rating": 21,
+    "submission_link": "https://develif.com/add",
+    "dr_last_updated": "2026-10-07"
+  },
+  {
+    "id": 184,
     "name": "ToolWorthy",
     "description": "An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides.",
     "domain_rating": 22,

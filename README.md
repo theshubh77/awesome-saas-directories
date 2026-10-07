@@ -211,10 +211,10 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 178 | **Vantaige** | A curated directory and platform to discover, compare, and submit AI tools. | 15 | [Submit Here](https://vantaige.io/list-your-ai-tool?utm_source=launchdb.vercel.app&via=launchdb) |
 | 179 | **Nick Launches** | A weekly product launch platform and directory for indie builders to launch products, gain community visibility, and earn backlinks. | 75 | [Submit Here](https://nicklaunches.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 180 | **PhotoToolFinder** | A curated directory of online photo editing tools and web-based image utilities. | 0 | [Submit Here](https://phototoolfinder.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
-| - | **AZN8** | A free SaaS and startup directory built for browser and API submissions without CAPTCHA or badge requirements. | - | [Submit Here](https://azn8.com/submit) |
-| - | **CurlShip** | A free launch directory with instant API listing submission for indie makers and SaaS founders. | - | [Submit Here](https://curlship.com/) |
-| - | **DevElif** | A free website directory offering instant dofollow listings with no login required to publish. | - | [Submit Here](https://develif.com/add) |
-| 181 | **ToolWorthy** | An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides. | 22 | [Submit Here](https://www.toolworthy.ai/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 181 | **AZN8** | A free SaaS and startup directory built for browser and API submissions without CAPTCHA or badge requirements. | 8 | [Submit Here](https://azn8.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 182 | **CurlShip** | A free launch directory with instant API listing submission for indie makers and SaaS founders. | 44 | [Submit Here](https://curlship.com/?utm_source=launchdb.vercel.app&via=launchdb) |
+| 183 | **DevElif** | A free website directory offering instant dofollow listings with no login required to publish. | 21 | [Submit Here](https://develif.com/add?utm_source=launchdb.vercel.app&via=launchdb) |
+| 184 | **ToolWorthy** | An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides. | 22 | [Submit Here](https://www.toolworthy.ai/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
