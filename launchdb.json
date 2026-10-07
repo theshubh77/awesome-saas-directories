@@ -1460,5 +1460,13 @@
     "domain_rating": 34,
     "submission_link": "https://www.saashive.com/join-as-founder",
     "dr_last_updated": "2026-10-07"
+  },
+  {
+    "id": 186,
+    "name": "MakerMap",
+    "description": "An interactive map and discovery directory showcasing SaaS, AI tools, and products built by indie makers and founders worldwide.",
+    "domain_rating": 37,
+    "submission_link": "https://www.makermap.lol/products",
+    "dr_last_updated": "2026-10-07"
   }
 ]
