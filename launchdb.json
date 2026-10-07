@@ -1452,5 +1452,13 @@
     "domain_rating": 22,
     "submission_link": "https://www.toolworthy.ai/submit",
     "dr_last_updated": "2026-10-07"
+  },
+  {
+    "id": 185,
+    "name": "SaaS Hive",
+    "description": "A SaaS launch and discovery platform built for AI search engines and human buyers, where founders publish verified product profiles.",
+    "domain_rating": 34,
+    "submission_link": "https://www.saashive.com/join-as-founder",
+    "dr_last_updated": "2026-10-07"
   }
 ]

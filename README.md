@@ -215,6 +215,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 182 | **CurlShip** | A free launch directory with instant API listing submission for indie makers and SaaS founders. | 44 | [Submit Here](https://curlship.com/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 183 | **DevElif** | A free website directory offering instant dofollow listings with no login required to publish. | 21 | [Submit Here](https://develif.com/add?utm_source=launchdb.vercel.app&via=launchdb) |
 | 184 | **ToolWorthy** | An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides. | 22 | [Submit Here](https://www.toolworthy.ai/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 185 | **SaaS Hive** | A SaaS launch and discovery platform built for AI search engines and human buyers, where founders publish verified product profiles. | 34 | [Submit Here](https://www.saashive.com/join-as-founder?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
