@@ -217,6 +217,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 184 | **ToolWorthy** | An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides. | 22 | [Submit Here](https://www.toolworthy.ai/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 185 | **SaaS Hive** | A SaaS launch and discovery platform built for AI search engines and human buyers, where founders publish verified product profiles. | 34 | [Submit Here](https://www.saashive.com/join-as-founder?utm_source=launchdb.vercel.app&via=launchdb) |
 | 186 | **MakerMap** | An interactive map and discovery directory showcasing SaaS, AI tools, and products built by indie makers and founders worldwide. | 37 | [Submit Here](https://www.makermap.lol/products?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **AIToolPop** | A curated, multilingual directory of AI tools that can be browsed and compared by category and pricing. | - | [Submit Here](https://altoolpop.com/en/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
