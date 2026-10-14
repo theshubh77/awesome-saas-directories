@@ -219,6 +219,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 186 | **MakerMap** | An interactive map and discovery directory showcasing SaaS, AI tools, and products built by indie makers and founders worldwide. | 37 | [Submit Here](https://www.makermap.lol/products?utm_source=launchdb.vercel.app&via=launchdb) |
 | 187 | **Postmake** | A curated directory of tools and resources for startups, founders, and developers. | 51 | [Submit Here](https://postmake.io/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 188 | **ShipGrowth** | A curated directory to discover and submit AI products and tools to boost visibility. | 51 | [Submit Here](https://shipgrowth.dev/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **CodeTrendy** | A selective startup and product discovery directory where founders submit SaaS tools and startups for review. | - | [Submit Here](https://codetrendy.com/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
