@@ -1476,5 +1476,13 @@
     "domain_rating": 34,
     "submission_link": "https://superlaunchlist.com/submit",
     "dr_last_updated": "2026-10-16"
+  },
+  {
+    "id": 188,
+    "name": "AI Just Better",
+    "description": "A curated directory and comparison platform to discover, compare, and submit AI tools.",
+    "domain_rating": 54,
+    "submission_link": "https://aijustbetter.com/submit",
+    "dr_last_updated": "2026-10-16"
   }
 ]
