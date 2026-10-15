@@ -434,8 +434,8 @@
     "id": 56,
     "name": "PeerPush",
     "description": "A product discovery platform making your product discoverable by people and AI assistants.",
-    "domain_rating": 72,
-    "submission_link": "https://peerpush.net/submit",
+    "domain_rating": 78,
+    "submission_link": "https://peerpush.com/submit",
     "dr_last_updated": "2026-10-15"
   },
   {
@@ -528,14 +528,6 @@
   },
   {
     "id": 68,
-    "name": "Launched!",
-    "description": "A platform that helps you discover the latest products launched.",
-    "domain_rating": 33,
-    "submission_link": "https://launched.io/newsubmission",
-    "dr_last_updated": "2026-10-03"
-  },
-  {
-    "id": 69,
     "name": "StackShare",
     "description": "A platform to discover, discuss, and share the tech stacks that power the best software companies.",
     "domain_rating": 79,
@@ -543,7 +535,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 70,
+    "id": 69,
     "name": "Startup Listing",
     "description": "A curated collection of SaaS tools, micro-SaaS solutions, and side projects to help grow your startup.",
     "domain_rating": 40,
@@ -551,7 +543,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 71,
+    "id": 70,
     "name": "Tiny Startups",
     "description": "A directory and platform to discover and launch small startups and indie projects.",
     "domain_rating": 72,
@@ -559,7 +551,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 72,
+    "id": 71,
     "name": "Startup Fame",
     "description": "A platform to launch your startup, reach early adopters, and gain traction.",
     "domain_rating": 84,
@@ -567,7 +559,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 73,
+    "id": 72,
     "name": "BuiltByIndies",
     "description": "A directory and community showcasing projects and startups built by indie makers.",
     "domain_rating": 38,
@@ -575,7 +567,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 74,
+    "id": 73,
     "name": "LaunchIgniter",
     "description": "A directory to discover and launch new tech products and tools.",
     "domain_rating": 75,
@@ -583,7 +575,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 75,
+    "id": 74,
     "name": "Twelve Tools",
     "description": "A directory to list and discover new software tools and startup products.",
     "domain_rating": 83,
@@ -591,7 +583,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 76,
+    "id": 75,
     "name": "Startup Fast",
     "description": "A directory for launching startups and finding early adopters quickly.",
     "domain_rating": 73,
@@ -599,7 +591,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 77,
+    "id": 76,
     "name": "ToolsFine",
     "description": "A directory focused on discovering and launching AI tools and startup products.",
     "domain_rating": 63,
@@ -607,7 +599,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 78,
+    "id": 77,
     "name": "FoundrList",
     "description": "A curated directory for discovering new software tools and startup resources.",
     "domain_rating": 73,
@@ -615,7 +607,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 79,
+    "id": 78,
     "name": "SiteLike",
     "description": "A platform to discover alternative websites, software, and tools.",
     "domain_rating": 62,
@@ -623,7 +615,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 80,
+    "id": 79,
     "name": "Alternative.me",
     "description": "A platform to find alternatives to software, apps, and web services.",
     "domain_rating": 76,
@@ -631,7 +623,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 81,
+    "id": 80,
     "name": "Future Tools",
     "description": "A directory for discovering the latest AI tools and future technologies.",
     "domain_rating": 69,
@@ -639,7 +631,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 82,
+    "id": 81,
     "name": "Firsto",
     "description": "A fair, visibility-first product launch platform where every project gets seen.",
     "domain_rating": 57,
@@ -647,7 +639,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 83,
+    "id": 82,
     "name": "AI With Me",
     "description": "A directory to discover and submit new AI tools and products.",
     "domain_rating": 58,
@@ -655,7 +647,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 84,
+    "id": 83,
     "name": "Shipybara",
     "description": "A platform to launch your startup and discover new projects.",
     "domain_rating": 53,
@@ -663,7 +655,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 85,
+    "id": 84,
     "name": "PromoteProject",
     "description": "A directory to promote your startup and discover new projects.",
     "domain_rating": 50,
@@ -671,7 +663,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 86,
+    "id": 85,
     "name": "StartupTrusted",
     "description": "A curated database to discover verified startups and submit your own.",
     "domain_rating": 61,
@@ -679,7 +671,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 87,
+    "id": 86,
     "name": "Funnel Directory",
     "description": "A directory to compare and find the right funnel builder software for your business.",
     "domain_rating": 18,
@@ -687,7 +679,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 88,
+    "id": 87,
     "name": "Trust Revenue",
     "description": "A verified database and platform to launch your startup and share revenue metrics.",
     "domain_rating": 2,
@@ -695,7 +687,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 89,
+    "id": 88,
     "name": "GreenRocket",
     "description": "A directory to launch and discover new startup products and tools.",
     "domain_rating": 13,
@@ -703,7 +695,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 90,
+    "id": 89,
     "name": "OpenAlternative",
     "description": "A community-driven directory of open-source alternatives to proprietary SaaS and software.",
     "domain_rating": 61,
@@ -711,7 +703,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 91,
+    "id": 90,
     "name": "Huzzler",
     "description": "A founder-built startup directory and community platform to launch and showcase products.",
     "domain_rating": 69,
@@ -719,7 +711,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 92,
+    "id": 91,
     "name": "We Like Tools",
     "description": "A curated directory to discover, compare, and select software tools across various categories.",
     "domain_rating": 54,
@@ -727,7 +719,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 93,
+    "id": 92,
     "name": "1000.tools",
     "description": "A curated directory featuring high-quality software and AI-powered tools.",
     "domain_rating": 39,
@@ -735,7 +727,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 94,
+    "id": 93,
     "name": "ConfettiSaaS",
     "description": "A curated startup directory and showcase platform specifically for SaaS products, websites, and apps.",
     "domain_rating": 49,
@@ -743,14 +735,14 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 95,
+    "id": 94,
     "name": "gh/awesome-aussie",
     "description": "A primary tech directory for Australian-based startups and open-source projects.",
     "domain_rating": null,
     "submission_link": "https://github.com/AdamXweb/awesome-aussie"
   },
   {
-    "id": 96,
+    "id": 95,
     "name": "AgentMRR",
     "description": "A public revenue leaderboard and verification platform for AI agents with provider-backed proof.",
     "domain_rating": 19,
@@ -758,7 +750,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 97,
+    "id": 96,
     "name": "StartupLibrary",
     "description": "A startup community built to launch your startup, climb the leaderboard, and grow with built-in SEO and marketing tools.",
     "domain_rating": 34,
@@ -766,7 +758,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 98,
+    "id": 97,
     "name": "Product Watch",
     "description": "A daily feed of new tech products and startups where makers can launch their latest projects.",
     "domain_rating": 72,
@@ -774,7 +766,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 99,
+    "id": 98,
     "name": "WeekHack",
     "description": "A weekly product launch platform designed for indie makers, solo founders, and bootstrapped projects.",
     "domain_rating": 43,
@@ -782,7 +774,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 100,
+    "id": 99,
     "name": "AIStage",
     "description": "A directory specifically tailored for discovering, listing, and showcasing the latest AI tools.",
     "domain_rating": 71,
@@ -790,7 +782,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 101,
+    "id": 100,
     "name": "AI Center",
     "description": "A curated directory to discover and submit the best AI tools, platforms, and resources.",
     "domain_rating": 31,
@@ -798,15 +790,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 102,
-    "name": "AI Tools by Neil Patel",
-    "description": "A curated directory for discovering and listing AI-powered tools, managed by marketer Neil Patel.",
-    "domain_rating": 91,
-    "submission_link": "https://aitools.neilpatel.com/submit/",
-    "dr_last_updated": "2026-10-15"
-  },
-  {
-    "id": 103,
+    "id": 101,
     "name": "BroUseAI",
     "description": "A user-friendly directory for discovering, listing, and comparing AI tools.",
     "domain_rating": 12,
@@ -814,7 +798,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 104,
+    "id": 102,
     "name": "SaaSFame",
     "description": "A curated directory to discover and submit SaaS products and software tools.",
     "domain_rating": 71,
@@ -822,7 +806,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 105,
+    "id": 103,
     "name": "Wired Business",
     "description": "A web and business directory focusing on showcasing startups, products, and websites to boost visibility.",
     "domain_rating": 79,
@@ -830,7 +814,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 106,
+    "id": 104,
     "name": "RankmyAI",
     "description": "A data-driven directory and ranking platform specifically tailored for AI tools and products.",
     "domain_rating": 36,
@@ -838,7 +822,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 107,
+    "id": 105,
     "name": "ToolFame",
     "description": "A curated directory designed to help discover trending web tools, SaaS, and software products.",
     "domain_rating": 76,
@@ -846,7 +830,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 108,
+    "id": 106,
     "name": "ShowMeBestAI",
     "description": "A structured AI tools directory to submit, discover, and categorize the best AI tools and resources.",
     "domain_rating": 76,
@@ -854,7 +838,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 109,
+    "id": 107,
     "name": "Neeed Directory",
     "description": "A curated directory showcasing the best web tools, resources, and SaaS products for creators.",
     "domain_rating": 74,
@@ -862,14 +846,14 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 110,
+    "id": 108,
     "name": "gh/awesome-ai-tools",
     "description": "A curated list of awesome artificial intelligence tools, generators, and developer utilities.",
     "domain_rating": null,
     "submission_link": "https://github.com/mahseema/awesome-ai-tools"
   },
   {
-    "id": 111,
+    "id": 109,
     "name": "Aidirs",
     "description": "A directory to discover, list, and evaluate the latest AI tools and software.",
     "domain_rating": 63,
@@ -877,7 +861,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 112,
+    "id": 110,
     "name": "WhatTheAI",
     "description": "A curated database featuring thousands of AI tools and services updated daily.",
     "domain_rating": 37,
@@ -885,7 +869,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 113,
+    "id": 111,
     "name": "Waildworld",
     "description": "A curated directory and catalog to discover, search, and submit the latest AI tools.",
     "domain_rating": 12,
@@ -893,7 +877,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 114,
+    "id": 112,
     "name": "DevPages",
     "description": "A curated, community-driven directory of software developer tools and resources.",
     "domain_rating": 10,
@@ -901,7 +885,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 115,
+    "id": 113,
     "name": "AIToolsCapital",
     "description": "A directory and leaderboard platform to discover, list, and showcase AI tools and startups.",
     "domain_rating": 38,
@@ -909,7 +893,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 116,
+    "id": 114,
     "name": "Webspot",
     "description": "A web discovery platform designed to find tools, guides, and productive websites.",
     "domain_rating": 35,
@@ -917,7 +901,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 117,
+    "id": 115,
     "name": "BuildVoyage",
     "description": "A curated directory and community platform for micro-SaaS founders and makers to showcase products and track milestones.",
     "domain_rating": 42,
@@ -925,7 +909,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 118,
+    "id": 116,
     "name": "AI Pulse",
     "description": "An ad-free directory and resource hub designed to discover, compare, and list AI tools.",
     "domain_rating": 27,
@@ -933,7 +917,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 119,
+    "id": 117,
     "name": "AI Tools Saver",
     "description": "A directory and marketplace for AI tools, focusing on exclusive deals, discounts, and lifetime offers.",
     "domain_rating": 37,
@@ -941,7 +925,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 120,
+    "id": 118,
     "name": "AI Hustle",
     "description": "A curated directory of AI-powered SaaS solutions and tools designed to automate workflows and improve productivity.",
     "domain_rating": 42,
@@ -949,7 +933,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 121,
+    "id": 119,
     "name": "Bowora",
     "description": "A startup directory and community launchpad with a star ranking system to help founders launch, track, and grow their businesses.",
     "domain_rating": 52,
@@ -957,7 +941,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 122,
+    "id": 120,
     "name": "SHIP OR DIE",
     "description": "A public accountability platform for indie hackers to ship, track, and share products.",
     "domain_rating": 12,
@@ -965,7 +949,7 @@
     "dr_last_updated": "2026-10-03"
   },
   {
-    "id": 123,
+    "id": 121,
     "name": "SubmitMatic",
     "description": "A curated SaaS directory and submission platform to help founders list their startups and gain backlinks.",
     "domain_rating": 31,
@@ -973,7 +957,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 124,
+    "id": 122,
     "name": "SaaS AI Tools",
     "description": "A curated directory for discovering and listing AI-powered SaaS solutions and tools.",
     "domain_rating": 53,
@@ -981,7 +965,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 125,
+    "id": 123,
     "name": "Find Your SaaS",
     "description": "A curated SaaS directory for discovering and listing SaaS solutions and tools.",
     "domain_rating": 45,
@@ -989,7 +973,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 126,
+    "id": 124,
     "name": "AI Tools SME",
     "description": "A directory providing user-friendly, non-technical AI tool reviews for small businesses.",
     "domain_rating": 57,
@@ -997,7 +981,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 127,
+    "id": 125,
     "name": "LaunchPad India",
     "description": "A curated launch platform and directory to showcase Indian startups and indie products.",
     "domain_rating": 25,
@@ -1005,7 +989,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 128,
+    "id": 126,
     "name": "AITopTools",
     "description": "A directory to discover, compare, and submit top AI tools and applications.",
     "domain_rating": 56,
@@ -1013,29 +997,21 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 129,
-    "name": "Builders.to",
-    "description": "A place for founders to share projects, get feedback, and find first users.",
-    "domain_rating": 44,
-    "submission_link": "https://builders.to/projects/new",
-    "dr_last_updated": "2026-10-15"
-  },
-  {
-    "id": 130,
+    "id": 127,
     "name": "fb/SaaS Founder Group",
     "description": "A Facebook group for SaaS founders to network, share strategies, and discuss product growth.",
     "domain_rating": null,
     "submission_link": "https://www.facebook.com/groups/saasfoundergroup/"
   },
   {
-    "id": 131,
+    "id": 128,
     "name": "fb/SaaS Marketing Group",
     "description": "A Facebook group for SaaS founders and marketers to discuss marketing strategies, growth hacks, and user acquisition.",
     "domain_rating": null,
     "submission_link": "https://www.facebook.com/groups/4098505490210812"
   },
   {
-    "id": 132,
+    "id": 129,
     "name": "Super Launch",
     "description": "A startup discovery and product launch platform for SaaS products, AI tools, and open-source projects.",
     "domain_rating": 63,
@@ -1043,7 +1019,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 133,
+    "id": 130,
     "name": "TopAITools4U",
     "description": "A directory to discover the best AI tools for writing, design, coding, video, SEO, and productivity.",
     "domain_rating": 26,
@@ -1051,7 +1027,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 134,
+    "id": 131,
     "name": "ShipBoost",
     "description": "A founder-first SaaS launch platform that helps bootstrapped startups gain lasting visibility through launch boards, listings, and SEO-driven discovery.",
     "domain_rating": 51,
@@ -1059,7 +1035,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 135,
+    "id": 132,
     "name": "AIBase",
     "description": "A directory of AI tools, models, tutorials, and resources helping users discover solutions, learn faster, and build with AI every day.",
     "domain_rating": 72,
@@ -1067,7 +1043,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 136,
+    "id": 133,
     "name": "Forg",
     "description": "A professional network and launchpad for developers and indie hackers to showcase projects and share proof of work.",
     "domain_rating": 44,
@@ -1075,7 +1051,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 137,
+    "id": 134,
     "name": "Launch Llama",
     "description": "A directory to list and discover new AI tools, developer resources, and SaaS products.",
     "domain_rating": 73,
@@ -1083,7 +1059,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 138,
+    "id": 135,
     "name": "FutureStack",
     "description": "A community-driven directory to discover, upvote, and list AI tools and software.",
     "domain_rating": 3,
@@ -1091,7 +1067,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 139,
+    "id": 136,
     "name": "ProductFame",
     "description": "A product launch platform where founders gain visibility and users discover new startups.",
     "domain_rating": 46,
@@ -1099,7 +1075,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 140,
+    "id": 137,
     "name": "Lifto",
     "description": "A video-first product launch and discovery platform for SaaS founders and early adopters.",
     "domain_rating": 37,
@@ -1107,7 +1083,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 141,
+    "id": 138,
     "name": "Findly.tools",
     "description": "A curated online directory for SaaS and AI products to list projects, gain visibility, and secure backlinks.",
     "domain_rating": 82,
@@ -1115,7 +1091,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 142,
+    "id": 139,
     "name": "Verified Tools",
     "description": "A curated startup directory for discovering, comparing, and listing AI tools and SaaS products.",
     "domain_rating": 56,
@@ -1123,7 +1099,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 143,
+    "id": 140,
     "name": "Better Launch",
     "description": "A product launch and discovery platform designed for founders, indie hackers, and early adopters to showcase digital products.",
     "domain_rating": 65,
@@ -1131,7 +1107,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 144,
+    "id": 141,
     "name": "BuildHop",
     "description": "A discovery platform designed for founders and builders to showcase startups, tools, and side projects.",
     "domain_rating": 54,
@@ -1139,7 +1115,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 145,
+    "id": 142,
     "name": "SaaS Page",
     "description": "A community-driven launch directory and analytics platform for indie makers, solopreneurs, and SaaS founders.",
     "domain_rating": 43,
@@ -1147,7 +1123,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 146,
+    "id": 143,
     "name": "Pro Launch",
     "description": "A product launch and discovery platform designed to help startups and indie hackers gain visibility.",
     "domain_rating": 44,
@@ -1155,7 +1131,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 147,
+    "id": 144,
     "name": "Productivity Directory",
     "description": "A curated directory of productivity software, tools, and resources to help users improve efficiency.",
     "domain_rating": 41,
@@ -1163,14 +1139,14 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 148,
+    "id": 145,
     "name": "r/IMadeThis",
     "description": "A Reddit community for creators to share projects, tools, applications, and things they built.",
     "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/IMadeThis/submit/"
   },
   {
-    "id": 149,
+    "id": 146,
     "name": "LaunchPact",
     "description": "A mutual support network and platform for startup founders to coordinate upvotes and build launch momentum.",
     "domain_rating": 52,
@@ -1178,7 +1154,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 150,
+    "id": 147,
     "name": "Toolfio",
     "description": "A curated discovery platform and business directory designed for AI tools, SaaS products, startups, and developer resources.",
     "domain_rating": 63,
@@ -1186,7 +1162,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 151,
+    "id": 148,
     "name": "Toolfolio",
     "description": "A curated discovery platform and directory featuring tools for productivity, design, AI, social media, and startups.",
     "domain_rating": 36,
@@ -1194,7 +1170,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 152,
+    "id": 149,
     "name": "OGFolio",
     "description": "A curated Open Graph image gallery and design inspiration hub for designers, developers, and creators.",
     "domain_rating": 14,
@@ -1202,14 +1178,14 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 153,
+    "id": 150,
     "name": "r/GetStartups",
     "description": "A Reddit community for startup founders, makers, and indie hackers to share projects, request feedback, and discuss growth.",
     "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/GetStartups/submit/"
   },
   {
-    "id": 154,
+    "id": 151,
     "name": "Startup.sx",
     "description": "A community-curated, minimalist Product Hunt alternative for indie makers.",
     "domain_rating": 33,
@@ -1217,14 +1193,14 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 155,
+    "id": 152,
     "name": "r/LaunchMyStartup",
     "description": "A Reddit community for startup founders and creators to launch their projects and get feedback from other builders.",
     "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/LaunchMyStartup/submit/"
   },
   {
-    "id": 156,
+    "id": 153,
     "name": "Revispy Launchpad",
     "description": "A product launch and project showcase platform for builders to share side projects, collect feedback, and connect with the tech community.",
     "domain_rating": 28,
@@ -1232,14 +1208,14 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 157,
+    "id": 154,
     "name": "r/AISaaSHunter",
     "description": "A Reddit community dedicated to discovering, discussing, and promoting AI-powered SaaS tools.",
     "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/AISaaSHunter/submit/"
   },
   {
-    "id": 158,
+    "id": 155,
     "name": "JustLaunched",
     "description": "A directory where founders submit and discover newly launched SaaS products, organized by category.",
     "domain_rating": 36,
@@ -1247,7 +1223,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 159,
+    "id": 156,
     "name": "Open Source Projects",
     "description": "A categorized directory where makers submit and discover open-source projects and alternatives to proprietary software.",
     "domain_rating": 9,
@@ -1255,7 +1231,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 160,
+    "id": 157,
     "name": "SaaSCity",
     "description": "A gamified SaaS directory where each submitted product becomes a building on an interactive isometric city map.",
     "domain_rating": 68,
@@ -1263,7 +1239,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 161,
+    "id": 158,
     "name": "Startup AIdeas",
     "description": "An AI tools directory for founders using AI for research, marketing, automation, and startup execution.",
     "domain_rating": 40,
@@ -1271,7 +1247,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 162,
+    "id": 159,
     "name": "FindThatSoftware",
     "description": "India-first software directory with verified India-specific pricing (including forex conversion and GST) and honest trade-offs for every tool.",
     "domain_rating": 0,
@@ -1279,7 +1255,7 @@
     "dr_last_updated": "2026-10-06"
   },
   {
-    "id": 163,
+    "id": 160,
     "name": "Mydentify",
     "description": "A product directory organized by user goals, with free, permanent product submissions.",
     "domain_rating": 45,
@@ -1287,7 +1263,7 @@
     "dr_last_updated": "2026-10-09"
   },
   {
-    "id": 164,
+    "id": 161,
     "name": "The Agents Index",
     "description": "A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing.",
     "domain_rating": 4,
@@ -1295,7 +1271,7 @@
     "dr_last_updated": "2026-10-09"
   },
   {
-    "id": 165,
+    "id": 162,
     "name": "AIWget",
     "description": "A curated directory for discovering AI agents, workflow automation tools, and creative AI products.",
     "domain_rating": 31,
@@ -1303,7 +1279,7 @@
     "dr_last_updated": "2026-10-09"
   },
   {
-    "id": 166,
+    "id": 163,
     "name": "craked.dev",
     "description": "A directory and platform for discovering developer tools, open-source projects, and SaaS built by engineers.",
     "domain_rating": 2,
@@ -1311,7 +1287,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 167,
+    "id": 164,
     "name": "Sidebar",
     "description": "A curated newsletter and directory sharing five design and tech links every weekday.",
     "domain_rating": 70,
@@ -1319,7 +1295,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 168,
+    "id": 165,
     "name": "Launchory",
     "description": "A startup directory where founders submit a product for free and get an approved listing with a dofollow link, upvotes, and a public profile page.",
     "domain_rating": 54,
@@ -1327,7 +1303,7 @@
     "dr_last_updated": "2026-10-14"
   },
   {
-    "id": 169,
+    "id": 166,
     "name": "CitedIndex",
     "description": "A researched, quality-gated directory of AI-visibility & GEO tools.",
     "domain_rating": 12,
@@ -1335,7 +1311,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 170,
+    "id": 167,
     "name": "AISO Tools",
     "description": "A directory of 1,200+ AI tools with free listings, category browsing, and side-by-side comparison.",
     "domain_rating": 26,
@@ -1343,7 +1319,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 171,
+    "id": 168,
     "name": "Alt Hunt",
     "description": "A directory and comparison platform where founders publish software alternative pages to capture competitor search traffic.",
     "domain_rating": 42,
@@ -1351,7 +1327,7 @@
     "dr_last_updated": "2026-10-15"
   },
   {
-    "id": 172,
+    "id": 169,
     "name": "SaaSBoard",
     "description": "An interactive visual grid directory where SaaS founders can claim tiles to showcase their products and gain early traction.",
     "domain_rating": 4,
@@ -1359,7 +1335,7 @@
     "dr_last_updated": "2026-09-19"
   },
   {
-    "id": 173,
+    "id": 170,
     "name": "Outbid",
     "description": "A pay-to-rank leaderboard platform where makers and founders bid to showcase products and gain top visibility.",
     "domain_rating": 74,
@@ -1367,7 +1343,7 @@
     "dr_last_updated": "2026-09-23"
   },
   {
-    "id": 174,
+    "id": 171,
     "name": "AI Tools Explorer",
     "description": "A curated directory of AI tools and applications to discover, filter, and compare software across categories.",
     "domain_rating": 52,
@@ -1375,7 +1351,7 @@
     "dr_last_updated": "2026-09-30"
   },
   {
-    "id": 175,
+    "id": 172,
     "name": "Bro Find AI",
     "description": "A curated directory to discover and list AI tools, AI agents, and MCP servers.",
     "domain_rating": 7,
@@ -1383,14 +1359,14 @@
     "dr_last_updated": "2026-09-30"
   },
   {
-    "id": 176,
+    "id": 173,
     "name": "r/ShowMeYourSaaS",
     "description": "A Reddit community for founders building tech products to showcase SaaS projects, exchange knowledge, and grow together.",
     "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/ShowMeYourSaaS/submit/"
   },
   {
-    "id": 177,
+    "id": 174,
     "name": "StartFast",
     "description": "A curated directory for founders and makers to discover and submit AI tools, apps, and tech products.",
     "domain_rating": 0,
@@ -1398,7 +1374,7 @@
     "dr_last_updated": "2026-10-09"
   },
   {
-    "id": 178,
+    "id": 175,
     "name": "Vantaige",
     "description": "A curated directory and platform to discover, compare, and submit AI tools.",
     "domain_rating": 30,
@@ -1406,7 +1382,7 @@
     "dr_last_updated": "2026-10-09"
   },
   {
-    "id": 179,
+    "id": 176,
     "name": "Nick Launches",
     "description": "A weekly product launch platform and directory for indie builders to launch products, gain community visibility, and earn backlinks.",
     "domain_rating": 76,
@@ -1414,7 +1390,7 @@
     "dr_last_updated": "2026-10-13"
   },
   {
-    "id": 180,
+    "id": 177,
     "name": "PhotoToolFinder",
     "description": "A curated directory of online photo editing tools and web-based image utilities.",
     "domain_rating": 0,
@@ -1422,7 +1398,7 @@
     "dr_last_updated": "2026-10-13"
   },
   {
-    "id": 181,
+    "id": 178,
     "name": "AZN8",
     "description": "A free SaaS and startup directory built for browser and API submissions without CAPTCHA or badge requirements.",
     "domain_rating": 8,
@@ -1430,7 +1406,7 @@
     "dr_last_updated": "2026-10-07"
   },
   {
-    "id": 182,
+    "id": 179,
     "name": "CurlShip",
     "description": "A free launch directory with instant API listing submission for indie makers and SaaS founders.",
     "domain_rating": 44,
@@ -1438,7 +1414,7 @@
     "dr_last_updated": "2026-10-07"
   },
   {
-    "id": 183,
+    "id": 180,
     "name": "DevElif",
     "description": "A free website directory offering instant dofollow listings with no login required to publish.",
     "domain_rating": 21,
@@ -1446,7 +1422,7 @@
     "dr_last_updated": "2026-10-07"
   },
   {
-    "id": 184,
+    "id": 181,
     "name": "ToolWorthy",
     "description": "An AI tool discovery directory where founders can submit AI software for editorial review, with profiles, alternatives, rankings, and guides.",
     "domain_rating": 22,
@@ -1454,7 +1430,7 @@
     "dr_last_updated": "2026-10-07"
   },
   {
-    "id": 185,
+    "id": 182,
     "name": "SaaS Hive",
     "description": "A SaaS launch and discovery platform built for AI search engines and human buyers, where founders publish verified product profiles.",
     "domain_rating": 34,
@@ -1462,7 +1438,7 @@
     "dr_last_updated": "2026-10-07"
   },
   {
-    "id": 186,
+    "id": 183,
     "name": "MakerMap",
     "description": "An interactive map and discovery directory showcasing SaaS, AI tools, and products built by indie makers and founders worldwide.",
     "domain_rating": 37,
@@ -1470,7 +1446,7 @@
     "dr_last_updated": "2026-10-07"
   },
   {
-    "id": 187,
+    "id": 184,
     "name": "Postmake",
     "description": "A curated directory of tools and resources for startups, founders, and developers.",
     "domain_rating": 51,
@@ -1478,7 +1454,7 @@
     "dr_last_updated": "2026-10-14"
   },
   {
-    "id": 188,
+    "id": 185,
     "name": "ShipGrowth",
     "description": "A curated directory to discover and submit AI products and tools to boost visibility.",
     "domain_rating": 51,
@@ -1486,7 +1462,7 @@
     "dr_last_updated": "2026-10-14"
   },
   {
-    "id": 189,
+    "id": 186,
     "name": "CodeTrendy",
     "description": "A selective startup and product discovery directory where founders submit SaaS tools and startups for review.",
     "domain_rating": 66,
