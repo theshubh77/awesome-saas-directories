@@ -1491,5 +1491,13 @@
     "description": "A Reddit community for developers, creators, and founders to showcase products, get feedback, and promote apps and SaaS.",
     "domain_rating": null,
     "submission_link": "https://www.reddit.com/r/promoteMyApp/submit/"
+  },
+  {
+    "id": 190,
+    "name": "Thank John",
+    "description": "A curated AI tools directory offering permanent listings and dofollow backlinks for AI products.",
+    "domain_rating": 39,
+    "submission_link": "https://thankjohn.com/get-started",
+    "dr_last_updated": "2026-10-16"
   }
 ]
