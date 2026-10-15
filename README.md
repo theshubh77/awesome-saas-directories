@@ -217,6 +217,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 184 | **Postmake** | A curated directory of tools and resources for startups, founders, and developers. | 51 | [Submit Here](https://postmake.io/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 185 | **ShipGrowth** | A curated directory to discover and submit AI products and tools to boost visibility. | 51 | [Submit Here](https://shipgrowth.dev/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 186 | **CodeTrendy** | A selective startup and product discovery directory where founders submit SaaS tools and startups for review. | 66 | [Submit Here](https://codetrendy.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 187 | **SuperLaunch List** | A curated directory to discover and launch AI tools, SaaS products, and online resources. | 34 | [Submit Here](https://superlaunchlist.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
