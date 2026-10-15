@@ -219,6 +219,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 186 | **CodeTrendy** | A selective startup and product discovery directory where founders submit SaaS tools and startups for review. | 66 | [Submit Here](https://codetrendy.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 187 | **SuperLaunch List** | A curated directory to discover and launch AI tools, SaaS products, and online resources. | 34 | [Submit Here](https://superlaunchlist.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 188 | **AI Just Better** | A curated directory and comparison platform to discover, compare, and submit AI tools. | 54 | [Submit Here](https://aijustbetter.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 189 | **r/PromoteMyApp** | A Reddit community for developers, creators, and founders to showcase products, get feedback, and promote apps and SaaS. | - | [Submit Here](https://www.reddit.com/r/promoteMyApp/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 

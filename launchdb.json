@@ -1484,5 +1484,12 @@
     "domain_rating": 54,
     "submission_link": "https://aijustbetter.com/submit",
     "dr_last_updated": "2026-10-16"
+  },
+  {
+    "id": 189,
+    "name": "r/PromoteMyApp",
+    "description": "A Reddit community for developers, creators, and founders to showcase products, get feedback, and promote apps and SaaS.",
+    "domain_rating": null,
+    "submission_link": "https://www.reddit.com/r/promoteMyApp/submit/"
   }
 ]
