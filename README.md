@@ -221,7 +221,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 188 | **AI Just Better** | A curated directory and comparison platform to discover, compare, and submit AI tools. | 54 | [Submit Here](https://aijustbetter.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 189 | **r/PromoteMyApp** | A Reddit community for developers, creators, and founders to showcase products, get feedback, and promote apps and SaaS. | - | [Submit Here](https://www.reddit.com/r/promoteMyApp/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 190 | **Thank John** | A curated AI tools directory offering permanent listings and dofollow backlinks for AI products. | 39 | [Submit Here](https://thankjohn.com/get-started?utm_source=launchdb.vercel.app&via=launchdb) |
-| - | **Public Prompts** | Independent AI tools directory with category and pricing filters; paid, reviewed owner submissions. | - | [Submit Here](https://www.publicprompts.art/submit) |
+| - | **Public Prompts** | An independent AI tools directory to browse, filter, and submit verified AI products by pricing and use case. | - | [Submit Here](https://www.publicprompts.art/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
