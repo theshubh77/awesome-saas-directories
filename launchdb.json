@@ -1499,5 +1499,13 @@
     "domain_rating": 39,
     "submission_link": "https://thankjohn.com/get-started",
     "dr_last_updated": "2026-10-16"
+  },
+  {
+    "id": 191,
+    "name": "MEDIAPRONET",
+    "description": "A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page.",
+    "domain_rating": 40,
+    "submission_link": "https://mediapronet.com/submit",
+    "dr_last_updated": "2026-10-18"
   }
 ]

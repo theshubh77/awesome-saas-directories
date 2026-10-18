@@ -222,6 +222,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 189 | **r/PromoteMyApp** | A Reddit community for developers, creators, and founders to showcase products, get feedback, and promote apps and SaaS. | - | [Submit Here](https://www.reddit.com/r/promoteMyApp/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 190 | **Thank John** | A curated AI tools directory offering permanent listings and dofollow backlinks for AI products. | 39 | [Submit Here](https://thankjohn.com/get-started?utm_source=launchdb.vercel.app&via=launchdb) |
 | - | **Public Prompts** | An independent AI tools directory to browse, filter, and submit verified AI products by pricing and use case. | - | [Submit Here](https://www.publicprompts.art/submit) |
+| 191 | **MEDIAPRONET** | A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page. | 40 | [Submit Here](https://mediapronet.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
