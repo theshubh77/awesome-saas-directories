@@ -221,6 +221,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 188 | **AI Just Better** | A curated directory and comparison platform to discover, compare, and submit AI tools. | 54 | [Submit Here](https://aijustbetter.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 189 | **r/PromoteMyApp** | A Reddit community for developers, creators, and founders to showcase products, get feedback, and promote apps and SaaS. | - | [Submit Here](https://www.reddit.com/r/promoteMyApp/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 190 | **Thank John** | A curated AI tools directory offering permanent listings and dofollow backlinks for AI products. | 39 | [Submit Here](https://thankjohn.com/get-started?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **ZeroRaised** | ZeroRaised is a free launch site for makers who took no institutional VC or accelerator equity. | - | [Submit Here](https://zeroraised.com/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
