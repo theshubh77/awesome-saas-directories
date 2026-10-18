@@ -223,6 +223,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 190 | **Thank John** | A curated AI tools directory offering permanent listings and dofollow backlinks for AI products. | 39 | [Submit Here](https://thankjohn.com/get-started?utm_source=launchdb.vercel.app&via=launchdb) |
 | 191 | **Public Prompts** | An independent AI tools directory to browse, filter, and submit verified AI products by pricing and use case. | 45 | [Submit Here](https://www.publicprompts.art/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 192 | **MEDIAPRONET** | A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page. | 40 | [Submit Here](https://mediapronet.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 193 | **LaunchOnIt** | A weekly product launch platform for startups, indie makers, and SaaS to launch products, earn community upvotes, and gain search visibility. | 40 | [Submit Here](https://launchon.it/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 

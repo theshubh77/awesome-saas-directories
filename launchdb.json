@@ -1515,5 +1515,13 @@
     "domain_rating": 40,
     "submission_link": "https://mediapronet.com/submit",
     "dr_last_updated": "2026-10-18"
+  },
+  {
+    "id": 193,
+    "name": "LaunchOnIt",
+    "description": "A weekly product launch platform for startups, indie makers, and SaaS to launch products, earn community upvotes, and gain search visibility.",
+    "domain_rating": 40,
+    "submission_link": "https://launchon.it/submit",
+    "dr_last_updated": "2026-10-18"
   }
 ]
