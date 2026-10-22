@@ -224,6 +224,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 191 | **Public Prompts** | An independent AI tools directory to browse, filter, and submit verified AI products by pricing and use case. | 45 | [Submit Here](https://www.publicprompts.art/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 192 | **MEDIAPRONET** | A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page. | 40 | [Submit Here](https://mediapronet.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 193 | **LaunchOnIt** | A weekly product launch platform for startups, indie makers, and SaaS to launch products, earn community upvotes, and gain search visibility. | 40 | [Submit Here](https://launchon.it/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **HokAI** | An editor-curated directory of AI tools, models, agents and MCP servers; vendors can list a product for a one-time fee or free with a badge, and rankings are never sold. | - | [Submit Here](https://hokai.io/business/vendors) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
