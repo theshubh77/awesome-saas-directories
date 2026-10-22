@@ -1526,6 +1526,14 @@
   },
   {
     "id": 194,
+    "name": "HokAI",
+    "description": "A curated AI directory to discover, compare, and submit AI tools, models, and agents with verified pricing and side-by-side evaluations.",
+    "domain_rating": 21,
+    "submission_link": "https://hokai.io/business/vendors",
+    "dr_last_updated": "2026-10-22"
+  },
+  {
+    "id": 195,
     "name": "SitePatent",
     "description": "A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page.",
     "domain_rating": 51,
