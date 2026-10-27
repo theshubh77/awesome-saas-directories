@@ -226,6 +226,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 193 | **LaunchOnIt** | A weekly product launch platform for startups, indie makers, and SaaS to launch products, earn community upvotes, and gain search visibility. | 40 | [Submit Here](https://launchon.it/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 194 | **HokAI** | A curated AI directory to discover, compare, and submit AI tools, models, and agents with verified pricing and side-by-side evaluations. | 21 | [Submit Here](https://hokai.io/business/vendors?utm_source=launchdb.vercel.app&via=launchdb) |
 | 195 | **SitePatent** | A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page. | 51 | [Submit Here](https://sitepatent.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **Estartapero** | A free map and directory of Latin American startups, in Portuguese and Spanish, where founders list their startup for a profile page. | - | [Submit Here](https://estartapero.io/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
