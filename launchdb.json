@@ -1539,5 +1539,13 @@
     "domain_rating": 51,
     "submission_link": "https://sitepatent.com/submit",
     "dr_last_updated": "2026-10-22"
+  },
+  {
+    "id": 196,
+    "name": "DiscoverLaunches",
+    "description": "A weekly launch board for indie makers and SaaS founders, with permanent product pages and dofollow links for a small badge.",
+    "domain_rating": 27,
+    "submission_link": "https://discoverlaunches.com/submit",
+    "dr_last_updated": "2026-10-28"
   }
 ]
