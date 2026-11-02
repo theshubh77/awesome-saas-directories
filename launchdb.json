@@ -944,9 +944,9 @@
     "id": 120,
     "name": "SHIP OR DIE",
     "description": "A public accountability platform for indie hackers to ship, track, and share products.",
-    "domain_rating": 12,
+    "domain_rating": 10,
     "submission_link": "https://shipordie.club/leaderboard",
-    "dr_last_updated": "2026-10-03"
+    "dr_last_updated": "2026-11-02"
   },
   {
     "id": 121,
