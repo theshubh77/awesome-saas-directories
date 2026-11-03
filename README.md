@@ -230,6 +230,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 197 | **DirRove** | A directory of curated directory websites, launch listing sites, and product submission channels for founders and makers. | - | [Submit Here](https://dirrove.com/submit) |
 | 198 | **LaunchRove** | A product launch platform where makers launch and get community votes on reviewed products across launch windows. | - | [Submit Here](https://launchrove.com/submit) |
 | 199 | **SaaSRove** | A curated SaaS products directory listing software, deals, and founder resources for teams and operators. | - | [Submit Here](https://saasrove.com/submit) |
+| 200 | **Aidirs** | A curated AI tools directory listing AI products, agents, and developer tools for founders and builders. | - | [Submit Here](https://aidirs.best/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
