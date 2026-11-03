@@ -226,6 +226,10 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 193 | **LaunchOnIt** | A weekly product launch platform for startups, indie makers, and SaaS to launch products, earn community upvotes, and gain search visibility. | 40 | [Submit Here](https://launchon.it/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 194 | **HokAI** | A curated AI directory to discover, compare, and submit AI tools, models, and agents with verified pricing and side-by-side evaluations. | 21 | [Submit Here](https://hokai.io/business/vendors?utm_source=launchdb.vercel.app&via=launchdb) |
 | 195 | **SitePatent** | A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page. | 51 | [Submit Here](https://sitepatent.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 196 | **DevRove** | A curated directory of developer tools, APIs, templates, infrastructure products, deals, and launch resources for builders. | - | [Submit Here](https://devrove.com/submit) |
+| 197 | **DirRove** | A directory of curated directory websites, launch listing sites, and product submission channels for founders and makers. | - | [Submit Here](https://dirrove.com/submit) |
+| 198 | **LaunchRove** | A product launch platform where makers launch and get community votes on reviewed products across launch windows. | - | [Submit Here](https://launchrove.com/submit) |
+| 199 | **SaaSRove** | A curated SaaS products directory listing software, deals, and founder resources for teams and operators. | - | [Submit Here](https://saasrove.com/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
