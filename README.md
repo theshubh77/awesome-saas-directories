@@ -226,6 +226,9 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 193 | **LaunchOnIt** | A weekly product launch platform for startups, indie makers, and SaaS to launch products, earn community upvotes, and gain search visibility. | 40 | [Submit Here](https://launchon.it/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 194 | **HokAI** | A curated AI directory to discover, compare, and submit AI tools, models, and agents with verified pricing and side-by-side evaluations. | 21 | [Submit Here](https://hokai.io/business/vendors?utm_source=launchdb.vercel.app&via=launchdb) |
 | 195 | **SitePatent** | A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page. | 51 | [Submit Here](https://sitepatent.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **PWA Directory** | A curated directory of installable Progressive Web Apps, with offline and install details for each listing. | - | [Submit Here](https://pwa.directory/submit) |
+| - | **WebApps Directory** | A curated directory of web apps that run in the browser: design and dev tools, editors, converters and browser games. | - | [Submit Here](https://webapps.directory/submit) |
+| - | **Boilerplates Directory** | A directory comparing SaaS starter kits and boilerplates by stack, pricing model and included features. | - | [Submit Here](https://boilerplates.directory/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
