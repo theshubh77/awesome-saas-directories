@@ -227,6 +227,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 194 | **HokAI** | A curated AI directory to discover, compare, and submit AI tools, models, and agents with verified pricing and side-by-side evaluations. | 21 | [Submit Here](https://hokai.io/business/vendors?utm_source=launchdb.vercel.app&via=launchdb) |
 | 195 | **SitePatent** | A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page. | 51 | [Submit Here](https://sitepatent.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 196 | **DebutPin** | A free launch platform for indie makers to ship products, get voted, and collect permanent pins. | 37 | [Submit Here](https://debutpin.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 197 | **DiscoverLaunches** | A weekly product launch board for indie makers and SaaS founders with public product profile pages. | 28 | [Submit Here](https://discoverlaunches.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
