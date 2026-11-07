@@ -1539,5 +1539,13 @@
     "domain_rating": 51,
     "submission_link": "https://sitepatent.com/submit",
     "dr_last_updated": "2026-10-22"
+  },
+  {
+    "id": 196,
+    "name": "DebutPin",
+    "description": "A free launch platform for indie makers to ship products, get voted, and collect permanent pins.",
+    "domain_rating": 37,
+    "submission_link": "https://debutpin.com/submit",
+    "dr_last_updated": "2026-11-07"
   }
 ]
