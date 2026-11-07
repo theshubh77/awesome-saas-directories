@@ -1563,5 +1563,13 @@
     "domain_rating": 7,
     "submission_link": "https://meetnewai.com/submit",
     "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 199,
+    "name": "RankCert",
+    "description": "A free weekly launch board for startups and SaaS, ranked by verified domain control, with a public product page for every launch.",
+    "domain_rating": 47,
+    "submission_link": "https://rankcert.com/home/products/new",
+    "dr_last_updated": "2026-11-07"
   }
 ]
