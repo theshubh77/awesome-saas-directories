@@ -1643,5 +1643,13 @@
     "domain_rating": 10,
     "submission_link": "https://launchfill.com/submit",
     "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 209,
+    "name": "FollowX",
+    "description": "A launchpad for founders to showcase products and gain visibility through verified community upvotes.",
+    "domain_rating": 32,
+    "submission_link": "https://followx.today/projects/new",
+    "dr_last_updated": "2026-11-07"
   }
 ]
