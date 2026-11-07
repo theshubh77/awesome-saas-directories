@@ -1635,5 +1635,13 @@
     "domain_rating": 53,
     "submission_link": "https://awesome.tools/submit",
     "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 208,
+    "name": "LaunchFill",
+    "description": "A weekly launch board and directory for AI tools where products launch each Monday and receive public product pages.",
+    "domain_rating": 10,
+    "submission_link": "https://launchfill.com/submit",
+    "dr_last_updated": "2026-11-07"
   }
 ]
