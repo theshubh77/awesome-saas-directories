@@ -1571,5 +1571,45 @@
     "domain_rating": 47,
     "submission_link": "https://rankcert.com/home/products/new",
     "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 200,
+    "name": "DevRove",
+    "description": "A curated directory of developer tools, APIs, templates, infrastructure products, deals, and launch resources for builders.",
+    "domain_rating": 20,
+    "submission_link": "https://devrove.com/submit",
+    "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 201,
+    "name": "DirRove",
+    "description": "A directory of curated directory websites, launch listing sites, and product submission channels for founders and makers.",
+    "domain_rating": 11,
+    "submission_link": "https://dirrove.com/submit",
+    "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 202,
+    "name": "LaunchRove",
+    "description": "A product launch platform where makers launch and get community votes on reviewed products across launch windows.",
+    "domain_rating": 20,
+    "submission_link": "https://launchrove.com/submit",
+    "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 203,
+    "name": "SaaSRove",
+    "description": "A curated SaaS products directory listing software, deals, and founder resources for teams and operators.",
+    "domain_rating": 24,
+    "submission_link": "https://saasrove.com/submit",
+    "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 204,
+    "name": "Aidirs",
+    "description": "A curated AI tools directory listing AI products, agents, and developer tools for founders and builders.",
+    "domain_rating": 63,
+    "submission_link": "https://aidirs.best/submit",
+    "dr_last_updated": "2026-10-15"
   }
 ]

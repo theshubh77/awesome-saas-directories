@@ -230,6 +230,11 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 197 | **DiscoverLaunches** | A weekly product launch board for indie makers and SaaS founders with public product profile pages. | 28 | [Submit Here](https://discoverlaunches.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 198 | **MeetNewAI** | A bilingual directory to discover and submit AI tools, AI games, and MCP servers categorized by use case. | 7 | [Submit Here](https://meetnewai.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 199 | **RankCert** | A free weekly launch board for startups and SaaS, ranked by verified domain control, with a public product page for every launch. | 47 | [Submit Here](https://rankcert.com/home/products/new?utm_source=launchdb.vercel.app&via=launchdb) |
+| 200 | **DevRove** | A curated directory of developer tools, APIs, templates, infrastructure products, deals, and launch resources for builders. | 20 | [Submit Here](https://devrove.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 201 | **DirRove** | A directory of curated directory websites, launch listing sites, and product submission channels for founders and makers. | 11 | [Submit Here](https://dirrove.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 202 | **LaunchRove** | A product launch platform where makers launch and get community votes on reviewed products across launch windows. | 20 | [Submit Here](https://launchrove.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 203 | **SaaSRove** | A curated SaaS products directory listing software, deals, and founder resources for teams and operators. | 24 | [Submit Here](https://saasrove.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 204 | **Aidirs** | A curated AI tools directory listing AI products, agents, and developer tools for founders and builders. | 63 | [Submit Here](https://aidirs.best/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
