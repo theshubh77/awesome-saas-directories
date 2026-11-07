@@ -1627,5 +1627,13 @@
     "domain_rating": 51,
     "submission_link": "https://shapelessai.com/ai-tools/submit",
     "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 207,
+    "name": "Awesome Tools",
+    "description": "A curated software and AI tools directory featuring category comparisons, editorial reviews, and submission APIs for developers.",
+    "domain_rating": 53,
+    "submission_link": "https://awesome.tools/submit",
+    "dr_last_updated": "2026-11-07"
   }
 ]
