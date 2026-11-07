@@ -1651,5 +1651,13 @@
     "domain_rating": 32,
     "submission_link": "https://followx.today/projects/new",
     "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 210,
+    "name": "IndieLaunch",
+    "description": "A launch platform for indie makers to showcase products, connect with early adopters, and gain discoverability.",
+    "domain_rating": 39,
+    "submission_link": "https://indielaunch.dev/submit",
+    "dr_last_updated": "2026-11-07"
   }
 ]
