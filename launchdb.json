@@ -1611,5 +1611,13 @@
     "domain_rating": 63,
     "submission_link": "https://aidirs.best/submit",
     "dr_last_updated": "2026-10-15"
+  },
+  {
+    "id": 205,
+    "name": "Siteefy",
+    "description": "A discovery and comparison directory to search and evaluate digital tools, websites, and online services.",
+    "domain_rating": 76,
+    "submission_link": "https://siteefy.com/submit-tool",
+    "dr_last_updated": "2026-11-07"
   }
 ]
