@@ -1619,5 +1619,13 @@
     "domain_rating": 76,
     "submission_link": "https://siteefy.com/submit-tool",
     "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 206,
+    "name": "Shapeless Directory",
+    "description": "A curated AI tools and software directory offering verified listings, MCP agent submissions, and structured product pages.",
+    "domain_rating": 51,
+    "submission_link": "https://shapelessai.com/ai-tools/submit",
+    "dr_last_updated": "2026-11-07"
   }
 ]

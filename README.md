@@ -236,6 +236,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 203 | **SaaSRove** | A curated SaaS products directory listing software, deals, and founder resources for teams and operators. | 24 | [Submit Here](https://saasrove.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 204 | **Aidirs** | A curated AI tools directory listing AI products, agents, and developer tools for founders and builders. | 63 | [Submit Here](https://aidirs.best/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 205 | **Siteefy** | A discovery and comparison directory to search and evaluate digital tools, websites, and online services. | 76 | [Submit Here](https://siteefy.com/submit-tool?utm_source=launchdb.vercel.app&via=launchdb) |
+| 206 | **Shapeless Directory** | A curated AI tools and software directory offering verified listings, MCP agent submissions, and structured product pages. | 51 | [Submit Here](https://shapelessai.com/ai-tools/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
