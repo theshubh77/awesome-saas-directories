@@ -1258,25 +1258,25 @@
     "id": 160,
     "name": "Mydentify",
     "description": "A product directory organized by user goals, with free, permanent product submissions.",
-    "domain_rating": 45,
+    "domain_rating": 48,
     "submission_link": "https://mydentify.com/submit",
-    "dr_last_updated": "2026-10-09"
+    "dr_last_updated": "2026-11-08"
   },
   {
     "id": 161,
     "name": "The Agents Index",
     "description": "A researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing.",
-    "domain_rating": 4,
+    "domain_rating": 6,
     "submission_link": "https://theagentsindex.com/submit",
-    "dr_last_updated": "2026-10-09"
+    "dr_last_updated": "2026-11-08"
   },
   {
     "id": 162,
     "name": "AIWget",
     "description": "A curated directory for discovering AI agents, workflow automation tools, and creative AI products.",
-    "domain_rating": 31,
+    "domain_rating": 32,
     "submission_link": "https://aiwget.com/submit",
-    "dr_last_updated": "2026-10-09"
+    "dr_last_updated": "2026-11-08"
   },
   {
     "id": 163,
@@ -1369,17 +1369,17 @@
     "id": 174,
     "name": "StartFast",
     "description": "A curated directory for founders and makers to discover and submit AI tools, apps, and tech products.",
-    "domain_rating": 0,
+    "domain_rating": 1,
     "submission_link": "https://startfa.st/submit",
-    "dr_last_updated": "2026-10-09"
+    "dr_last_updated": "2026-11-08"
   },
   {
     "id": 175,
     "name": "Vantaige",
     "description": "A curated directory and platform to discover, compare, and submit AI tools.",
-    "domain_rating": 30,
+    "domain_rating": 40,
     "submission_link": "https://vantaige.io/list-your-ai-tool",
-    "dr_last_updated": "2026-10-09"
+    "dr_last_updated": "2026-11-08"
   },
   {
     "id": 176,
