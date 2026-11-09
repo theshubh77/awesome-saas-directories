@@ -1691,5 +1691,13 @@
     "domain_rating": 30,
     "submission_link": "https://mozolist.com/submit",
     "dr_last_updated": "2026-11-09"
+  },
+  {
+    "id": 215,
+    "name": "LarkLaunch",
+    "description": "A weekly product launch platform where founders launch SaaS and AI tools to earn community upvotes and dofollow backlinks.",
+    "domain_rating": 22,
+    "submission_link": "https://larklaunch.com/submit",
+    "dr_last_updated": "2026-11-09"
   }
 ]
