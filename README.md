@@ -244,6 +244,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 211 | **Launchef** | A product launch platform featuring community upvotes, maker reviews, and discovery awards for new products. | 5 | [Submit Here](https://launchef.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 212 | **Launchyourgem** | A launch and discovery platform where founders showcase products to receive community upvotes and traffic. | 13 | [Submit Here](https://launchyourgem.com/new-launch?utm_source=launchdb.vercel.app&via=launchdb) |
 | 213 | **MakerHunt** | A daily product launch platform where indie makers submit and showcase new projects to gain early visibility. | 31 | [Submit Here](https://www.makerhunt.space/projects/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 214 | **MozoList** | A curated startup and SaaS directory where founders submit products to gain search visibility and dofollow backlinks. | 30 | [Submit Here](https://mozolist.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 

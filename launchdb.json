@@ -1683,5 +1683,13 @@
     "domain_rating": 31,
     "submission_link": "https://www.makerhunt.space/projects/submit",
     "dr_last_updated": "2026-11-09"
+  },
+  {
+    "id": 214,
+    "name": "MozoList",
+    "description": "A curated startup and SaaS directory where founders submit products to gain search visibility and dofollow backlinks.",
+    "domain_rating": 30,
+    "submission_link": "https://mozolist.com/submit",
+    "dr_last_updated": "2026-11-09"
   }
 ]
