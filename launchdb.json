@@ -1659,5 +1659,13 @@
     "domain_rating": 39,
     "submission_link": "https://indielaunch.dev/submit",
     "dr_last_updated": "2026-11-07"
+  },
+  {
+    "id": 211,
+    "name": "Launchef",
+    "description": "A product launch platform featuring community upvotes, maker reviews, and discovery awards for new products.",
+    "domain_rating": 5,
+    "submission_link": "https://launchef.com/submit",
+    "dr_last_updated": "2026-11-09"
   }
 ]

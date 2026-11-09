@@ -241,6 +241,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 208 | **LaunchFill** | A weekly launch board and directory for AI tools where products launch each Monday and receive public product pages. | 10 | [Submit Here](https://launchfill.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 209 | **FollowX** | A launchpad for founders to showcase products and gain visibility through verified community upvotes. | 32 | [Submit Here](https://followx.today/projects/new?utm_source=launchdb.vercel.app&via=launchdb) |
 | 210 | **IndieLaunch** | A launch platform for indie makers to showcase products, connect with early adopters, and gain discoverability. | 39 | [Submit Here](https://indielaunch.dev/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 211 | **Launchef** | A product launch platform featuring community upvotes, maker reviews, and discovery awards for new products. | 5 | [Submit Here](https://launchef.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
