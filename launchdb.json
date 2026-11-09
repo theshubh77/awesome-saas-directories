@@ -1667,5 +1667,13 @@
     "domain_rating": 5,
     "submission_link": "https://launchef.com/submit",
     "dr_last_updated": "2026-11-09"
+  },
+  {
+    "id": 212,
+    "name": "Launchyourgem",
+    "description": "A launch and discovery platform where founders showcase products to receive community upvotes and traffic.",
+    "domain_rating": 13,
+    "submission_link": "https://launchyourgem.com/new-launch",
+    "dr_last_updated": "2026-11-09"
   }
 ]
