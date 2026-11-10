@@ -1699,5 +1699,13 @@
     "domain_rating": 22,
     "submission_link": "https://larklaunch.com/submit",
     "dr_last_updated": "2026-11-09"
+  },
+  {
+    "id": 216,
+    "name": "Startup Buffer",
+    "description": "A global startup and tech directory where founders submit new products and apps for community discovery.",
+    "domain_rating": 45,
+    "submission_link": "https://startupbuffer.com/site/submit",
+    "dr_last_updated": "2026-11-10"
   }
 ]

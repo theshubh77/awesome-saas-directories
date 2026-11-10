@@ -246,6 +246,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 213 | **MakerHunt** | A daily product launch platform where indie makers submit and showcase new projects to gain early visibility. | 31 | [Submit Here](https://www.makerhunt.space/projects/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 214 | **MozoList** | A directory for SaaS and developer tools offering structured product pages, AI and search engine discoverability, and dofollow backlinks. | 30 | [Submit Here](https://mozolist.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 215 | **LarkLaunch** | A weekly product launch platform where founders launch SaaS and AI tools to earn community upvotes and dofollow backlinks. | 22 | [Submit Here](https://larklaunch.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 216 | **Startup Buffer** | A global startup and tech directory where founders submit new products and apps for community discovery. | 45 | [Submit Here](https://startupbuffer.com/site/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
