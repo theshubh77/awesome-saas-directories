@@ -1606,14 +1606,6 @@
   },
   {
     "id": 204,
-    "name": "Aidirs",
-    "description": "A curated AI tools directory listing AI products, agents, and developer tools for founders and builders.",
-    "domain_rating": 63,
-    "submission_link": "https://aidirs.best/submit",
-    "dr_last_updated": "2026-10-15"
-  },
-  {
-    "id": 205,
     "name": "Siteefy",
     "description": "A discovery and comparison directory to search and evaluate digital tools, websites, and online services.",
     "domain_rating": 76,
@@ -1621,7 +1613,7 @@
     "dr_last_updated": "2026-11-07"
   },
   {
-    "id": 206,
+    "id": 205,
     "name": "Shapeless Directory",
     "description": "A curated AI tools and software directory offering verified listings, MCP agent submissions, and structured product pages.",
     "domain_rating": 51,
@@ -1629,7 +1621,7 @@
     "dr_last_updated": "2026-11-07"
   },
   {
-    "id": 207,
+    "id": 206,
     "name": "Awesome Tools",
     "description": "A curated software and AI tools directory featuring category comparisons, editorial reviews, and submission APIs for developers.",
     "domain_rating": 53,
@@ -1637,7 +1629,7 @@
     "dr_last_updated": "2026-11-07"
   },
   {
-    "id": 208,
+    "id": 207,
     "name": "LaunchFill",
     "description": "A weekly launch board and directory for AI tools where products launch each Monday and receive public product pages.",
     "domain_rating": 10,
@@ -1645,7 +1637,7 @@
     "dr_last_updated": "2026-11-07"
   },
   {
-    "id": 209,
+    "id": 208,
     "name": "FollowX",
     "description": "A launchpad for founders to showcase products and gain visibility through verified community upvotes.",
     "domain_rating": 32,
@@ -1653,7 +1645,7 @@
     "dr_last_updated": "2026-11-07"
   },
   {
-    "id": 210,
+    "id": 209,
     "name": "IndieLaunch",
     "description": "A launch platform for indie makers to showcase products, connect with early adopters, and gain discoverability.",
     "domain_rating": 39,
@@ -1661,7 +1653,7 @@
     "dr_last_updated": "2026-11-07"
   },
   {
-    "id": 211,
+    "id": 210,
     "name": "Launchef",
     "description": "A product launch platform featuring community upvotes, maker reviews, and discovery awards for new products.",
     "domain_rating": 5,
@@ -1669,7 +1661,7 @@
     "dr_last_updated": "2026-11-09"
   },
   {
-    "id": 212,
+    "id": 211,
     "name": "Launchyourgem",
     "description": "A launch and discovery platform where founders showcase products to receive community upvotes and traffic.",
     "domain_rating": 13,
@@ -1677,7 +1669,7 @@
     "dr_last_updated": "2026-11-09"
   },
   {
-    "id": 213,
+    "id": 212,
     "name": "MakerHunt",
     "description": "A daily product launch platform where indie makers submit and showcase new projects to gain early visibility.",
     "domain_rating": 31,
@@ -1685,7 +1677,7 @@
     "dr_last_updated": "2026-11-09"
   },
   {
-    "id": 214,
+    "id": 213,
     "name": "MozoList",
     "description": "A directory for SaaS and developer tools offering structured product pages, AI and search engine discoverability, and dofollow backlinks.",
     "domain_rating": 30,
@@ -1693,7 +1685,7 @@
     "dr_last_updated": "2026-11-09"
   },
   {
-    "id": 215,
+    "id": 214,
     "name": "LarkLaunch",
     "description": "A weekly product launch platform where founders launch SaaS and AI tools to earn community upvotes and dofollow backlinks.",
     "domain_rating": 22,
@@ -1701,7 +1693,7 @@
     "dr_last_updated": "2026-11-09"
   },
   {
-    "id": 216,
+    "id": 215,
     "name": "Startup Buffer",
     "description": "A global startup and tech directory where founders submit new products and apps for community discovery.",
     "domain_rating": 45,
