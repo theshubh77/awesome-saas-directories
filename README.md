@@ -247,6 +247,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 214 | **LarkLaunch** | A weekly product launch platform where founders launch SaaS and AI tools to earn community upvotes and dofollow backlinks. | 22 | [Submit Here](https://larklaunch.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 215 | **Startup Buffer** | A global startup and tech directory where founders submit new products and apps for community discovery. | 45 | [Submit Here](https://startupbuffer.com/site/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 216 | **BetaNeon** | A product discovery directory for new apps, tools, and startups, covering launched products and public betas. | 11 | [Submit Here](https://betaneon.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 217 | **launched.tools** | A human-reviewed AI tool directory where products are evaluated, scored, and cataloged. | 52 | [Submit Here](https://launched.tools/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 

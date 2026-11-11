@@ -1707,5 +1707,13 @@
     "domain_rating": 11,
     "submission_link": "https://betaneon.com/submit",
     "dr_last_updated": "2026-11-11"
+  },
+  {
+    "id": 217,
+    "name": "launched.tools",
+    "description": "A human-reviewed AI tool directory where products are evaluated, scored, and cataloged.",
+    "domain_rating": 52,
+    "submission_link": "https://launched.tools/submit",
+    "dr_last_updated": "2026-11-11"
   }
 ]
