@@ -245,6 +245,8 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 212 | **BetaNeon** | A product discovery directory for new apps, tools, and startups, covering launched products and public betas. | 11 | [Submit Here](https://betaneon.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 213 | **launched.tools** | A human-reviewed AI tool directory where products are evaluated, scored, and cataloged. | 52 | [Submit Here](https://launched.tools/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
+| - | **Zivvi** | A directory and launch platform for web apps, SaaS, and AI tools ranked by daily worldwide traffic and community reviews. | - | [Submit Here](https://zivvi.app/submit) |
+
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
 ## 🤝 How to Contribute
