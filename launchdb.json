@@ -1266,9 +1266,9 @@
     "id": 161,
     "name": "Launchory",
     "description": "A startup directory where founders submit a product for free and get an approved listing with a dofollow link, upvotes, and a public profile page.",
-    "domain_rating": 54,
+    "domain_rating": 52,
     "submission_link": "https://www.launchory.app/submit",
-    "dr_last_updated": "2026-10-14"
+    "dr_last_updated": "2026-11-13"
   },
   {
     "id": 162,
@@ -1417,17 +1417,17 @@
     "id": 180,
     "name": "Postmake",
     "description": "A curated directory of tools and resources for startups, founders, and developers.",
-    "domain_rating": 51,
+    "domain_rating": 57,
     "submission_link": "https://postmake.io/submit",
-    "dr_last_updated": "2026-10-14"
+    "dr_last_updated": "2026-11-13"
   },
   {
     "id": 181,
     "name": "ShipGrowth",
     "description": "A curated directory to discover and submit AI products and tools to boost visibility.",
-    "domain_rating": 51,
+    "domain_rating": 52,
     "submission_link": "https://shipgrowth.dev/submit",
-    "dr_last_updated": "2026-10-14"
+    "dr_last_updated": "2026-11-13"
   },
   {
     "id": 182,
