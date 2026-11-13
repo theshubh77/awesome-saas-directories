@@ -1675,5 +1675,13 @@
     "domain_rating": 52,
     "submission_link": "https://launched.tools/submit",
     "dr_last_updated": "2026-11-11"
+  },
+  {
+    "id": 213,
+    "name": "Zivvi",
+    "description": "A directory and launch platform for web apps, SaaS, and AI tools ranked by traffic and community reviews.",
+    "domain_rating": 2,
+    "submission_link": "https://zivvi.app/submit",
+    "dr_last_updated": "2026-11-13"
   }
 ]

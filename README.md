@@ -243,6 +243,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 210 | **Startup Buffer** | A global startup and tech directory where founders submit new products and apps for community discovery. | 45 | [Submit Here](https://startupbuffer.com/site/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 211 | **BetaNeon** | A product discovery directory for new apps, tools, and startups, covering launched products and public betas. | 11 | [Submit Here](https://betaneon.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 212 | **launched.tools** | A human-reviewed AI tool directory where products are evaluated, scored, and cataloged. | 52 | [Submit Here](https://launched.tools/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 213 | **Zivvi** | A directory and launch platform for web apps, SaaS, and AI tools ranked by traffic and community reviews. | 2 | [Submit Here](https://zivvi.app/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
