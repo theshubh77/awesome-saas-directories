@@ -245,6 +245,10 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 212 | **Zivvi** | A directory and launch platform for web apps, SaaS, and AI tools ranked by traffic and community reviews. | 2 | [Submit Here](https://zivvi.app/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 213 | **AITrustList** | A directory of AI tools ranked by verified web traffic, engagement, and monthly growth metrics. | 38 | [Submit Here](https://aitrustlist.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 214 | **AIHuntList** | A categorized directory and navigation hub for discovering AI applications and software tools. | 60 | [Submit Here](https://aihuntlist.com/submission/new?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **TheSaaSDir** | A directory of SaaS and AI products, with free listings in exchange for a badge and paid featured listings. | - | [Submit Here](https://thesaasdir.com/submit/) |
+| - | **TheAIToolsDir** | A directory of AI tools, with free listings in exchange for a badge and paid featured listings. | - | [Submit Here](https://theaitoolsdir.com/submit/) |
+| - | **TheDevToolsDir** | A directory of developer tools organised by category, with free badge listings and paid featured listings. | - | [Submit Here](https://thedevtoolsdir.com/submit/) |
+| - | **IndieLineup** | A directory of indie products, side projects and micro-SaaS, with free badge listings and paid featured listings. | - | [Submit Here](https://indielineup.com/submit/) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
