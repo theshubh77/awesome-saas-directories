@@ -1699,5 +1699,13 @@
     "domain_rating": 41,
     "submission_link": "https://awesomeindie.com/submit",
     "dr_last_updated": "2026-11-17"
+  },
+  {
+    "id": 216,
+    "name": "Another Directory",
+    "description": "A directory of new software tools featuring dedicated product pages and categorized discovery.",
+    "domain_rating": 28,
+    "submission_link": "https://another.directory/submit",
+    "dr_last_updated": "2026-11-17"
   }
 ]

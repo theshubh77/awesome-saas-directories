@@ -246,6 +246,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 213 | **AITrustList** | A directory of AI tools ranked by verified web traffic, engagement, and monthly growth metrics. | 38 | [Submit Here](https://aitrustlist.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 214 | **AIHuntList** | A categorized directory and navigation hub for discovering AI applications and software tools. | 60 | [Submit Here](https://aihuntlist.com/submission/new?utm_source=launchdb.vercel.app&via=launchdb) |
 | 215 | **Awesome Indie** | A daily launchpad where indie makers, small teams, and solo founders launch products ranked by the community, with weekly, monthly, and yearly leaderboards. | 41 | [Submit Here](https://awesomeindie.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 216 | **Another Directory** | A directory of new software tools featuring dedicated product pages and categorized discovery. | 28 | [Submit Here](https://another.directory/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
