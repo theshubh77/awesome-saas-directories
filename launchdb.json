@@ -1707,5 +1707,37 @@
     "domain_rating": 28,
     "submission_link": "https://another.directory/submit",
     "dr_last_updated": "2026-11-17"
+  },
+  {
+    "id": 217,
+    "name": "TheSaaSDir",
+    "description": "A directory of SaaS and AI products featuring categorized listings and discovery spotlights.",
+    "domain_rating": 71,
+    "submission_link": "https://thesaasdir.com/submit/",
+    "dr_last_updated": "2026-11-17"
+  },
+  {
+    "id": 218,
+    "name": "TheAIToolsDir",
+    "description": "A directory of artificial intelligence tools organized by use case and industry category.",
+    "domain_rating": 58,
+    "submission_link": "https://theaitoolsdir.com/submit/",
+    "dr_last_updated": "2026-11-17"
+  },
+  {
+    "id": 219,
+    "name": "TheDevToolsDir",
+    "description": "A directory of developer tools, utilities, and APIs organized by technical category.",
+    "domain_rating": 51,
+    "submission_link": "https://thedevtoolsdir.com/submit/",
+    "dr_last_updated": "2026-11-17"
+  },
+  {
+    "id": 220,
+    "name": "IndieLineup",
+    "description": "A directory of indie products, side projects, and micro-SaaS solutions built by solo makers.",
+    "domain_rating": 58,
+    "submission_link": "https://indielineup.com/submit/",
+    "dr_last_updated": "2026-11-17"
   }
 ]

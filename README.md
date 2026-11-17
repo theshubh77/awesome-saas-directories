@@ -247,6 +247,10 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 214 | **AIHuntList** | A categorized directory and navigation hub for discovering AI applications and software tools. | 60 | [Submit Here](https://aihuntlist.com/submission/new?utm_source=launchdb.vercel.app&via=launchdb) |
 | 215 | **Awesome Indie** | A daily launchpad where indie makers, small teams, and solo founders launch products ranked by the community, with weekly, monthly, and yearly leaderboards. | 41 | [Submit Here](https://awesomeindie.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 216 | **Another Directory** | A directory of new software tools featuring dedicated product pages and categorized discovery. | 28 | [Submit Here](https://another.directory/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 217 | **TheSaaSDir** | A directory of SaaS and AI products featuring categorized listings and discovery spotlights. | 71 | [Submit Here](https://thesaasdir.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
+| 218 | **TheAIToolsDir** | A directory of artificial intelligence tools organized by use case and industry category. | 58 | [Submit Here](https://theaitoolsdir.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
+| 219 | **TheDevToolsDir** | A directory of developer tools, utilities, and APIs organized by technical category. | 51 | [Submit Here](https://thedevtoolsdir.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
+| 220 | **IndieLineup** | A directory of indie products, side projects, and micro-SaaS solutions built by solo makers. | 58 | [Submit Here](https://indielineup.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
