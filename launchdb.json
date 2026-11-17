@@ -1456,25 +1456,25 @@
     "id": 185,
     "name": "Public Prompts",
     "description": "An independent AI tools directory to browse, filter, and submit verified AI products by pricing and use case.",
-    "domain_rating": 45,
+    "domain_rating": 44,
     "submission_link": "https://www.publicprompts.art/submit",
-    "dr_last_updated": "2026-10-18"
+    "dr_last_updated": "2026-11-17"
   },
   {
     "id": 186,
     "name": "MEDIAPRONET",
     "description": "A launch directory where builders list newly launched startups, tools, and online products, each with a public profile page.",
-    "domain_rating": 40,
+    "domain_rating": 44,
     "submission_link": "https://mediapronet.com/submit",
-    "dr_last_updated": "2026-10-18"
+    "dr_last_updated": "2026-11-17"
   },
   {
     "id": 187,
     "name": "LaunchOnIt",
     "description": "A weekly product launch platform for startups, indie makers, and SaaS to launch products, earn community upvotes, and gain search visibility.",
-    "domain_rating": 40,
+    "domain_rating": 46,
     "submission_link": "https://launchon.it/submit",
-    "dr_last_updated": "2026-10-18"
+    "dr_last_updated": "2026-11-17"
   },
   {
     "id": 188,
