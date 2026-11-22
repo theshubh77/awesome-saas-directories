@@ -251,6 +251,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 218 | **TheAIToolsDir** | A directory of artificial intelligence tools organized by use case and industry category. | 58 | [Submit Here](https://theaitoolsdir.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 219 | **TheDevToolsDir** | A directory of developer tools, utilities, and APIs organized by technical category. | 51 | [Submit Here](https://thedevtoolsdir.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 220 | **IndieLineup** | A directory of indie products, side projects, and micro-SaaS solutions built by solo makers. | 58 | [Submit Here](https://indielineup.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
+| - | **Free AI Tools** | An AI tool directory with free-plan and discount information. Vendor submissions require a working discount code of at least 10%. | - | [Submit Here](https://www.freeaitool.top/submit) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
