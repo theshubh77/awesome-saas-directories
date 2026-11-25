@@ -1739,5 +1739,13 @@
     "domain_rating": 58,
     "submission_link": "https://indielineup.com/submit/",
     "dr_last_updated": "2026-11-17"
+  },
+  {
+    "id": 221,
+    "name": "CazaProducto",
+    "description": "A launch platform for makers and startups in Latin America, with daily rankings and Spanish-speaking early adopters.",
+    "domain_rating": 27,
+    "submission_link": "https://cazaproducto.com/productos/new",
+    "dr_last_updated": "2026-11-25"
   }
 ]
