@@ -1747,5 +1747,13 @@
     "domain_rating": 27,
     "submission_link": "https://cazaproducto.com/productos/new",
     "dr_last_updated": "2026-11-25"
+  },
+  {
+    "id": 222,
+    "name": "Toolradar",
+    "description": "A software and AI tool directory with prices checked on vendor pages; listing is free.",
+    "domain_rating": 70,
+    "submission_link": "https://toolradar.com/company/submit",
+    "dr_last_updated": "2026-11-25"
   }
 ]
