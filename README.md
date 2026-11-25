@@ -252,7 +252,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 219 | **TheDevToolsDir** | A directory of developer tools, utilities, and APIs organized by technical category. | 51 | [Submit Here](https://thedevtoolsdir.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 220 | **IndieLineup** | A directory of indie products, side projects, and micro-SaaS solutions built by solo makers. | 58 | [Submit Here](https://indielineup.com/submit/?utm_source=launchdb.vercel.app&via=launchdb) |
 | 221 | **CazaProducto** | A launch platform for makers and startups in Latin America, with daily rankings and Spanish-speaking early adopters. | 27 | [Submit Here](https://cazaproducto.com/productos/new?utm_source=launchdb.vercel.app&via=launchdb) |
-| 222 | **Toolradar** | A software and AI tool directory with prices checked on vendor pages; listing is free. | 70 | [Submit Here](https://toolradar.com/company/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 222 | **Toolradar** | A software and AI tool directory featuring verified pricing data, limits, and product comparisons. | 70 | [Submit Here](https://toolradar.com/company/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
