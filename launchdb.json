@@ -1787,5 +1787,13 @@
     "domain_rating": 66,
     "submission_link": "https://launchtory.com/projects/new",
     "dr_last_updated": "2026-11-28"
+  },
+  {
+    "id": 227,
+    "name": "Makerora",
+    "description": "A community-driven launchpad for indie SaaS founders to submit products, build in public, and get discovered by early adopters.",
+    "domain_rating": 23,
+    "submission_link": "https://themakerora.com/submit",
+    "dr_last_updated": "2026-11-28"
   }
 ]
