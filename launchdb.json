@@ -1755,5 +1755,13 @@
     "domain_rating": 70,
     "submission_link": "https://toolradar.com/company/submit",
     "dr_last_updated": "2026-11-25"
+  },
+  {
+    "id": 223,
+    "name": "SaaSGraded",
+    "description": "A SaaS directory that grades each listed tool on a published checklist read from its own website.",
+    "domain_rating": 0,
+    "submission_link": "https://saasgraded.com/submit",
+    "dr_last_updated": "2026-11-28"
   }
 ]
