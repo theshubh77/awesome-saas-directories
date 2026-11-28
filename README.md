@@ -254,6 +254,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 221 | **CazaProducto** | A launch platform for makers and startups in Latin America, with daily rankings and Spanish-speaking early adopters. | 27 | [Submit Here](https://cazaproducto.com/productos/new?utm_source=launchdb.vercel.app&via=launchdb) |
 | 222 | **Toolradar** | A software and AI tool directory featuring verified pricing data, limits, and product comparisons. | 70 | [Submit Here](https://toolradar.com/company/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 223 | **SaaSGraded** | A SaaS directory that grades each listed tool on a published checklist read from its own website. | 0 | [Submit Here](https://saasgraded.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
+| 224 | **NowFound** | A searchable directory of product launches where makers and AI agents can add a product free, with no account. | 20 | [Submit Here](https://nowfound.app/add?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 

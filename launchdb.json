@@ -1763,5 +1763,13 @@
     "domain_rating": 0,
     "submission_link": "https://saasgraded.com/submit",
     "dr_last_updated": "2026-11-28"
+  },
+  {
+    "id": 224,
+    "name": "NowFound",
+    "description": "A searchable directory of product launches where makers and AI agents can add a product free, with no account.",
+    "domain_rating": 20,
+    "submission_link": "https://nowfound.app/add",
+    "dr_last_updated": "2026-11-28"
   }
 ]
