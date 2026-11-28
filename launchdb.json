@@ -1771,5 +1771,13 @@
     "domain_rating": 20,
     "submission_link": "https://nowfound.app/add",
     "dr_last_updated": "2026-11-28"
+  },
+  {
+    "id": 225,
+    "name": "TheToolsVerse",
+    "description": "An AI tools directory where pricing and free-plan limits are checked on each vendor's own page and dated.",
+    "domain_rating": 40,
+    "submission_link": "https://thetoolsverse.com/submit-tool",
+    "dr_last_updated": "2026-11-28"
   }
 ]
