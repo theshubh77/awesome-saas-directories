@@ -1779,5 +1779,13 @@
     "domain_rating": 40,
     "submission_link": "https://thetoolsverse.com/submit-tool",
     "dr_last_updated": "2026-11-28"
+  },
+  {
+    "id": 226,
+    "name": "Launchtory",
+    "description": "An AI-focused launch directory and startup showcase for indie makers and startup teams.",
+    "domain_rating": 66,
+    "submission_link": "https://launchtory.com/projects/new",
+    "dr_last_updated": "2026-11-28"
   }
 ]

@@ -256,6 +256,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 223 | **SaaSGraded** | A SaaS directory that grades each listed tool on a published checklist read from its own website. | 0 | [Submit Here](https://saasgraded.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 224 | **NowFound** | A searchable directory of product launches where makers and AI agents can add a product free, with no account. | 20 | [Submit Here](https://nowfound.app/add?utm_source=launchdb.vercel.app&via=launchdb) |
 | 225 | **TheToolsVerse** | An AI tools directory where pricing and free-plan limits are checked on each vendor's own page and dated. | 40 | [Submit Here](https://thetoolsverse.com/submit-tool?utm_source=launchdb.vercel.app&via=launchdb) |
+| 226 | **Launchtory** | An AI-focused launch directory and startup showcase for indie makers and startup teams. | 66 | [Submit Here](https://launchtory.com/projects/new?utm_source=launchdb.vercel.app&via=launchdb) |
 
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
